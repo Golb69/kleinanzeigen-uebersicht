@@ -346,7 +346,6 @@ def build_topic_page(topic: str, ads: dict, themen_dir: Path) -> None:
             f"<div class='card-title'>{ad['title']}</div>"
             f"<div class='card-price'>💰 {price}</div>"
             f"<div class='card-meta'>📍 {location}</div>"
-            f"<div class='card-meta'>🗓️ {date}</div>"
             f"</div></a>"
         )
 

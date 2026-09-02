@@ -478,8 +478,59 @@ def build_rss_feeds(cache: dict, feeds_dir: Path, site_base_url: str) -> None:
             image = ad.get("image")
             image_html = f"<img src='{xml_escape(image)}'/><br/>" if image else ""
 
-            items.append(f"""
+                        items.append(f"""
     <item>
       <title>{title}</title>
       <link>{link}</link>
-      <guid isPermaLink="false">{
+      <guid isPermaLink="false">{ad['id']}</guid>
+      <pubDate>{format_datetime(pub_dt)}</pubDate>
+      <description><![CDATA[{image_html}{description}]]></description>
+    </item>""")
+
+        feed_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Kleinanzeigen: {xml_escape(topic)}</title>
+    <link>{xml_escape(site_base_url)}</link>
+    <description>Automatisch aktualisierte Kleinanzeigen-Ergebnisse für {xml_escape(topic)}</description>
+    <language>de-de</language>
+    <lastBuildDate>{format_datetime(datetime.now(timezone.utc))}</lastBuildDate>
+{''.join(items)}
+  </channel>
+</rss>"""
+
+        filename.write_text(feed_xml, encoding="utf-8")
+
+
+def main() -> None:
+    topics = load_links(LINKS_FILE)
+    cache = load_cache(CACHE_FILE)
+
+    total_links = sum(len(urls) for urls in topics.values())
+    print(f"{len(topics)} Themen, {total_links} Links insgesamt.")
+
+    session = requests.Session()
+
+    for topic, urls in topics.items():
+        for url in urls:
+            if not needs_refetch(cache, url):
+                continue
+            try:
+                print(f"[INFO] Hole {topic}: {url}")
+                ads = fetch_all_pages(session, url)   # ⭐ neue Pagination
+                print(f"[OK] {topic}: {url} -> {len(ads)} gefilterte Anzeigen gesamt")
+                update_cache_with_ads(cache, topic, ads)
+                cache["fetched_urls"][url] = datetime.now(timezone.utc).isoformat()
+            except requests.RequestException as e:
+                print(f"[FEHLER] {url}: {e}")
+
+            save_cache(CACHE_FILE, cache)
+            build_all_html(cache, OUTPUT_HTML, THEMEN_DIR)
+            build_rss_feeds(cache, FEEDS_DIR, SITE_BASE_URL)
+            time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
+
+    print("Fertig.")
+
+
+if __name__ == "__main__":
+    main()

@@ -2,32 +2,38 @@ name: Kleinanzeigen Aggregator
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "*/30 * * * *"   # alle 30 Minuten
+  workflow_dispatch:         # manuell startbar
 
 jobs:
-  scrape:
+  run-scraper:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
         with:
-          python-version: '3.12'
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
       - name: Abhängigkeiten installieren
-        run: pip install requests beautifulsoup4
-
-      - name: Aggregator ausführen
-        run: python aggregator.py
-
-      - name: Ergebnisse committen
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --staged --quiet || git commit -m "Update Kleinanzeigen results"
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Scraper ausführen
+        run: |
+          python aggregator.py
+
+      - name: Änderungen committen
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+          git add index.html themen feeds cache.json || true
+          git commit -m "Automatisch aktualisierte HTML-Dateien" || echo "Keine Änderungen"
           git push

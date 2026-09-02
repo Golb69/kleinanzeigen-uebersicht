@@ -35,7 +35,7 @@ HEADERS = {
 }
 
 AD_URL_RE = re.compile(r"/s-anzeige/[^/]+/(\d+)-")
-PRICE_RE = re.compile(r"[\d.,]+\s*€(?:\s*VB)?|Zu verschenken|VB")
+PRICE_RE = re.compile(r"([\d.,]+)\s*€(?:\s*VB)?|Zu verschenken|VB")
 PLZ_ORT_RE = re.compile(r"\b\d{5}\s+[A-ZÄÖÜ][\wÄÖÜäöüß\-\s/]+")
 DATUM_RE = re.compile(r"(Heute|Gestern),\s*\d{2}:\d{2}|\d{2}\.\d{2}\.\d{4}")
 
@@ -45,6 +45,13 @@ EXCLUDE_KEYWORDS = [
     "defekt", "kaputt", "bastler", "nur teile", "ohne funktion",
     "funktioniert nicht", "schrott", "als ersatzteil"
 ]
+
+# ---------- Filter-Konfiguration ----------
+# Leere Listen / None = kein Filter
+TITLE_CONTAINS = []          # z.B. ["4k", "3d"]
+LOCATION_CONTAINS = []       # z.B. ["Berlin", "Thüringen"]
+MIN_PRICE = None             # z.B. 50
+MAX_PRICE = 250              # z.B. 250
 
 
 def contains_excluded_words(text: str) -> bool:
@@ -74,15 +81,18 @@ def load_links(path: Path) -> dict[str, list[str]]:
 
 def load_cache(path: Path) -> dict:
     if path.exists():
-        data = json.loads(path.read_text(encoding="utf-8"))
-        # Migration alter Cache-Dateien
-        if "fetched_urls" not in data:
-            data["fetched_urls"] = {}
-        if "ads" not in data:
-            data["ads"] = {}
-        return data
-    return {"fetched_urls": {}, "ads": {}}
-
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            data = {}
+    else:
+        data = {}
+    # Robust: fehlende Keys ergänzen
+    if not isinstance(data, dict):
+        data = {}
+    data.setdefault("fetched_urls", {})
+    data.setdefault("ads", {})
+    return data
 
 
 def save_cache(path: Path, cache: dict) -> None:
@@ -90,12 +100,56 @@ def save_cache(path: Path, cache: dict) -> None:
 
 
 def needs_refetch(cache: dict, url: str) -> bool:
-    last = cache["fetched_urls"].get(url)
+    fetched = cache.get("fetched_urls", {})
+    last = fetched.get(url)
     if last is None:
         return True
-    last_dt = datetime.fromisoformat(last)
+    try:
+        last_dt = datetime.fromisoformat(last)
+    except ValueError:
+        return True
     age_hours = (datetime.now(timezone.utc) - last_dt).total_seconds() / 3600
     return age_hours >= CACHE_HOURS
+
+
+def parse_price_to_int(price_str: str | None) -> int | None:
+    if not price_str:
+        return None
+    price_str = price_str.strip()
+    if "Zu verschenken" in price_str:
+        return 0
+    m = re.search(r"([\d.,]+)", price_str)
+    if not m:
+        return None
+    num = m.group(1).replace(".", "").replace(",", ".")
+    try:
+        return int(float(num))
+    except ValueError:
+        return None
+
+
+def passes_filters(ad: dict) -> bool:
+    title = (ad.get("title") or "").lower()
+    location = (ad.get("location") or "").lower()
+    price_val = parse_price_to_int(ad.get("price"))
+
+    if TITLE_CONTAINS:
+        if not any(k.lower() in title for k in TITLE_CONTAINS):
+            return False
+
+    if LOCATION_CONTAINS:
+        if not any(k.lower() in location for k in LOCATION_CONTAINS):
+            return False
+
+    if MIN_PRICE is not None and price_val is not None:
+        if price_val < MIN_PRICE:
+            return False
+
+    if MAX_PRICE is not None and price_val is not None:
+        if price_val > MAX_PRICE:
+            return False
+
+    return True
 
 
 def fetch_detail_page(session: requests.Session, url: str) -> dict:
@@ -119,7 +173,7 @@ def fetch_detail_page(session: requests.Session, url: str) -> dict:
     }
 
 
-def parse_listing_page(html: str, session: requests.Session) -> list[dict]:
+def parse_listing_page(html: str, session: requests.Session) -> tuple[list[dict], str | None]:
     soup = BeautifulSoup(html, "html.parser")
     results = []
     seen_ids = set()
@@ -173,7 +227,7 @@ def parse_listing_page(html: str, session: requests.Session) -> list[dict]:
         except requests.RequestException:
             pass
 
-        results.append({
+        ad = {
             "id": ad_id,
             "title": title,
             "price": price,
@@ -181,26 +235,62 @@ def parse_listing_page(html: str, session: requests.Session) -> list[dict]:
             "date": date,
             "image": image,
             "url": href,
-        })
+        }
 
-    return results
+        if passes_filters(ad):
+            results.append(ad)
+
+    # Pagination: nächste Seite suchen (href mit '/seite:' oder rel="next")
+    next_url = None
+    # 1) rel="next"
+    link_next = soup.find("a", rel="next")
+    if link_next and link_next.get("href"):
+        href = link_next["href"]
+        if href.startswith("/"):
+            href = "https://www.kleinanzeigen.de" + href
+        next_url = href
+    else:
+        # 2) irgendein Link mit '/seite:' im Pfad
+        for a in soup.find_all("a", href=True):
+            if "/seite:" in a["href"]:
+                href = a["href"]
+                if href.startswith("/"):
+                    href = "https://www.kleinanzeigen.de" + href
+                next_url = href
+                break
+
+    return results, next_url
 
 
-def fetch_search_page(session: requests.Session, url: str) -> list[dict]:
-    resp = session.get(url, headers=HEADERS, timeout=15)
-    resp.raise_for_status()
-    return parse_listing_page(resp.text, session)
+def fetch_search_pages(session: requests.Session, start_url: str) -> list[dict]:
+    all_ads: list[dict] = []
+    url = start_url
+    page_no = 1
+
+    while url:
+        resp = session.get(url, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+        ads, next_url = parse_listing_page(resp.text, session)
+        all_ads.extend(ads)
+        print(f"  Seite {page_no}: {len(ads)} gefilterte Anzeigen")
+        url = next_url
+        page_no += 1
+        if url:
+            time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
+
+    return all_ads
 
 
 def update_cache_with_ads(cache: dict, topic: str, ads: list[dict]) -> None:
     now = datetime.now(timezone.utc).isoformat()
-    topic_ads = cache["ads"].setdefault(topic, {})
+    ads_root = cache.setdefault("ads", {})
+    topic_ads = ads_root.setdefault(topic, {})
     for ad in ads:
         if ad["id"] not in topic_ads:
             ad["first_seen"] = now
             topic_ads[ad["id"]] = ad
         else:
-            first_seen = topic_ads[ad["id"]]["first_seen"]
+            first_seen = topic_ads[ad["id"]].get("first_seen", now)
             ad["first_seen"] = first_seen
             topic_ads[ad["id"]] = ad
 
@@ -308,7 +398,7 @@ def build_index_html(cache: dict, output: Path, themen_dir: Path) -> None:
         "<ul class='topic-list'>",
     ]
 
-    for topic, ads in cache["ads"].items():
+    for topic, ads in cache.get("ads", {}).items():
         link = f"{themen_dir.name}/{safe_filename(topic)}.html"
         parts.append(
             f"<li><a href='{link}'>{topic}"
@@ -346,6 +436,7 @@ def build_topic_page(topic: str, ads: dict, themen_dir: Path) -> None:
             f"<div class='card-title'>{ad['title']}</div>"
             f"<div class='card-price'>💰 {price}</div>"
             f"<div class='card-meta'>📍 {location}</div>"
+            f"<div class='card-meta'>🗓️ {date}</div>"
             f"</div></a>"
         )
 
@@ -357,14 +448,14 @@ def build_topic_page(topic: str, ads: dict, themen_dir: Path) -> None:
 
 def build_all_html(cache: dict, output: Path, themen_dir: Path) -> None:
     build_index_html(cache, output, themen_dir)
-    for topic, ads in cache["ads"].items():
+    for topic, ads in cache.get("ads", {}).items():
         build_topic_page(topic, ads, themen_dir)
 
 
 def build_rss_feeds(cache: dict, feeds_dir: Path, site_base_url: str) -> None:
     feeds_dir.mkdir(exist_ok=True)
 
-    for topic, ads in cache["ads"].items():
+    for topic, ads in cache.get("ads", {}).items():
         ad_list = sorted(ads.values(), key=lambda a: a.get("first_seen", ""), reverse=True)
         filename = feeds_dir / f"{safe_filename(topic)}.xml"
 
@@ -421,10 +512,11 @@ def main() -> None:
             if not needs_refetch(cache, url):
                 continue
             try:
-                ads = fetch_search_page(session, url)
+                print(f"[INFO] Hole {topic}: {url}")
+                ads = fetch_search_pages(session, url)
+                print(f"[OK] {topic}: {url} -> {len(ads)} gefilterte Anzeigen gesamt")
                 update_cache_with_ads(cache, topic, ads)
                 cache["fetched_urls"][url] = datetime.now(timezone.utc).isoformat()
-                print(f"[OK] {topic}: {url} -> {len(ads)} Anzeigen")
             except requests.RequestException as e:
                 print(f"[FEHLER] {url}: {e}")
 

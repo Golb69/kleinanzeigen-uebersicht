@@ -1,0 +1,31 @@
+name: Reset Cache
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  reset:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Reset cache and generated files
+        run: |
+          echo "{}" > cache.json
+          rm -rf themen
+          rm -rf feeds
+          rm -f index.html
+
+      - name: Commit reset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Reset cache and generated files" || echo "Nothing to commit"
+          git push

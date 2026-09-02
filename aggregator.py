@@ -1,531 +1,266 @@
+#!/usr/bin/env python3
 import re
+import time
 import json
 import random
-import time
-from pathlib import Path
-from datetime import datetime, timezone
-from email.utils import format_datetime
-from xml.sax.saxutils import escape as xml_escape
+from dataclasses import dataclass, asdict
+from typing import List, Optional
 
 import requests
 from bs4 import BeautifulSoup
 
-# ---------- Konfiguration ----------
-BASE_DIR = Path(__file__).resolve().parent
-
-LINKS_FILE = BASE_DIR / "links.txt"
-CACHE_FILE = BASE_DIR / "cache.json"
-OUTPUT_HTML = BASE_DIR / "index.html"
-THEMEN_DIR = BASE_DIR / "themen"
-FEEDS_DIR = BASE_DIR / "feeds"
-
-SITE_BASE_URL = "https://github.com/Golb69/kleinanzeigen-uebersicht"
-
-MIN_DELAY = 6
-MAX_DELAY = 14
-CACHE_HOURS = 6
-MAX_ADS_PER_TOPIC = 60
+# ------------------------------------------------------------
+# KONFIGURATION
+# ------------------------------------------------------------
 
 HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-    ),
-    "Accept-Language": "de-DE,de;q=0.9",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/126.0 Safari/537.36"
+    )
 }
 
-AD_URL_RE = re.compile(r"/s-anzeige/[^/]+/(\d+)-")
-PRICE_RE = re.compile(r"([\d.,]+)\s*€(?:\s*VB)?|Zu verschenken|VB")
-PLZ_ORT_RE = re.compile(r"\b\d{5}\s+[A-ZÄÖÜ][\wÄÖÜäöüß\-\s/]+")
-DATUM_RE = re.compile(r"(Heute|Gestern),\s*\d{2}:\d{2}|\d{2}\.\d{2}\.\d{4}")
-
-INVALID_FILENAME_CHARS = '\\/:*?"<>|'
-
-EXCLUDE_KEYWORDS = [
-    "defekt", "kaputt", "bastler", "nur teile", "ohne funktion",
-    "funktioniert nicht", "schrott", "als ersatzteil"
+# Deine Themen + Links
+TOPICS = [
+    {
+        "name": "3D - Thüringen",
+        "urls": [
+            "https://www.kleinanzeigen.de/s-thueringen/preis::250/4k-3d/k0l3548",
+        ],
+    },
+    {
+        "name": "3D - Berlin",
+        "urls": [
+            "https://www.kleinanzeigen.de/s-berlin/preis::250/4k-3d/k0l3331",
+        ],
+    },
+    {
+        "name": "3D - Deutschland",
+        "urls": [
+            "https://www.kleinanzeigen.de/s-preis::250/4K%203D/k0",
+        ],
+    },
 ]
 
-# ---------- Filter-Konfiguration ----------
-# Leere Listen / None = kein Filter
-TITLE_CONTAINS = []          # z.B. ["4k", "3d"]
-LOCATION_CONTAINS = []       # z.B. ["Berlin", "Thüringen"]
-MIN_PRICE = None             # z.B. 50
-MAX_PRICE = 250              # z.B. 250
+# Ausgabe-Dateien
+OUTPUT_JSON = "results.json"
+OUTPUT_HTML = "results.html"
 
+# ------------------------------------------------------------
+# DATENSTRUKTUR
+# ------------------------------------------------------------
 
-def contains_excluded_words(text: str) -> bool:
-    text_lower = text.lower()
-    return any(word in text_lower for word in EXCLUDE_KEYWORDS)
+@dataclass
+class Ad:
+    topic: str
+    title: str
+    price: Optional[int]
+    location: str
+    url: str
 
+# ------------------------------------------------------------
+# HILFSFUNKTIONEN
+# ------------------------------------------------------------
 
-def load_links(path: Path) -> dict[str, list[str]]:
-    if not path.exists():
-        raise FileNotFoundError(
-            f"'{path}' wurde nicht gefunden. Bist du im richtigen Ordner? "
-            f"Aktueller Ordner: {Path.cwd()}"
-        )
-    topics: dict[str, list[str]] = {}
-    current = None
-    for raw_line in path.read_text(encoding="utf-8").splitlines():
-        line = raw_line.strip()
-        if not line:
-            continue
-        if line.startswith("[") and line.endswith("]"):
-            current = line[1:-1].strip()
-            topics.setdefault(current, [])
-        elif current is not None and line.startswith("http"):
-            topics[current].append(line)
-    return topics
-
-
-def load_cache(path: Path) -> dict:
-    if path.exists():
-        try:
-            data = json.loads(path.read_text(encoding="utf-8"))
-        except json.JSONDecodeError:
-            data = {}
-    else:
-        data = {}
-    # Robust: fehlende Keys ergänzen
-    if not isinstance(data, dict):
-        data = {}
-    data.setdefault("fetched_urls", {})
-    data.setdefault("ads", {})
-    return data
-
-
-def save_cache(path: Path, cache: dict) -> None:
-    path.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
-
-
-def needs_refetch(cache: dict, url: str) -> bool:
-    fetched = cache.get("fetched_urls", {})
-    last = fetched.get(url)
-    if last is None:
-        return True
-    try:
-        last_dt = datetime.fromisoformat(last)
-    except ValueError:
-        return True
-    age_hours = (datetime.now(timezone.utc) - last_dt).total_seconds() / 3600
-    return age_hours >= CACHE_HOURS
-
-
-def parse_price_to_int(price_str: str | None) -> int | None:
-    if not price_str:
+def parse_price(text: str) -> Optional[int]:
+    if not text:
         return None
-    price_str = price_str.strip()
-    if "Zu verschenken" in price_str:
-        return 0
-    m = re.search(r"([\d.,]+)", price_str)
+    m = re.search(r"(\d+)", text.replace(".", ""))
     if not m:
         return None
-    num = m.group(1).replace(".", "").replace(",", ".")
     try:
-        return int(float(num))
+        return int(m.group(1))
     except ValueError:
         return None
 
 
-def passes_filters(ad: dict) -> bool:
-    title = (ad.get("title") or "").lower()
-    location = (ad.get("location") or "").lower()
-    price_val = parse_price_to_int(ad.get("price"))
-
-    if TITLE_CONTAINS:
-        if not any(k.lower() in title for k in TITLE_CONTAINS):
-            return False
-
-    if LOCATION_CONTAINS:
-        if not any(k.lower() in location for k in LOCATION_CONTAINS):
-            return False
-
-    if MIN_PRICE is not None and price_val is not None:
-        if price_val < MIN_PRICE:
-            return False
-
-    if MAX_PRICE is not None and price_val is not None:
-        if price_val > MAX_PRICE:
-            return False
-
-    return True
-
-
-def fetch_detail_page(session: requests.Session, url: str) -> dict:
-    resp = session.get(url, headers=HEADERS, timeout=15)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
-
-    title_tag = soup.find("h1", id="viewad-title")
-    title = title_tag.get_text(strip=True) if title_tag else None
-
-    price_tag = soup.find("h2", id="viewad-price")
-    price = price_tag.get_text(strip=True) if price_tag else None
-
-    locality_tag = soup.find("span", id="viewad-locality")
-    location = locality_tag.get_text(strip=True) if locality_tag else None
-
-    return {
-        "title": title,
-        "price": price,
-        "location": location
-    }
-
-
-def parse_listing_page(html: str, session: requests.Session) -> tuple[list[dict], str | None]:
+def parse_listing_page(html: str) -> List[Ad]:
     soup = BeautifulSoup(html, "html.parser")
-    results = []
-    seen_ids = set()
+    ads: List[Ad] = []
 
-    for a in soup.find_all("a", href=True):
-        m = AD_URL_RE.search(a["href"])
-        if not m:
-            continue
-        ad_id = m.group(1)
-        if ad_id in seen_ids:
-            continue
-        seen_ids.add(ad_id)
-
-        container = a.find_parent(["article", "li", "div"]) or a
-
-        title = a.get_text(strip=True)
-        if not title:
-            text_for_title = container.get_text(" ", strip=True)
-            parts = text_for_title.split()
-            title = " ".join(parts[:10]) if parts else "Anzeige"
-
-        text = container.get_text(" ", strip=True)
-
-        if contains_excluded_words(text):
+    for article in soup.find_all("article"):
+        a_title = article.find("a", attrs={"class": re.compile("aditem.*")})
+        if not a_title:
             continue
 
-        price_match = PRICE_RE.search(text)
-        price = price_match.group(0) if price_match else None
+        title = a_title.get_text(strip=True)
+        url = a_title.get("href", "")
+        if url.startswith("/"):
+            url = "https://www.kleinanzeigen.de" + url
 
-        location_match = PLZ_ORT_RE.search(text)
-        location = location_match.group(0) if location_match else None
+        price_el = article.find("p", attrs={"class": re.compile("aditem-main--price")})
+        price_text = price_el.get_text(strip=True) if price_el else ""
+        price = parse_price(price_text)
 
-        date_match = DATUM_RE.search(text)
-        date = date_match.group(0) if date_match else None
+        loc_el = article.find("div", attrs={"class": re.compile("aditem-main--top")})
+        location = loc_el.get_text(" ", strip=True) if loc_el else ""
 
-        img_tag = container.find("img")
-        image = None
-        if img_tag:
-            image = img_tag.get("src") or img_tag.get("data-src") or img_tag.get("data-imgsrc")
+        ads.append(
+            Ad(
+                topic="",
+                title=title,
+                price=price,
+                location=location,
+                url=url,
+            )
+        )
 
-        href = a["href"]
-        if href.startswith("/"):
-            href = "https://www.kleinanzeigen.de" + href
-
-        # Detailseite holen und Daten überschreiben/ergänzen
-        try:
-            details = fetch_detail_page(session, href)
-            title = details["title"] or title
-            price = details["price"] or price
-            location = details["location"] or location
-        except requests.RequestException:
-            pass
-
-        ad = {
-            "id": ad_id,
-            "title": title,
-            "price": price,
-            "location": location,
-            "date": date,
-            "image": image,
-            "url": href,
-        }
-
-        if passes_filters(ad):
-            results.append(ad)
-
-    # Pagination: nächste Seite suchen (href mit '/seite:' oder rel="next")
-    next_url = None
-    # 1) rel="next"
-    link_next = soup.find("a", rel="next")
-    if link_next and link_next.get("href"):
-        href = link_next["href"]
-        if href.startswith("/"):
-            href = "https://www.kleinanzeigen.de" + href
-        next_url = href
-    else:
-        # 2) irgendein Link mit '/seite:' im Pfad
-        for a in soup.find_all("a", href=True):
-            if "/seite:" in a["href"]:
-                href = a["href"]
-                if href.startswith("/"):
-                    href = "https://www.kleinanzeigen.de" + href
-                next_url = href
-                break
-
-    return results, next_url
+    return ads
 
 
-def fetch_search_pages(session: requests.Session, start_url: str) -> list[dict]:
-    all_ads: list[dict] = []
-    url = start_url
-    page_no = 1
+def fetch_all_pages(session: requests.Session, base_url: str) -> List[Ad]:
+    all_ads: List[Ad] = []
 
-    while url:
+    # Seite 1
+    print(f"[INFO] Hole Seite 1: {base_url}")
+    resp = session.get(base_url, headers=HEADERS, timeout=15)
+    resp.raise_for_status()
+    ads = parse_listing_page(resp.text)
+    print(f"[INFO] Seite 1: {len(ads)} Anzeigen")
+    all_ads.extend(ads)
+
+    # Seiten 2–20
+    for page in range(2, 21):
+        base_clean = re.sub(r"/seite:\d+/?", "/", base_url).rstrip("/")
+        url = f"{base_clean}/seite:{page}/"
+
+        print(f"[INFO] Probiere Seite {page}: {url}")
         resp = session.get(url, headers=HEADERS, timeout=15)
         resp.raise_for_status()
-        ads, next_url = parse_listing_page(resp.text, session)
+
+        final_url = resp.url
+        m = re.search(r"/seite:(\d+)", final_url)
+        real_page = int(m.group(1)) if m else 1
+
+        print(f"[INFO] Tatsächliche Seite laut Kleinanzeigen: {real_page}")
+
+        if real_page < page:
+            print(f"[INFO] → letzte Seite erreicht ({real_page})")
+            break
+
+        ads = parse_listing_page(resp.text)
+        print(f"[INFO] Seite {real_page}: {len(ads)} Anzeigen")
+
+        if not ads:
+            break
+
         all_ads.extend(ads)
-        print(f"  Seite {page_no}: {len(ads)} gefilterte Anzeigen")
-        url = next_url
-        page_no += 1
-        if url:
-            time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
+        time.sleep(random.uniform(1.0, 2.0))
 
     return all_ads
 
 
-def update_cache_with_ads(cache: dict, topic: str, ads: list[dict]) -> None:
-    now = datetime.now(timezone.utc).isoformat()
-    ads_root = cache.setdefault("ads", {})
-    topic_ads = ads_root.setdefault(topic, {})
+def save_json(ads: List[Ad], path: str) -> None:
+    data = [asdict(ad) for ad in ads]
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"[INFO] JSON gespeichert: {path}")
+
+
+def save_html(ads: List[Ad], path: str) -> None:
+    html = []
+
+    html.append("""
+<!DOCTYPE html>
+<html lang='de'>
+<head>
+<meta charset='utf-8'>
+<title>Kleinanzeigen Übersicht</title>
+<style>
+body { font-family: sans-serif; margin: 20px; }
+input { padding: 10px; margin-bottom: 8px; width: 100%; }
+.card { border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 6px; }
+.card-title { font-weight: bold; }
+.card-price { color: green; font-weight: bold; }
+</style>
+</head>
+<body>
+<h1>Kleinanzeigen Übersicht</h1>
+
+<div style='max-width:900px;margin:0 auto 20px auto;'>
+    <input id="filter-title" oninput="applyFilters()" placeholder="Titel enthält…">
+    <input id="filter-location" oninput="applyFilters()" placeholder="Ort enthält…">
+    <div style="display:flex;gap:10px;">
+        <input id="filter-price-min" oninput="applyFilters()" placeholder="Preis min" style="flex:1;">
+        <input id="filter-price-max" oninput="applyFilters()" placeholder="Preis max" style="flex:1;">
+    </div>
+</div>
+
+<div id="results">
+""")
+
     for ad in ads:
-        if ad["id"] not in topic_ads:
-            ad["first_seen"] = now
-            topic_ads[ad["id"]] = ad
-        else:
-            first_seen = topic_ads[ad["id"]].get("first_seen", now)
-            ad["first_seen"] = first_seen
-            topic_ads[ad["id"]] = ad
+        price_str = f"{ad.price} €" if ad.price is not None else "-"
+        html.append(f"""
+<div class="card">
+    <div class="card-title">{ad.title}</div>
+    <div class="card-price">{price_str}</div>
+    <div class="card-meta">{ad.location}</div>
+    <a href="{ad.url}" target="_blank">Anzeigenlink</a>
+</div>
+""")
 
+    html.append("""
+</div>
 
-def safe_filename(topic: str) -> str:
-    result = topic.strip()
-    for ch in INVALID_FILENAME_CHARS:
-        result = result.replace(ch, "_")
-    return result
+<script>
+function applyFilters() {
+    const titleFilter = document.getElementById("filter-title").value.toLowerCase();
+    const locationFilter = document.getElementById("filter-location").value.toLowerCase();
+    const priceMin = parseFloat(document.getElementById("filter-price-min").value) || 0;
+    const priceMax = parseFloat(document.getElementById("filter-price-max").value) || Infinity;
 
+    document.querySelectorAll(".card").forEach(card => {
+        const title = card.querySelector(".card-title").innerText.toLowerCase();
+        const location = card.querySelector(".card-meta").innerText.toLowerCase();
+        const priceText = card.querySelector(".card-price").innerText.replace(/[^0-9]/g, "");
+        const price = parseFloat(priceText) || 0;
 
-CARD_CSS = """
-body{font-family:sans-serif;background:#f5f5f5;margin:0;padding:16px;}
-a{text-decoration:none;color:inherit;}
-h1{margin-top:0;text-align:center;}
-.meta-top{color:#777;font-size:.85em;margin-bottom:16px;text-align:center;}
+        const matchesTitle = title.includes(titleFilter);
+        const matchesLocation = location.includes(locationFilter);
+        const matchesPrice = price >= priceMin && price <= priceMax;
 
-.topic-list{
-  list-style:none;
-  padding:0;
-  margin:0 auto 24px auto;
-  max-width:900px;
-  display:grid;
-  grid-template-columns:repeat(auto-fill,minmax(160px,1fr));
-  gap:12px;
+        card.style.display = (matchesTitle && matchesLocation && matchesPrice) ? "block" : "none";
+    });
 }
-.topic-list li{margin:0;}
-.topic-list a{
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  justify-content:center;
-  background:#fff;
-  border-radius:8px;
-  padding:14px 18px;
-  box-shadow:0 1px 3px rgba(0,0,0,.15);
-  font-weight:600;
-  font-size:1.0em;
-  text-align:center;
-}
-.topic-list .count{
-  color:#777;
-  font-weight:400;
-  font-size:.85em;
-  margin-top:4px;
-}
+</script>
 
-.back-link{
-  display:inline-block;
-  margin-bottom:16px;
-  color:#0a7d3c;
-  font-weight:600;
-}
+</body>
+</html>
+""")
 
-.grid{
-  display:grid;
-  grid-template-columns:repeat(auto-fill,minmax(180px,1fr));
-  gap:14px;
-  max-width:1100px;
-  margin:0 auto 24px auto;
-}
-.card{
-  background:#fff;
-  border-radius:8px;
-  overflow:hidden;
-  box-shadow:0 1px 3px rgba(0,0,0,.15);
-  display:flex;
-  flex-direction:column;
-}
-.card img{
-  width:100%;
-  height:160px;
-  object-fit:cover;
-  background:#eee;
-}
-.card-body{padding:10px 12px;}
-.card-title{
-  font-weight:700;
-  font-size:.95em;
-  color:#222;
-  line-height:1.3;
-  margin-bottom:6px;
-}
-.card-price{
-  color:#0a7d3c;
-  font-weight:700;
-  font-size:.95em;
-  margin-bottom:4px;
-}
-.card-meta{
-  color:#777;
-  font-size:.8em;
-  margin-top:2px;
-}
-"""
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(html))
+
+    print(f"[INFO] HTML gespeichert: {path}")
 
 
-def build_index_html(cache: dict, output: Path, themen_dir: Path) -> None:
-    parts = [
-        "<!DOCTYPE html><html lang='de'><head><meta charset='utf-8'>",
-        "<title>Kleinanzeigen Übersicht</title>",
-        f"<style>{CARD_CSS}</style></head><body>",
-        "<h1>Themen</h1>",
-        f"<div class='meta-top'>Stand: {datetime.now().strftime('%d.%m.%Y %H:%M')}</div>",
-        "<ul class='topic-list'>",
-    ]
-
-    for topic, ads in cache.get("ads", {}).items():
-        link = f"{themen_dir.name}/{safe_filename(topic)}.html"
-        parts.append(
-            f"<li><a href='{link}'>{topic}"
-            f"<span class='count'>{len(ads)} Anzeigen</span></a></li>"
-        )
-
-    parts.append("</ul></body></html>")
-    output.write_text("\n".join(parts), encoding="utf-8")
-
-
-def build_topic_page(topic: str, ads: dict, themen_dir: Path) -> None:
-    themen_dir.mkdir(exist_ok=True)
-    ad_list = sorted(ads.values(), key=lambda a: a.get("first_seen", ""), reverse=True)
-
-    parts = [
-        "<!DOCTYPE html><html lang='de'><head><meta charset='utf-8'>",
-        f"<title>{topic} – Kleinanzeigen</title>",
-        f"<style>{CARD_CSS}</style></head><body>",
-        "<a class='back-link' href='../index.html'>&larr; Zurück zur Übersicht</a>",
-        f"<h1>{topic}</h1>",
-        f"<div class='meta-top'>{len(ad_list)} Anzeigen</div>",
-        "<div class='grid'>",
-    ]
-
-    for ad in ad_list[:MAX_ADS_PER_TOPIC]:
-        img = ad.get("image") or ""
-        img_html = f"<img src='{img}' loading='lazy'>" if img else ""
-        price = ad.get("price") or ""
-        location = ad.get("location") or ""
-        date = ad.get("date") or ""
-        parts.append(
-            f"<a class='card' href='{ad['url']}' target='_blank'>"
-            f"{img_html}"
-            f"<div class='card-body'>"
-            f"<div class='card-title'>{ad['title']}</div>"
-            f"<div class='card-price'>💰 {price}</div>"
-            f"<div class='card-meta'>📍 {location}</div>"
-            f"<div class='card-meta'>🗓️ {date}</div>"
-            f"</div></a>"
-        )
-
-    parts.append("</div></body></html>")
-    (themen_dir / f"{safe_filename(topic)}.html").write_text(
-        "\n".join(parts), encoding="utf-8"
-    )
-
-
-def build_all_html(cache: dict, output: Path, themen_dir: Path) -> None:
-    build_index_html(cache, output, themen_dir)
-    for topic, ads in cache.get("ads", {}).items():
-        build_topic_page(topic, ads, themen_dir)
-
-
-def build_rss_feeds(cache: dict, feeds_dir: Path, site_base_url: str) -> None:
-    feeds_dir.mkdir(exist_ok=True)
-
-    for topic, ads in cache.get("ads", {}).items():
-        ad_list = sorted(ads.values(), key=lambda a: a.get("first_seen", ""), reverse=True)
-        filename = feeds_dir / f"{safe_filename(topic)}.xml"
-
-        items = []
-        for ad in ad_list[:MAX_ADS_PER_TOPIC]:
-            try:
-                pub_dt = datetime.fromisoformat(ad.get("first_seen", ""))
-            except ValueError:
-                pub_dt = datetime.now(timezone.utc)
-
-            title = xml_escape(ad["title"])
-            link = xml_escape(ad["url"])
-            price = xml_escape(ad.get("price") or "")
-            location = xml_escape(ad.get("location") or "")
-            desc_parts = [p for p in [price, location] if p]
-            description = " · ".join(desc_parts)
-            image = ad.get("image")
-            image_html = f"<img src='{xml_escape(image)}'/><br/>" if image else ""
-
-            items.append(f"""
-    <item>
-      <title>{title}</title>
-      <link>{link}</link>
-      <guid isPermaLink="false">{ad['id']}</guid>
-      <pubDate>{format_datetime(pub_dt)}</pubDate>
-      <description><![CDATA[{image_html}{description}]]></description>
-    </item>""")
-
-        feed_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Kleinanzeigen: {xml_escape(topic)}</title>
-    <link>{xml_escape(site_base_url)}</link>
-    <description>Automatisch aktualisierte Kleinanzeigen-Ergebnisse für {xml_escape(topic)}</description>
-    <language>de-de</language>
-    <lastBuildDate>{format_datetime(datetime.now(timezone.utc))}</lastBuildDate>
-{''.join(items)}
-  </channel>
-</rss>"""
-        filename.write_text(feed_xml, encoding="utf-8")
-
+# ------------------------------------------------------------
+# MAIN
+# ------------------------------------------------------------
 
 def main() -> None:
-    topics = load_links(LINKS_FILE)
-    cache = load_cache(CACHE_FILE)
-
-    total_links = sum(len(urls) for urls in topics.values())
-    print(f"{len(topics)} Themen, {total_links} Links insgesamt.")
-
     session = requests.Session()
+    all_ads: List[Ad] = []
 
-    for topic, urls in topics.items():
-        for url in urls:
-            if not needs_refetch(cache, url):
-                continue
-            try:
-                print(f"[INFO] Hole {topic}: {url}")
-                ads = fetch_search_pages(session, url)
-                print(f"[OK] {topic}: {url} -> {len(ads)} gefilterte Anzeigen gesamt")
-                update_cache_with_ads(cache, topic, ads)
-                cache["fetched_urls"][url] = datetime.now(timezone.utc).isoformat()
-            except requests.RequestException as e:
-                print(f"[FEHLER] {url}: {e}")
+    print(f"[INFO] Starte Scraping…")
 
-            save_cache(CACHE_FILE, cache)
-            build_all_html(cache, OUTPUT_HTML, THEMEN_DIR)
-            build_rss_feeds(cache, FEEDS_DIR, SITE_BASE_URL)
-            time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
+    for topic in TOPICS:
+        topic_name = topic["name"]
+        for url in topic["urls"]:
+            print(f"\n[TOPIC] {topic_name} -> {url}")
+            ads = fetch_all_pages(session, url)
+            for ad in ads:
+                ad.topic = topic_name
+            all_ads.extend(ads)
 
-    print("Fertig.")
+    print(f"\n[INFO] Insgesamt {len(all_ads)} Anzeigen gesammelt.")
+
+    save_json(all_ads, OUTPUT_JSON)
+    save_html(all_ads, OUTPUT_HTML)
+
+    print("[INFO] Fertig.")
 
 
 if __name__ == "__main__":

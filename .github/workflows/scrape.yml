@@ -1,3 +1,13 @@
+name: Kleinanzeigen Aggregator
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -5,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0   # ganzen Verlauf holen, wichtig für pull
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -18,8 +28,7 @@ jobs:
         run: python aggregator.py
 
       - name: Remote-Änderungen holen
-        run: |
-          git pull --rebase
+        run: git pull --rebase
 
       - name: Ergebnisse committen
         run: |

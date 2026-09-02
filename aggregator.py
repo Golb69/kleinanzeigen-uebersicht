@@ -248,6 +248,10 @@ def fetch_all_pages(session: requests.Session, base_url: str) -> list[dict]:
     # Seite 1
     resp = session.get(base_url, headers=HEADERS, timeout=15)
     resp.raise_for_status()
+
+    # Thema-Basis extrahieren (alles bis zum letzten /)
+    topic_root = base_url.split("/")[3]  # z.B. "s-thueringen"
+
     ads, _ = parse_listing_page(resp.text, session)
     all_ads.extend(ads)
     print("Seite 1:", len(ads))
@@ -262,7 +266,16 @@ def fetch_all_pages(session: requests.Session, base_url: str) -> list[dict]:
         resp = session.get(url, headers=HEADERS, timeout=15)
         resp.raise_for_status()
 
+        # Redirect-Erkennung
         final_url = resp.url
+        final_root = final_url.split("/")[3]
+
+        if final_root != topic_root:
+            print(f"→ Redirect erkannt! ({final_root} statt {topic_root})")
+            print("→ Pagination gestoppt, um falsche Ergebnisse zu verhindern.")
+            break
+
+        # Tatsächliche Seite extrahieren
         m = re.search(r"/seite:(\d+)", final_url)
         real_page = int(m.group(1)) if m else 1
 
@@ -282,6 +295,7 @@ def fetch_all_pages(session: requests.Session, base_url: str) -> list[dict]:
         time.sleep(random.uniform(1, 2))
 
     return all_ads
+
 
 
 def update_cache_with_ads(cache: dict, topic: str, ads: list[dict]) -> None:

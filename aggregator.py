@@ -478,7 +478,7 @@ def build_rss_feeds(cache: dict, feeds_dir: Path, site_base_url: str) -> None:
             image = ad.get("image")
             image_html = f"<img src='{xml_escape(image)}'/><br/>" if image else ""
 
-                        items.append(f"""
+            items.append(f"""
     <item>
       <title>{title}</title>
       <link>{link}</link>

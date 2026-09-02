@@ -74,8 +74,15 @@ def load_links(path: Path) -> dict[str, list[str]]:
 
 def load_cache(path: Path) -> dict:
     if path.exists():
-        return json.loads(path.read_text(encoding="utf-8"))
+        data = json.loads(path.read_text(encoding="utf-8"))
+        # Migration alter Cache-Dateien
+        if "fetched_urls" not in data:
+            data["fetched_urls"] = {}
+        if "ads" not in data:
+            data["ads"] = {}
+        return data
     return {"fetched_urls": {}, "ads": {}}
+
 
 
 def save_cache(path: Path, cache: dict) -> None:

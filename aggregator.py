@@ -19,7 +19,6 @@ OUTPUT_HTML = BASE_DIR / "index.html"
 THEMEN_DIR = BASE_DIR / "themen"
 FEEDS_DIR = BASE_DIR / "feeds"
 
-# Basis-URL deiner gehosteten Seite (für Links im Feed) - anpassen!
 SITE_BASE_URL = "https://github.com/Golb69/kleinanzeigen-uebersicht"
 
 MIN_DELAY = 6
@@ -40,8 +39,17 @@ PRICE_RE = re.compile(r"[\d.,]+\s*€(?:\s*VB)?|Zu verschenken|VB")
 PLZ_ORT_RE = re.compile(r"\b\d{5}\s+[A-ZÄÖÜ][\wÄÖÜäöüß\-\s/]+")
 DATUM_RE = re.compile(r"(Heute|Gestern),\s*\d{2}:\d{2}|\d{2}\.\d{2}\.\d{4}")
 
-# Zeichen, die in Dateinamen unter Windows nicht erlaubt sind
 INVALID_FILENAME_CHARS = '\\/:*?"<>|'
+
+EXCLUDE_KEYWORDS = [
+    "defekt", "kaputt", "bastler", "nur teile", "ohne funktion",
+    "funktioniert nicht", "schrott", "als ersatzteil"
+]
+
+
+def contains_excluded_words(text: str) -> bool:
+    text_lower = text.lower()
+    return any(word in text_lower for word in EXCLUDE_KEYWORDS)
 
 
 def load_links(path: Path) -> dict[str, list[str]]:
@@ -83,7 +91,28 @@ def needs_refetch(cache: dict, url: str) -> bool:
     return age_hours >= CACHE_HOURS
 
 
-def parse_listing_page(html: str) -> list[dict]:
+def fetch_detail_page(session: requests.Session, url: str) -> dict:
+    resp = session.get(url, headers=HEADERS, timeout=15)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    title_tag = soup.find("h1", id="viewad-title")
+    title = title_tag.get_text(strip=True) if title_tag else None
+
+    price_tag = soup.find("h2", id="viewad-price")
+    price = price_tag.get_text(strip=True) if price_tag else None
+
+    locality_tag = soup.find("span", id="viewad-locality")
+    location = locality_tag.get_text(strip=True) if locality_tag else None
+
+    return {
+        "title": title,
+        "price": price,
+        "location": location
+    }
+
+
+def parse_listing_page(html: str, session: requests.Session) -> list[dict]:
     soup = BeautifulSoup(html, "html.parser")
     results = []
     seen_ids = set()
@@ -98,15 +127,17 @@ def parse_listing_page(html: str) -> list[dict]:
         seen_ids.add(ad_id)
 
         container = a.find_parent(["article", "li", "div"]) or a
-        
+
         title = a.get_text(strip=True)
         if not title:
-            # Fallback: nimm die ersten Wörter aus dem Containertext
             text_for_title = container.get_text(" ", strip=True)
             parts = text_for_title.split()
             title = " ".join(parts[:10]) if parts else "Anzeige"
 
         text = container.get_text(" ", strip=True)
+
+        if contains_excluded_words(text):
+            continue
 
         price_match = PRICE_RE.search(text)
         price = price_match.group(0) if price_match else None
@@ -126,6 +157,15 @@ def parse_listing_page(html: str) -> list[dict]:
         if href.startswith("/"):
             href = "https://www.kleinanzeigen.de" + href
 
+        # Detailseite holen und Daten überschreiben/ergänzen
+        try:
+            details = fetch_detail_page(session, href)
+            title = details["title"] or title
+            price = details["price"] or price
+            location = details["location"] or location
+        except requests.RequestException:
+            pass
+
         results.append({
             "id": ad_id,
             "title": title,
@@ -142,7 +182,7 @@ def parse_listing_page(html: str) -> list[dict]:
 def fetch_search_page(session: requests.Session, url: str) -> list[dict]:
     resp = session.get(url, headers=HEADERS, timeout=15)
     resp.raise_for_status()
-    return parse_listing_page(resp.text)
+    return parse_listing_page(resp.text, session)
 
 
 def update_cache_with_ads(cache: dict, topic: str, ads: list[dict]) -> None:
@@ -159,10 +199,6 @@ def update_cache_with_ads(cache: dict, topic: str, ads: list[dict]) -> None:
 
 
 def safe_filename(topic: str) -> str:
-    """Wandelt den Themennamen in einen gültigen Dateinamen um,
-    OHNE ihn zu 'slugifizieren' - Groß-/Kleinschreibung, Leerzeichen
-    und Umlaute bleiben exakt wie eingegeben erhalten. Nur Zeichen,
-    die in Dateinamen technisch verboten sind, werden ersetzt."""
     result = topic.strip()
     for ch in INVALID_FILENAME_CHARS:
         result = result.replace(ch, "_")
@@ -175,22 +211,84 @@ a{text-decoration:none;color:inherit;}
 h1{margin-top:0;text-align:center;}
 .meta-top{color:#777;font-size:.85em;margin-bottom:16px;text-align:center;}
 
-.topic-list{  list-style:none;  padding:0;  margin:0 auto 24px auto;  max-width:900px;  display:grid;  grid-template-columns:repeat(auto-fill,minmax(160px,1fr));  gap:12px;}
+.topic-list{
+  list-style:none;
+  padding:0;
+  margin:0 auto 24px auto;
+  max-width:900px;
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(160px,1fr));
+  gap:12px;
+}
 .topic-list li{margin:0;}
-.topic-list a{  display:flex;  flex-direction:column;  align-items:center;  justify-content:center;  background:#fff;  border-radius:8px;  padding:14px 18px;  box-shadow:0 1px 3px rgba(0,0,0,.15);  font-weight:600;  font-size:1.0em;  text-align:center;}
-.topic-list .count{  color:#777;  font-weight:400;  font-size:.85em;  margin-top:4px;}
+.topic-list a{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  background:#fff;
+  border-radius:8px;
+  padding:14px 18px;
+  box-shadow:0 1px 3px rgba(0,0,0,.15);
+  font-weight:600;
+  font-size:1.0em;
+  text-align:center;
+}
+.topic-list .count{
+  color:#777;
+  font-weight:400;
+  font-size:.85em;
+  margin-top:4px;
+}
 
-.back-link{  display:inline-block;  margin-bottom:16px;  color:#0a7d3c;  font-weight:600;}
+.back-link{
+  display:inline-block;
+  margin-bottom:16px;
+  color:#0a7d3c;
+  font-weight:600;
+}
 
-.grid{  display:grid;  grid-template-columns:repeat(auto-fill,minmax(180px,1fr));  gap:14px;  max-width:1100px;  margin:0 auto 24px auto;}
-.card{  background:#fff;  border-radius:8px;  overflow:hidden;  box-shadow:0 1px 3px rgba(0,0,0,.15);  display:flex;  flex-direction:column;}
-.card img{  width:100%;  height:160px;  object-fit:cover;  background:#eee;}
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(180px,1fr));
+  gap:14px;
+  max-width:1100px;
+  margin:0 auto 24px auto;
+}
+.card{
+  background:#fff;
+  border-radius:8px;
+  overflow:hidden;
+  box-shadow:0 1px 3px rgba(0,0,0,.15);
+  display:flex;
+  flex-direction:column;
+}
+.card img{
+  width:100%;
+  height:160px;
+  object-fit:cover;
+  background:#eee;
+}
 .card-body{padding:10px 12px;}
-.card-title{  font-weight:700;  font-size:.95em;  color:#222;  line-height:1.3;  margin-bottom:6px;}
-.card-price{  color:#0a7d3c;  font-weight:700;  font-size:.95em;  margin-bottom:4px;}
-.card-meta{  color:#777;  font-size:.8em;  margin-top:2px;}
+.card-title{
+  font-weight:700;
+  font-size:.95em;
+  color:#222;
+  line-height:1.3;
+  margin-bottom:6px;
+}
+.card-price{
+  color:#0a7d3c;
+  font-weight:700;
+  font-size:.95em;
+  margin-bottom:4px;
+}
+.card-meta{
+  color:#777;
+  font-size:.8em;
+  margin-top:2px;
+}
 """
-
 
 
 def build_index_html(cache: dict, output: Path, themen_dir: Path) -> None:
@@ -206,7 +304,8 @@ def build_index_html(cache: dict, output: Path, themen_dir: Path) -> None:
     for topic, ads in cache["ads"].items():
         link = f"{themen_dir.name}/{safe_filename(topic)}.html"
         parts.append(
-            f"<li><a href='{link}'>{topic}<span class='count'>{len(ads)} Anzeigen</span></a></li>"
+            f"<li><a href='{link}'>{topic}"
+            f"<span class='count'>{len(ads)} Anzeigen</span></a></li>"
         )
 
     parts.append("</ul></body></html>")
@@ -238,9 +337,9 @@ def build_topic_page(topic: str, ads: dict, themen_dir: Path) -> None:
             f"{img_html}"
             f"<div class='card-body'>"
             f"<div class='card-title'>{ad['title']}</div>"
-            f"<div class='card-price'>{price}</div>"
+            f"<div class='card-price'>💰 {price}</div>"
             f"<div class='card-meta'>📍 {location}</div>"
-            f"<div class='card-meta'>📅 {date}</div>"
+            f"<div class='card-meta'>🗓️ {date}</div>"
             f"</div></a>"
         )
 

@@ -1,7 +1,7 @@
 {
   "fetched_urls": {
     "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-03T16:02:36.492691+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-03T20:37:03.821915+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-04T03:07:29.751270+00:00",
     "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-03T15:55:42.157486+00:00",
     "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-03T16:15:19.515581+00:00"
   },
@@ -48438,6 +48438,3506 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d642592-4ecf-4ee3-8fc9-af2787e396ae?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/kaffeevollautomat-de-longhi-magnifica-s/3502866486-176-4323",
         "first_seen": "2026-09-03T20:37:03.821600+00:00"
+      },
+      "3085996286": {
+        "id": "3085996286",
+        "title": "9 Sitzer mieten  Autovermietung",
+        "price": "99 € VB",
+        "location": "41469 Nordrhein-Westfalen - Neuss",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41fefde0-097f-48d8-b707-d5acccf1498e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/9-sitzer-mieten-autovermietung/3085996286-233-2116",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3406394910": {
+        "id": "3406394910",
+        "title": "Professionelles Chiptuning | Stage 1 Stage 2 | Pops & Bangs | VMAX | ECU Service",
+        "price": "99 €",
+        "location": "85777 Bayern - Fahrenzhausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f66dc1ca-4d64-4d44-83dc-3f802a09cad8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/professionelles-chiptuning-stage-1-stage-2-pops-bangs-vmax-ecu-service/3406394910-280-5585",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909691": {
+        "id": "3502909691",
+        "title": "Adidas Adizero Laufschuhe  neu mit Etikett und Karton",
+        "price": "100 €",
+        "location": "33729 Bielefeld - Altenhagen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3237a99-4f16-4427-adf7-bcb7feef6433?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/adidas-adizero-laufschuhe-neu-mit-etikett-und-karton/3502909691-154-20980",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909690": {
+        "id": "3502909690",
+        "title": "Bücherfreunde",
+        "price": "Zu verschenken",
+        "location": "30159 Hannover - Mitte",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47995c2e-f22b-4b7d-8c61-4302d6689b5e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/buecherfreunde/3502909690-242-3163",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909689": {
+        "id": "3502909689",
+        "title": "Tonie Lieder Hase",
+        "price": "10 €",
+        "location": "18109 Rostock - Gross Klein",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e2117dd0-ca21-4458-b5fa-f9738630113b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tonie-lieder-hase/3502909689-23-9532",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909687": {
+        "id": "3502909687",
+        "title": "Nintendo Switch Konsole mit pastellblauen & rosafarbenen Joy-Cons",
+        "price": "170 €",
+        "location": "13355 Berlin - Mitte",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa618ee6-b142-4a4f-b517-0855ab16e0fd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-konsole-mit-pastellblauen-rosafarbenen-joy-cons/3502909687-279-9676",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909683": {
+        "id": "3502909683",
+        "title": "retro Stage Kleid Neu",
+        "price": "13 €",
+        "location": "04103 Leipzig - Leipzig, Zentrum",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/155f375a-40eb-4674-94c9-6d4ad5eb8105?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/retro-stage-kleid-neu/3502909683-154-4259",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909682": {
+        "id": "3502909682",
+        "title": "Esszimmerstühle, Samtoptik, Grün(6Stück)",
+        "price": "200 €",
+        "location": "21107 Hamburg-Mitte - Hamburg Wilhelmsburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/afbfe2a5-3638-4201-8aad-35014aa0f09b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/esszimmerstuehle-samtoptik-gruen-6stueck-/3502909682-86-9441",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909681": {
+        "id": "3502909681",
+        "title": "Vorderrad 28 Zoll Shimano deore xt",
+        "price": "80 €",
+        "location": "22335 Hamburg-Nord - Hamburg Fuhlsbüttel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aacec7b2-0eab-4352-910e-91dd4492108e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/vorderrad-28-zoll-shimano-deore-xt/3502909681-217-18262",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909680": {
+        "id": "3502909680",
+        "title": "Drahtzaun Rolle Gartenzaun Maschendraht grün",
+        "price": "30 €",
+        "location": "74855 Baden-Württemberg - Haßmersheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/549db9f6-a3a5-4dcb-81fc-b5cb61a28121?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/drahtzaun-rolle-gartenzaun-maschendraht-gruen/3502909680-89-8012",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909679": {
+        "id": "3502909679",
+        "title": "Esprit Wintermantel in Größe M (38/40)",
+        "price": "40 €",
+        "location": "14913 Brandenburg - Jüterbog",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/907d1186-8f0c-495c-8c53-b16f15c96e16?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/esprit-wintermantel-in-groesse-m-38-40-/3502909679-154-18650",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909677": {
+        "id": "3502909677",
+        "title": "Pokémon Booster Packs Japanisch - Verschiedene Editionen",
+        "price": "4 €",
+        "location": "52351 Nordrhein-Westfalen - Düren",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4140a45-6564-4093-8a20-96f5cb3177c7?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/pok-mon-booster-packs-japanisch-verschiedene-editionen/3502909677-234-1768",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909676": {
+        "id": "3502909676",
+        "title": "Strickweste von Gudrun Sjöden Gr. S Blau neu",
+        "price": "28 € VB",
+        "location": "63454 Hessen - Hanau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7ff468da-a3c7-44cd-8e29-0145240fd923?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/strickweste-von-gudrun-sjoeden-gr-s-blau-neu/3502909676-154-4284",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909672": {
+        "id": "3502909672",
+        "title": "AULA F75 mechanische RGB-Tastatur, Tri-Mode, US-ANSI, OVP",
+        "price": "69 €",
+        "location": "04105 Leipzig - Leipzig, Zentrum-Nord",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c67fe642-d8b8-4e6f-9604-08ff153ae4b6?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/aula-f75-mechanische-rgb-tastatur-tri-mode-us-ansi-ovp/3502909672-225-4257",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909670": {
+        "id": "3502909670",
+        "title": "Kinderfahrrad",
+        "price": "60 €",
+        "location": "13057 Berlin - Hohenschönhausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d083f5d-8d48-498a-b855-401ab7a6f31e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kinderfahrrad/3502909670-217-9627",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909669": {
+        "id": "3502909669",
+        "title": "3 Tickets FC Bayern Frauen gegen Freiburg",
+        "price": "60 €",
+        "location": "93333 Bayern - Neustadt a.d.Donau",
+        "date": null,
+        "image": null,
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3-tickets-fc-bayern-frauen-gegen-freiburg/3502909669-257-6232",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909667": {
+        "id": "3502909667",
+        "title": "Sofa in Dunkelgrau",
+        "price": "50 €",
+        "location": "91052 Bayern - Erlangen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/10b040c1-959f-40d8-99d7-c2a08bbfd1ea?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sofa-in-dunkelgrau/3502909667-88-6799",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909666": {
+        "id": "3502909666",
+        "title": "Roter trägerloser Jumpsuit",
+        "price": "25 €",
+        "location": "74564 Baden-Württemberg - Crailsheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17c3d8f3-a585-47c1-a4b9-c55005ea29c4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/roter-traegerloser-jumpsuit/3502909666-154-9134",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909661": {
+        "id": "3502909661",
+        "title": "Essgruppe mit Esstisch (Ausziehbar) in Marmoroptik und 4 Stühlen",
+        "price": "150 € VB",
+        "location": "09120 Sachsen - Chemnitz",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5574465-d998-4522-8f2d-83f3dfadf024?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/essgruppe-mit-esstisch-ausziehbar-in-marmoroptik-und-4-stuehlen/3502909661-86-3877",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909660": {
+        "id": "3502909660",
+        "title": "Britax Römer Kindersitz – drehbar – ISOFIX – Schwarz",
+        "price": "110 € VB",
+        "location": "52223 Nordrhein-Westfalen - Stolberg (Rhld)",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc67ac27-cddc-49df-9087-c9f760829719?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/britax-roemer-kindersitz-drehbar-isofix-schwarz/3502909660-21-1732",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909659": {
+        "id": "3502909659",
+        "title": "Adidas Sportschuhe",
+        "price": "29 € VB",
+        "location": "78628 Baden-Württemberg - Rottweil",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7b68b62-a8e2-4376-ab3a-109dc99d9614?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/adidas-sportschuhe/3502909659-158-8527",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909658": {
+        "id": "3502909658",
+        "title": "Wickeltasche mit Wickelunterlage",
+        "price": "20 €",
+        "location": "94333 Bayern - Geiselhöring",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b27a9731-95f9-4ddc-bf8d-5f9c1054b36e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/wickeltasche-mit-wickelunterlage/3502909658-258-7334",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909657": {
+        "id": "3502909657",
+        "title": "2",
+        "price": null,
+        "location": null,
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f62067af-aa68-431a-bf77-63e281834a01?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/betonplatten-waschbetonplatten-terrassenplatten-gehwegplatten/3502909657-87-8263",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909656": {
+        "id": "3502909656",
+        "title": "Hp Laptop zum verkauf",
+        "price": "180 € VB",
+        "location": "46562 Nordrhein-Westfalen - Voerde (Niederrhein)",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd471746-b151-416e-a650-ef3f730636e9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hp-laptop-zum-verkauf/3502909656-278-1384",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909655": {
+        "id": "3502909655",
+        "title": "Modernes stabiles Doppelbett 200x200 Holz mit Leder-Kopfteil",
+        "price": "220 € VB",
+        "location": "50226 Nordrhein-Westfalen - Frechen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e12c28a7-859d-424c-99d2-9fc15f911f13?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/modernes-stabiles-doppelbett-200x200-holz-mit-leder-kopfteil/3502909655-81-1160",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909654": {
+        "id": "3502909654",
+        "title": "Schöne Jacke Gr.M",
+        "price": "11 €",
+        "location": "49401 Niedersachsen - Damme",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a674d582-9676-4737-9c73-9be7e1bcc826?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/schoene-jacke-gr-m/3502909654-160-2617",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909653": {
+        "id": "3502909653",
+        "title": "Wand- und Bankkissen Kissen innen von Kombinat Neu",
+        "price": "18 €",
+        "location": "50259 Nordrhein-Westfalen - Pulheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61809655-ba06-4f8c-b1ba-7602db6dd2da?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/wand-und-bankkissen-kissen-innen-von-kombinat-neu/3502909653-90-1889",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3423830038": {
+        "id": "3423830038",
+        "title": "PS5 / Xbox / Scuf Controller Reparatur – Stickdrift, TMR/Hall",
+        "price": "15 € VB",
+        "location": "35581 Hessen - Wetzlar",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/863c5a75-bec2-44be-a127-1f3b4ec6ab8e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ps5-xbox-scuf-controller-reparatur-stickdrift-tmr-hall/3423830038-226-4854",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3495620114": {
+        "id": "3495620114",
+        "title": "IKEA MALM Bettgestell weiß 160x200 cm",
+        "price": "50 €",
+        "location": "70190 Stuttgart - Stuttgart-Ost",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/662aea57-19c4-4fbf-a4f1-a0a0300a4f87?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ikea-malm-bettgestell-weiss-160x200-cm/3495620114-81-9291",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909652": {
+        "id": "3502909652",
+        "title": "Jacke Übergang Mädchen Gr 146 Schwarz H&M Bomberjacke",
+        "price": "15 €",
+        "location": "16792 Brandenburg - Zehdenick",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/ea7b4ba3-3a98-4cf6-9271-a7d2cd08fcd1?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/jacke-uebergang-maedchen-gr-146-schwarz-h-m-bomberjacke/3502909652-22-7856",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909649": {
+        "id": "3502909649",
+        "title": "Deuter Amager 25+5",
+        "price": "49 € VB",
+        "location": "59929 Nordrhein-Westfalen - Brilon",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc661ae5-da49-40b8-959f-1b7af98539f2?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/deuter-amager-25-5/3502909649-156-1269",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909647": {
+        "id": "3502909647",
+        "title": "Vegas Brettspiel von Ravensburger",
+        "price": "22 € VB",
+        "location": "88316 Baden-Württemberg - Isny im Allgäu",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/69e56a91-b24e-4258-bb91-cc486b2161dd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/vegas-brettspiel-von-ravensburger/3502909647-23-8085",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909645": {
+        "id": "3502909645",
+        "title": "4x225/55/16 Winterreifen",
+        "price": "145 €",
+        "location": "78647 Baden-Württemberg - Trossingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7e6a989-5f1a-4d3b-958f-3fc3f078a8c7?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/4x225-55-16-winterreifen/3502909645-223-8497",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909644": {
+        "id": "3502909644",
+        "title": "7",
+        "price": null,
+        "location": null,
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1031b64-90ff-4439-a082-6ee6b6310339?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/elektrische-schrubber/3502909644-176-20670",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909643": {
+        "id": "3502909643",
+        "title": "NEU‼️Adidas Climalite Running Sport Short Gr.L",
+        "price": "13 €",
+        "location": "41539 Nordrhein-Westfalen - Dormagen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7964cc1-1eba-41dc-b20c-a25da6a04e40?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neu-adidas-climalite-running-sport-short-gr-l/3502909643-154-1879",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909642": {
+        "id": "3502909642",
+        "title": "6 x Schweppes Gläser, Schweppes Glas Set, 0,2 l",
+        "price": "22 €",
+        "location": "26871 Niedersachsen - Papenburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe147ccb-3c82-4b37-8d83-08fc0ac6676f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/6-x-schweppes-glaeser-schweppes-glas-set-0-2-l/3502909642-86-2769",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909641": {
+        "id": "3502909641",
+        "title": "Alte Kommode art Bierlasur",
+        "price": "55 € VB",
+        "location": "04179 Leipzig - Altlindenau",
+        "date": null,
+        "image": null,
+        "url": "https://www.kleinanzeigen.de/s-anzeige/alte-kommode-art-bierlasur/3502909641-240-4236",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909640": {
+        "id": "3502909640",
+        "title": "Teelicht Gläser Tannenbaum mit Glitzer",
+        "price": "3 € VB",
+        "location": "23795 Schleswig-Holstein - Bad Segeberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bafee23a-ce5b-4e71-b832-f8ea41e43c42?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/teelicht-glaeser-tannenbaum-mit-glitzer/3502909640-246-13372",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909639": {
+        "id": "3502909639",
+        "title": "Nici Tiger liegend",
+        "price": "18 € VB",
+        "location": "58849 Nordrhein-Westfalen - Herscheid",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b202c2f-62fe-466b-8f7d-3fb80b443652?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/nici-tiger-liegend/3502909639-23-1427",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909638": {
+        "id": "3502909638",
+        "title": "Anzeige",
+        "price": null,
+        "location": null,
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad442574-44d7-405b-a054-a92a9ba4a9d4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/stillkissen-mit-streifenmuster-und-elefanten-detail/3502909638-258-1220",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909633": {
+        "id": "3502909633",
+        "title": "Die Feisten - zwei Tickets für den 18.09. in Oldenburg",
+        "price": "65 €",
+        "location": "26125 Niedersachsen - Oldenburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba112b62-4789-48d7-af31-9175c8367307?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/die-feisten-zwei-tickets-fuer-den-18-09-in-oldenburg/3502909633-255-3111",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909631": {
+        "id": "3502909631",
+        "title": "Nintendo Switch Oled Splatoon 3 Modell ohne Spiel",
+        "price": "190 €",
+        "location": "13355 Berlin - Mitte",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f9e6a4b-afc0-4951-89b1-64925b854aae?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-oled-splatoon-3-modell-ohne-spiel/3502909631-279-9676",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909630": {
+        "id": "3502909630",
+        "title": "Bulls King Cobra Mountainbike 28 Zoll",
+        "price": "220 € VB",
+        "location": "68723 Baden-Württemberg - Schwetzingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8cc2691-abab-4f05-b4ed-ab1a5e8e02fb?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/bulls-king-cobra-mountainbike-28-zoll/3502909630-217-8123",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909629": {
+        "id": "3502909629",
+        "title": "Neues Kleid Retro Stage",
+        "price": "13 €",
+        "location": "04103 Leipzig - Leipzig, Zentrum",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c771bef8-b6eb-4789-8281-354a8b3d67f5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neues-kleid-retro-stage/3502909629-154-4259",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909627": {
+        "id": "3502909627",
+        "title": "Playmobil Bauernhof",
+        "price": "30 €",
+        "location": "16727 Brandenburg - Velten",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/4031c1f6-24ca-4674-976f-9e3593582e47?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/playmobil-bauernhof/3502909627-23-7901",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909622": {
+        "id": "3502909622",
+        "title": "Künstlerpuppe Jenny von Monika Levenig, Porzellan, 40cm",
+        "price": "100 € VB",
+        "location": "18059 Rostock - Südstadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f74e37ad-9aaa-41c9-9b1e-79f9ba2b97c8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kuenstlerpuppe-jenny-von-monika-levenig-porzellan-40cm/3502909622-234-13049",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909621": {
+        "id": "3502909621",
+        "title": "GoPro HERO10 Black Actionkamera Bundle – 512GB + 5 Akkus + Triple",
+        "price": "145 €",
+        "location": "17166 Güstrow - Landkreis - Teterow",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f2356cda-6d83-40cf-88d9-f112cae49574?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/gopro-hero10-black-actionkamera-bundle-512gb-5-akkus-triple/3502909621-245-108",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3358539690": {
+        "id": "3358539690",
+        "title": "Bagger Kompaktbagger Minibagger Bobcat E19 mieten",
+        "price": "70 € VB",
+        "location": "56218 Rheinland-Pfalz - Mülheim-Kärlich",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b32a78da-64cb-44b0-85bc-693c7631e8bd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/bagger-kompaktbagger-minibagger-bobcat-e19-mieten/3358539690-276-5418",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3348243881": {
+        "id": "3348243881",
+        "title": "Neu: Außendienst für PC, TV, Drucker & Technik – Wir kommen zu Ihnen!",
+        "price": "49 €",
+        "location": "52379 Nordrhein-Westfalen - Langerwehe",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/531e128e-e3ba-4d80-afdf-dd279c0a6208?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neu-aussendienst-fuer-pc-tv-drucker-technik-wir-kommen-zu-ihnen-/3348243881-226-1907",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909619": {
+        "id": "3502909619",
+        "title": "6 x Schweppes Gläser, Schweppes Glas Set, 0,2 l",
+        "price": "22 €",
+        "location": "30449 Hannover - Linden-Limmer",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8dfa4043-50dd-461c-9da4-374371754742?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/6-x-schweppes-glaeser-schweppes-glas-set-0-2-l/3502909619-86-3176",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909617": {
+        "id": "3502909617",
+        "title": "Scrabble gemeinschaftsspiel",
+        "price": "16 € VB",
+        "location": "88316 Baden-Württemberg - Isny im Allgäu",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae7a4312-c60f-4676-a3c3-047f72912186?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/scrabble-gemeinschaftsspiel/3502909617-23-8085",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909616": {
+        "id": "3502909616",
+        "title": "Tommy Hilfiger ❤️ Leinen Bluse 6 34 36 Damen Urlaub Büro 3/4",
+        "price": "28 € VB",
+        "location": "96145 Bayern - Seßlach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21d32a26-20fe-4d89-8a28-fffb0c979ff4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tommy-hilfiger-leinen-bluse-6-34-36-damen-urlaub-buero-3-4/3502909616-154-6948",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909614": {
+        "id": "3502909614",
+        "title": "Duschwand Trennwand Glas Neu Neupreis 120€",
+        "price": "50 €",
+        "location": "97616 Bayern - Bad Neustadt a.d. Saale",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da14f712-12ee-49fd-908c-4bf64e873cd4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/duschwand-trennwand-glas-neu-neupreis-120-/3502909614-91-6136",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909613": {
+        "id": "3502909613",
+        "title": "Heißluftfriteuse",
+        "price": "20 € VB",
+        "location": "47608 Nordrhein-Westfalen - Geldern",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19d3ba47-6633-48ad-8fee-59581b470105?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/heissluftfriteuse/3502909613-176-1151",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909612": {
+        "id": "3502909612",
+        "title": "Tonie Lieder Hund grün",
+        "price": "10 €",
+        "location": "18109 Rostock - Gross Klein",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1a37a0c-f262-43b4-a267-072f3d682264?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tonie-lieder-hund-gruen/3502909612-23-9532",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909610": {
+        "id": "3502909610",
+        "title": "Weishaupt W-MF 507 C",
+        "price": "250 €",
+        "location": "27308 Niedersachsen - Kirchlinteln",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6e08ff3-33d6-41b6-b09b-186a01e0bd9b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/weishaupt-w-mf-507-c/3502909610-226-2726",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909608": {
+        "id": "3502909608",
+        "title": "Baby Wippe",
+        "price": "5 €",
+        "location": "49479 Ibbenbüren - Püsselbüren",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1afd93e-4172-4d5b-aec1-7b6072eed2b6?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/baby-wippe/3502909608-258-29414",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909607": {
+        "id": "3502909607",
+        "title": "Top Süße Anzüge Gr62/68 je nur für 5 euro",
+        "price": "5 €",
+        "location": "38226 Niedersachsen - Salzgitter",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad63277-addc-424b-b194-25072f8491b2?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/top-suesse-anzuege-gr62-68-je-nur-fuer-5-euro/3502909607-22-2434",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909605": {
+        "id": "3502909605",
+        "title": "Bosch Kreissäge PKS 85 A",
+        "price": "85 € VB",
+        "location": "56566 Rheinland-Pfalz - Neuwied",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6ffe279-5185-4e0d-bd88-ff1a3f2032f8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/bosch-kreissaege-pks-85-a/3502909605-84-5414",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909604": {
+        "id": "3502909604",
+        "title": "Schöne Jacke Gr.S",
+        "price": "11 €",
+        "location": "49401 Niedersachsen - Damme",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aadcecf1-bfcc-4d85-9e32-701a8aaa669f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/schoene-jacke-gr-s/3502909604-160-2617",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909603": {
+        "id": "3502909603",
+        "title": "xxl xxxl Bh Bustier 5 Stück Neu",
+        "price": "40 €",
+        "location": "45659 Nordrhein-Westfalen - Recklinghausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d6f4255-a2a8-46e3-8dab-6556cafa779e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/xxl-xxxl-bh-bustier-5-stueck-neu/3502909603-154-1988",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909602": {
+        "id": "3502909602",
+        "title": "C&A Baby Jeans Gr. 62",
+        "price": "3 €",
+        "location": "41515 Nordrhein-Westfalen - Grevenbroich",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8ee4502e-d943-4927-a06d-700029c01835?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/c-a-baby-jeans-gr-62/3502909602-22-1824",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909600": {
+        "id": "3502909600",
+        "title": "Candice Cooper Sneaker rot/creme 38",
+        "price": "120 €",
+        "location": "21397 Niedersachsen - Barendorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fe2c260-463e-444b-9ded-4005b64dd090?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/candice-cooper-sneaker-rot-creme-38/3502909600-159-18662",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909599": {
+        "id": "3502909599",
+        "title": "2",
+        "price": null,
+        "location": null,
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d760f97-e288-4f0a-97ee-d17c0e1a322f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/merkur-spielautomat-geldspielautomat-muenzturm-halterung/3502909599-168-2032",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909598": {
+        "id": "3502909598",
+        "title": "Puzzle 1000 Teile Pragser Bergsee in Italien",
+        "price": "3 €",
+        "location": "15562 Brandenburg - Rüdersdorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3cc01d68-d9e0-435a-8efc-7f4b24bafec7?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/puzzle-1000-teile-pragser-bergsee-in-italien/3502909598-23-7887",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909595": {
+        "id": "3502909595",
+        "title": "Disney Der König der Löwen Diamond Edition Blu-ray + DVD",
+        "price": "4 €",
+        "location": "39249 Sachsen-Anhalt - Barby",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78368d6f-8b2b-491d-a21c-45bc15fc1e19?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/disney-der-koenig-der-loewen-diamond-edition-blu-ray-dvd/3502909595-79-19869",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909593": {
+        "id": "3502909593",
+        "title": "Katzen zubehör",
+        "price": "Zu verschenken",
+        "location": "06130 Sachsen-Anhalt - Halle",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fce38f97-bf0e-414b-9bf3-99197ceef513?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/katzen-zubehoer/3502909593-313-2415",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3418998277": {
+        "id": "3418998277",
+        "title": "UMZUG SOFORT? Professionelle Umzugsfirma in NRW • Schnell & Fair",
+        "price": "50 € VB",
+        "location": "47533 Nordrhein-Westfalen - Kleve",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6ccd1b70-cb8d-4dee-b48a-badc7a8881e6?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/umzug-sofort-professionelle-umzugsfirma-in-nrw-schnell-fair/3418998277-296-1125",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3173222414": {
+        "id": "3173222414",
+        "title": "10",
+        "price": null,
+        "location": null,
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9ce812b2-60b9-4835-9d2f-af40b9db7941?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/politur-autoaufbereitung-aufbereitung-reinigung-ohne-termin/3173222414-280-2054",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909592": {
+        "id": "3502909592",
+        "title": "Furby Tuxedo Skunk Erste Generation 1998 90er Jahre Spielzeug",
+        "price": "49 €",
+        "location": "35039 Hessen - Marburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/efef3913-d83b-4cc3-99c0-67601b041536?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/furby-tuxedo-skunk-erste-generation-1998-90er-jahre-spielzeug/3502909592-23-4832",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909591": {
+        "id": "3502909591",
+        "title": "PlayStation Pullover hoody Junge Gr 158 164 schwarz gesun",
+        "price": "10 €",
+        "location": "16792 Brandenburg - Zehdenick",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/6743603a-aa94-4a1b-9d24-fd03f8853635?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/playstation-pullover-hoody-junge-gr-158-164-schwarz-gesun/3502909591-22-7856",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909590": {
+        "id": "3502909590",
+        "title": "2x Phoenix Contact SD FLASH 512MB 2988146 SPS",
+        "price": "129 € VB",
+        "location": "53721 Nordrhein-Westfalen - Siegburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e7b6e7a-4529-448b-8c41-60655017ac8c?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2x-phoenix-contact-sd-flash-512mb-2988146-sps/3502909590-168-1670",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909589": {
+        "id": "3502909589",
+        "title": "JP PERFORMANCE Becher",
+        "price": "50 €",
+        "location": "08066 Sachsen - Zwickau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/4843cc0c-60f0-4ad6-b3ff-12cba58777b8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/jp-performance-becher/3502909589-250-3809",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909588": {
+        "id": "3502909588",
+        "title": "Scentsy Elektrische Duftlampe Glitzy",
+        "price": "45 €",
+        "location": "67269 Rheinland-Pfalz - Grünstadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b14da1ce-e029-4b78-8fd6-008d61fd788e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/scentsy-elektrische-duftlampe-glitzy/3502909588-246-5347",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909587": {
+        "id": "3502909587",
+        "title": "Jacke gr. 44",
+        "price": "4 €",
+        "location": "06886 Sachsen-Anhalt - Lutherstadt Wittenberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e3cdce4-a86b-4878-b9c2-3e0ee0762c66?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/jacke-gr-44/3502909587-154-2394",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909584": {
+        "id": "3502909584",
+        "title": "Kinderschuhe Lederboots Stiefel Übergang Herbst von RAP *NEU*",
+        "price": "30 € VB",
+        "location": "51647 Nordrhein-Westfalen - Gummersbach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77839d12-a5c1-4697-9b2a-8c57ec39afe4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kinderschuhe-lederboots-stiefel-uebergang-herbst-von-rap-neu-/3502909584-19-1885",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909583": {
+        "id": "3502909583",
+        "title": "Nintendo Switch Oled",
+        "price": "250 € VB",
+        "location": "30880 Niedersachsen - Laatzen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d68e214-881d-49e5-b13d-e4fffa73ccff?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-oled/3502909583-279-2893",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909581": {
+        "id": "3502909581",
+        "title": "Vorderrad 28 Zoll Shimano Nexus Nabendynamo",
+        "price": "50 €",
+        "location": "22335 Hamburg-Nord - Hamburg Fuhlsbüttel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/166ba0b3-293a-4aa9-bc8a-902a1531e53c?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/vorderrad-28-zoll-shimano-nexus-nabendynamo/3502909581-217-18262",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909578": {
+        "id": "3502909578",
+        "title": "4/185/65/15 Winterreifen",
+        "price": "140 €",
+        "location": "78647 Baden-Württemberg - Trossingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/7518b0ff-f8b5-433d-aadf-b245f7a294bd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/4-185-65-15-winterreifen/3502909578-223-8497",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909577": {
+        "id": "3502909577",
+        "title": "HUNTER Gummistiefel Refined Gloss slim fit Chelsea Boot schwarz 5",
+        "price": "80 €",
+        "location": "40545 Düsseldorf - Oberkassel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2d7aa4c-091e-4516-bbea-8e96ebc586f1?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hunter-gummistiefel-refined-gloss-slim-fit-chelsea-boot-schwarz-5/3502909577-159-2071",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909576": {
+        "id": "3502909576",
+        "title": "Samsung Galaxy Smartphone",
+        "price": "22 € VB",
+        "location": "45966 Nordrhein-Westfalen - Gladbeck",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/53c26b4b-5a93-43b5-8f4d-2eab39f2e061?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-smartphone/3502909576-173-1802",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909573": {
+        "id": "3502909573",
+        "title": "3",
+        "price": null,
+        "location": null,
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cbccbe3e-42c7-4692-99cc-e0bb9342caa7?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/britax-roemer-kindersitz-auto-guter-zustand/3502909573-21-20812",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909570": {
+        "id": "3502909570",
+        "title": "Sweatshirt Tommy Hilfiger neuwertig Gr. M dunkelblau",
+        "price": "15 € VB",
+        "location": "89129 Baden-Württemberg - Langenau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b657da25-8f36-4070-9cc2-186b95370bab?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sweatshirt-tommy-hilfiger-neuwertig-gr-m-dunkelblau/3502909570-160-18599",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909569": {
+        "id": "3502909569",
+        "title": "Tierpuzzle 1000 Teile RGS Group Safari Tiere",
+        "price": "5 € VB",
+        "location": "85540 Kr. München - Haar",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65435362-ea4e-43d6-b937-89a0670761dd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tierpuzzle-1000-teile-rgs-group-safari-tiere/3502909569-23-6185",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909567": {
+        "id": "3502909567",
+        "title": "Boden Rock grün Jeans figurschmeichelnd Gr 14 40 L",
+        "price": "24 €",
+        "location": "06618 Sachsen-Anhalt - Naumburg (Saale)",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e0b43700-6267-48bb-abf1-473fbfdf21e9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/boden-rock-gruen-jeans-figurschmeichelnd-gr-14-40-l/3502909567-154-2333",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909566": {
+        "id": "3502909566",
+        "title": "Neuer Damen Mantel Multiblu in Größe 40",
+        "price": "50 €",
+        "location": "14913 Brandenburg - Jüterbog",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72fb3f10-3147-40c7-b414-f8fe0ddc64cd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neuer-damen-mantel-multiblu-in-groesse-40/3502909566-154-18650",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909565": {
+        "id": "3502909565",
+        "title": "Gewebeband Panzerband 25mm , 50mm, doppelseitiges Klebeband",
+        "price": "3 €",
+        "location": "66265 Saarland - Heusweiler",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93545e1d-9226-41f4-8d79-79b4c8f126dd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/gewebeband-panzerband-25mm-50mm-doppelseitiges-klebeband/3502909565-84-341",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909564": {
+        "id": "3502909564",
+        "title": "Schleich Haus Villa mit Stallungen",
+        "price": "65 € VB",
+        "location": "38440 Niedersachsen - Wolfsburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/499369cc-2c4d-45cc-a997-1f70392b6627?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/schleich-haus-villa-mit-stallungen/3502909564-23-3074",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909563": {
+        "id": "3502909563",
+        "title": "Esprit Slingbacks 39 dunkelblau neu",
+        "price": "15 €",
+        "location": "13469 Berlin - Reinickendorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5dd493f-1405-46bb-87a1-90abd2ec7434?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/esprit-slingbacks-39-dunkelblau-neu/3502909563-159-3456",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3497502564": {
+        "id": "3497502564",
+        "title": "Premium Padelschläger Padel Racket PRE-SALE SPECIAL %",
+        "price": "111 €",
+        "location": "38554 Niedersachsen - Weyhausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c292cf4e-393e-419f-885b-95086fa85cd7?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/premium-padelschlaeger-padel-racket-pre-sale-special-/3497502564-230-3093",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3423015868": {
+        "id": "3423015868",
+        "title": "!! PV Module Montage Set Trapezblech Trapezdach 4er Set !!",
+        "price": "58 €",
+        "location": "32425 Nordrhein-Westfalen - Minden",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6b469823-68ad-4b97-8538-f38935d5e0b7?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/-pv-module-montage-set-trapezblech-trapezdach-4er-set-/3423015868-87-1761",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909561": {
+        "id": "3502909561",
+        "title": "Tonie Flöckchen Adventskalender",
+        "price": "25 €",
+        "location": "18109 Rostock - Gross Klein",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88362d87-9552-4816-8774-92870135f00b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tonie-floeckchen-adventskalender/3502909561-23-9532",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909560": {
+        "id": "3502909560",
+        "title": "Monopoly Banking",
+        "price": "22 € VB",
+        "location": "88316 Baden-Württemberg - Isny im Allgäu",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8ee51647-979f-4bd6-804a-ccdb8fd5a98e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/monopoly-banking/3502909560-23-8085",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909559": {
+        "id": "3502909559",
+        "title": "TOP SAMSUNG Z Flip5 - 512GB - Graphite - OVP mit Zubehör & Rechg.",
+        "price": "250 € VB",
+        "location": "07987 Thüringen - Mohlsdorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/984cf2dd-471a-4de1-b3f8-f406647a52b4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/top-samsung-z-flip5-512gb-graphite-ovp-mit-zubehoer-rechg-/3502909559-173-3602",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909558": {
+        "id": "3502909558",
+        "title": "Leder Börse Neu",
+        "price": "10 €",
+        "location": "63762 Bayern - Großostheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/30b68f50-ed72-4fe6-a6bd-6c3f0f20ce03?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/leder-boerse-neu/3502909558-156-7416",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909556": {
+        "id": "3502909556",
+        "title": "Jürgen von der Lippe: Sextextsextett - Comedy-Lesung Ticket",
+        "price": "88 €",
+        "location": "59602 Nordrhein-Westfalen - Rüthen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11b01153-fe72-4f32-b213-b2f355e60c49?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/juergen-von-der-lippe-sextextsextett-comedy-lesung-ticket/3502909556-254-1367",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909555": {
+        "id": "3502909555",
+        "title": "Regenbogen Kleid Größe  L",
+        "price": "7 €",
+        "location": "04103 Leipzig - Leipzig, Zentrum",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b762e14-f0cb-472d-9c2e-193c685f5174?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/regenbogen-kleid-groesse-l/3502909555-154-4259",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909554": {
+        "id": "3502909554",
+        "title": "Kanthölzer 10 × 10 3 m lang",
+        "price": "15 €",
+        "location": "29664 Niedersachsen - Walsrode",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/ddf31932-2c32-42a0-9ef2-30db9bd73590?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kanthoelzer-10-10-3-m-lang/3502909554-87-2953",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909553": {
+        "id": "3502909553",
+        "title": "Hardrock Schallplatten zu verkaufen top Zustand wie neu",
+        "price": "8 €",
+        "location": "78054 Baden-Württemberg - Villingen-Schwenningen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4decad3b-37d6-4a66-8692-6a17116e54d6?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hardrock-schallplatten-zu-verkaufen-top-zustand-wie-neu/3502909553-78-9105",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909552": {
+        "id": "3502909552",
+        "title": "Neu Topomini Wollfleece Overall Anzug Einteiler Gr: 86 -92 grau",
+        "price": "22 €",
+        "location": "07774 Thüringen - Camburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b67c2cea-357c-48f5-a5a7-4d3599efe389?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neu-topomini-wollfleece-overall-anzug-einteiler-gr-86-92-grau/3502909552-22-20518",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909551": {
+        "id": "3502909551",
+        "title": "Stuhl Lederpolster Eiche",
+        "price": "Zu verschenken",
+        "location": "57368 Nordrhein-Westfalen - Lennestadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7fe1bf08-1cb3-4591-b2dc-8ad2aeead993?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/stuhl-lederpolster-eiche/3502909551-86-1463",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909545": {
+        "id": "3502909545",
+        "title": "Regenbogenschaukel Wippe Lunatur",
+        "price": "60 €",
+        "location": "07318 Thüringen - Saalfeld (Saale)",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9331712-fb4f-41f7-8587-dfaf2ed0d1c0?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/regenbogenschaukel-wippe-lunatur/3502909545-20-3660",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909544": {
+        "id": "3502909544",
+        "title": "Mercedes W108 W114 W115 /8 W116 Hebel Becker Autoradio",
+        "price": "10 €",
+        "location": "15377 Brandenburg - Buckow (Märkische Schweiz)",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc0bb68d-bccf-4d3e-a4f9-945f2d610677?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/mercedes-w108-w114-w115-8-w116-hebel-becker-autoradio/3502909544-223-18194",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909543": {
+        "id": "3502909543",
+        "title": "Ohringen in Blau",
+        "price": "25 €",
+        "location": "50858 Lindenthal - Köln Weiden",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2c/2cd61834-df09-4311-aeee-f8dad42d0884?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ohringen-in-blau/3502909543-157-17141",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909542": {
+        "id": "3502909542",
+        "title": "Monopoly Spiderman",
+        "price": "19 €",
+        "location": "85540 Kr. München - Haar",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/841eabe9-5def-4c24-8b69-1cf736766198?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/monopoly-spiderman/3502909542-23-6185",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909541": {
+        "id": "3502909541",
+        "title": "Stokke Sitzkissen plus Sitzverkleinerer Set für Hochstuhl",
+        "price": "38 €",
+        "location": "86916 Bayern - Kaufering",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2890e657-cef2-42d4-97a1-404bd73b3bee?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/stokke-sitzkissen-plus-sitzverkleinerer-set-fuer-hochstuhl/3502909541-258-7095",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909540": {
+        "id": "3502909540",
+        "title": "Jumbo Heiligstes Herz Jesu 3D Bild Halskette / Katholisch",
+        "price": "80 € VB",
+        "location": "70174 Stuttgart - Stuttgart-Mitte",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e662c0d-1feb-4e84-854f-e0eb4046fd46?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/jumbo-heiligstes-herz-jesu-3d-bild-halskette-katholisch/3502909540-157-9289",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909537": {
+        "id": "3502909537",
+        "title": "Schöne Jacle Gr.XL",
+        "price": "11 €",
+        "location": "49401 Niedersachsen - Damme",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0f7d75e4-c344-4076-bd21-1858297c62b5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/schoene-jacle-gr-xl/3502909537-160-2617",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909536": {
+        "id": "3502909536",
+        "title": "Kinderstuhl",
+        "price": "5 €",
+        "location": "09120 Sachsen - Chemnitz",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6bc733b1-59da-4170-a5bb-6111ca4cbc9c?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kinderstuhl/3502909536-86-3877",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909535": {
+        "id": "3502909535",
+        "title": "Historischen Zeitung vom 12.09.2001",
+        "price": "25 € VB",
+        "location": "13599 Berlin - Spandau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3ff2bfad-8b35-4f4b-93c9-52b8212ca7cb?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/historischen-zeitung-vom-12-09-2001/3502909535-76-3432",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909534": {
+        "id": "3502909534",
+        "title": "Nintendo Switch OLED Bundle + USB Controller",
+        "price": "120 €",
+        "location": "17166 Güstrow - Landkreis - Teterow",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/5944e2d5-296d-4f36-b2df-ae203d7e5d18?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-oled-bundle-usb-controller/3502909534-279-108",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909530": {
+        "id": "3502909530",
+        "title": "️ Logitech G923 TRUEFORCE – Xbox & PC – NEU & OVP",
+        "price": "200 € VB",
+        "location": "76437 Baden-Württemberg - Rastatt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6388f62-984b-413d-bc11-699ff0b432b4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/-logitech-g923-trueforce-xbox-pc-neu-ovp/3502909530-228-8199",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909529": {
+        "id": "3502909529",
+        "title": "PS 5 Controller wie neu",
+        "price": "45 €",
+        "location": "41747 Nordrhein-Westfalen - Viersen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3490272-c4d9-41a9-ae97-388680ab609d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ps-5-controller-wie-neu/3502909529-279-1791",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3163516554": {
+        "id": "3163516554",
+        "title": "Dachbeschichtung, so wird es gemacht.",
+        "price": "23 € VB",
+        "location": "04420 Sachsen - Markranstädt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/9381dc9e-8728-4b18-a135-17ca2ccb18b7?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/dachbeschichtung-so-wird-es-gemacht-/3163516554-239-3919",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3479557092": {
+        "id": "3479557092",
+        "title": "IKEA, Kleiderschrank HAUGA",
+        "price": "150 € VB",
+        "location": "34121 Hessen - Kassel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/ea9ddb2e-7af7-42a8-aa7c-79d55fdbaabe?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ikea-kleiderschrank-hauga/3479557092-81-4924",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909527": {
+        "id": "3502909527",
+        "title": "Euroriding Paradeabschwitzdecke in Gr. L / 145",
+        "price": "29 €",
+        "location": "96215 Bayern - Lichtenfels",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fbeec393-0d64-4ee1-aa6b-757be85f5d54?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/euroriding-paradeabschwitzdecke-in-gr-l-145/3502909527-313-6956",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909526": {
+        "id": "3502909526",
+        "title": "Apple Magic Keyboard für iPad Pro 12.9\" (3.-5. Gen) OVP",
+        "price": "160 €",
+        "location": "44789 Bochum - Bochum-Süd",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c1a4ed60-85a4-4796-99d5-4a74aabc8932?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/apple-magic-keyboard-fuer-ipad-pro-12-9-3-5-gen-ovp/3502909526-285-1945",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909525": {
+        "id": "3502909525",
+        "title": "Shein Bodykleid Gr. 62",
+        "price": "3 €",
+        "location": "41515 Nordrhein-Westfalen - Grevenbroich",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c912499b-3273-40a1-bada-46635f7e01c8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/shein-bodykleid-gr-62/3502909525-22-1824",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909524": {
+        "id": "3502909524",
+        "title": "Sneaker Schuhe",
+        "price": "5 €",
+        "location": "42551 Nordrhein-Westfalen - Velbert",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c15d62e-e0d6-4f59-a2bc-dedec3e46aba?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sneaker-schuhe/3502909524-158-1749",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909522": {
+        "id": "3502909522",
+        "title": "Gengar - LOR TG06/TG30",
+        "price": "39 € VB",
+        "location": "89522 Baden-Württemberg - Heidenheim an der Brenz",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab168ba4-abff-44dd-a8d3-b2e5272fb11c?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/gengar-lor-tg06-tg30/3502909522-234-9055",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909521": {
+        "id": "3502909521",
+        "title": "Professionelles Fotolicht Set im Transportkoffer",
+        "price": "149 € VB",
+        "location": "53879 Nordrhein-Westfalen - Euskirchen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/025ee399-461b-4ddd-a633-8d9b24d145ee?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/professionelles-fotolicht-set-im-transportkoffer/3502909521-245-1893",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909520": {
+        "id": "3502909520",
+        "title": "Edelstahl Gitter",
+        "price": "100 € VB",
+        "location": "27367 Niedersachsen - Sottrum",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/993623f4-16f3-4c74-b4d6-5cd10722a0b9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/edelstahl-gitter/3502909520-87-2938",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909518": {
+        "id": "3502909518",
+        "title": "Baby Badewanne",
+        "price": "10 €",
+        "location": "49479 Ibbenbüren - Püsselbüren",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/787588d4-dfa5-43a9-bbdc-34c19d291c65?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/baby-badewanne/3502909518-258-29414",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909517": {
+        "id": "3502909517",
+        "title": "Tommy Hilfiger Damen T.Shirt Gr.L",
+        "price": "10 €",
+        "location": "41539 Nordrhein-Westfalen - Dormagen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9b971c2-068e-49cc-8e7e-9b450f865332?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tommy-hilfiger-damen-t-shirt-gr-l/3502909517-154-1879",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909515": {
+        "id": "3502909515",
+        "title": "JP PERFORMANCE Becher",
+        "price": "25 €",
+        "location": "08066 Sachsen - Zwickau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/967ed7f9-8b26-4f43-bbf6-7ce2c681123d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/jp-performance-becher/3502909515-250-3809",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909514": {
+        "id": "3502909514",
+        "title": "*NEU* Fleecejacke 110",
+        "price": "4 €",
+        "location": "25693 Dithmarschen - St. Michaelisdonn",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/35cdce8e-3369-46cb-a291-26a848e1623c?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/-neu-fleecejacke-110/3502909514-22-19576",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909513": {
+        "id": "3502909513",
+        "title": "diddl blätter a5 weise und bunte",
+        "price": "1 €",
+        "location": "69469 Baden-Württemberg - Weinheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41cf5637-8d02-4bbb-b23b-001f00db9655?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/diddl-blaetter-a5-weise-und-bunte/3502909513-234-8266",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909512": {
+        "id": "3502909512",
+        "title": "Hundeanhänger Trixie",
+        "price": "55 € VB",
+        "location": "20146 Eimsbüttel - Hamburg Rotherbaum",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/054e0ec3-7394-435f-875d-1572187ef7da?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hundeanhaenger-trixie/3502909512-313-9433",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3416582491": {
+        "id": "3416582491",
+        "title": "5",
+        "price": null,
+        "location": null,
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6be9f252-5795-42f7-bd4c-ff00c93bbeda?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/umzug-transport-entruempelung-aufloesungen-aller-art/3416582491-239-9182",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3455247031": {
+        "id": "3455247031",
+        "title": "Fensterreinigung Mönchengladbach – persönlich & sauber",
+        "price": "1 € VB",
+        "location": "41061 Nordrhein-Westfalen - Mönchengladbach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba1ceef3-2a34-48a1-99ba-cc711b678b16?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/fensterreinigung-moenchengladbach-persoenlich-sauber/3455247031-239-1965",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909510": {
+        "id": "3502909510",
+        "title": "2x225/40/19 Winterreifen",
+        "price": "130 €",
+        "location": "78647 Baden-Württemberg - Trossingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00fca43-d841-4a11-94c1-56a52cc8fceb?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2x225-40-19-winterreifen/3502909510-223-8497",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909509": {
+        "id": "3502909509",
+        "title": "Elizabeth Chadwick - Der letzte Auftrag des Ritters",
+        "price": "4 €",
+        "location": "80992 München - Moosach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/9202e498-132b-493a-8a5a-ae60980538c8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/elizabeth-chadwick-der-letzte-auftrag-des-ritters/3502909509-76-6447",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909508": {
+        "id": "3502909508",
+        "title": "OOONO Co-Driver Gen 1",
+        "price": "15 €",
+        "location": "31171 Niedersachsen - Nordstemmen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f264e893-3db8-4e82-ad54-1ee6684e5bac?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ooono-co-driver-gen-1/3502909508-241-2907",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909507": {
+        "id": "3502909507",
+        "title": "Kompakter Mini-Heimtrainer Pedal-Trainer für Arme und Beine",
+        "price": "15 € VB",
+        "location": "32584 Nordrhein-Westfalen - Löhne",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/380114f5-69b5-48f0-9e67-985543530007?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kompakter-mini-heimtrainer-pedal-trainer-fuer-arme-und-beine/3502909507-230-1220",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909506": {
+        "id": "3502909506",
+        "title": "IKEA Bergsbo Tür 50x229 cm graubeige neu original verpackt",
+        "price": "55 € VB",
+        "location": "50226 Nordrhein-Westfalen - Frechen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/772e5f09-05c5-4655-893a-b368427e07e5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ikea-bergsbo-tuer-50x229-cm-graubeige-neu-original-verpackt/3502909506-81-1160",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909504": {
+        "id": "3502909504",
+        "title": "American Originals Popcornmaschine rot",
+        "price": "20 € VB",
+        "location": "73230 Baden-Württemberg - Kirchheim unter Teck",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82b4ec15-1828-421e-af22-ca9be8fcafbc?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/american-originals-popcornmaschine-rot/3502909504-176-8464",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909500": {
+        "id": "3502909500",
+        "title": "Maxibriefkarton ♥️ 170 Stück ✅ 35 x 25 x 5cm NEU Faltkarton Braun",
+        "price": "25 €",
+        "location": "66111 Saarbrücken - St Johann",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/89f19bdc-cc21-4d97-bc8c-34c342f7e949?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/maxibriefkarton-170-stueck-35-x-25-x-5cm-neu-faltkarton-braun/3502909500-93-28688",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909499": {
+        "id": "3502909499",
+        "title": "Pflastersteine 40x20x8 Anthrazit 8m² EHL Quintano Pur Steine grau",
+        "price": "120 €",
+        "location": "37154 Niedersachsen - Northeim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a61627f7-c33f-4679-818f-bd0dd08fff69?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/pflastersteine-40x20x8-anthrazit-8m-ehl-quintano-pur-steine-grau/3502909499-87-2790",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909496": {
+        "id": "3502909496",
+        "title": "Wasserkessel",
+        "price": "200 €",
+        "location": "38259 Niedersachsen - Salzgitter",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d28c5a9-1f88-4fb9-9162-1d88e4b11bcd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/wasserkessel/3502909496-176-2439",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909494": {
+        "id": "3502909494",
+        "title": "Leggings warm und Langarmshirt Gr. 116",
+        "price": "7 €",
+        "location": "69412 Baden-Württemberg - Eberbach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0836aa0-9e23-48c6-9691-efc88bb8e3cb?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/leggings-warm-und-langarmshirt-gr-116/3502909494-22-15353",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909489": {
+        "id": "3502909489",
+        "title": "Sofa in Olivgrün",
+        "price": "90 €",
+        "location": "91052 Bayern - Erlangen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/861b2c75-f4f3-4e43-b504-a15b4abc712b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sofa-in-olivgruen/3502909489-88-6799",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909488": {
+        "id": "3502909488",
+        "title": "Tonie Der glückliche Löwe",
+        "price": "20 €",
+        "location": "18109 Rostock - Gross Klein",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b8631202-3b65-4f1b-949b-0107fd2006e9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tonie-der-glueckliche-loewe/3502909488-23-9532",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909487": {
+        "id": "3502909487",
+        "title": "2 Alte Hammer",
+        "price": "14 €",
+        "location": "49401 Niedersachsen - Damme",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/4642b7bc-e29e-4cf0-8731-6cbd9325d4b9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2-alte-hammer/3502909487-84-2617",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909486": {
+        "id": "3502909486",
+        "title": "Top Zustand Original Nike Sneaker Gr 28 nur für 18 euro",
+        "price": "18 €",
+        "location": "38226 Niedersachsen - Salzgitter",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/849db5b0-4ed3-4334-b99c-cfa9b264f9f6?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/top-zustand-original-nike-sneaker-gr-28-nur-fuer-18-euro/3502909486-19-2434",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3082860495": {
+        "id": "3082860495",
+        "title": "Alle Japanische Pokemon Booster Box / Display auf Lager - Nihil Zero, InfernoX, Mega Dream, Brave, Symphonia, Black Bolt, White Flare, Battle Partners, Vstar Universe, uvm.",
+        "price": "80 €",
+        "location": "28217 Walle - Handelshäfen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/effbf73e-19fe-4a77-ac4d-06126fbfb0a5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/alle-japanische-pokemon-booster-box-display-auf-lager-nihil-zero-infernox-mega-dream-brave-symphonia-black-bolt-white-flare-battle-partners-vstar-universe-uvm-/3082860495-234-27700",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3465818642": {
+        "id": "3465818642",
+        "title": "4",
+        "price": null,
+        "location": null,
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/8883398c-e3d8-4f40-b179-4836f2fc31b3?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/shopify-hilfe-bei-theme-apps-produkten-einstellungen-warenkorb-checkout-versand-kleinen-fehlern-ersteinschaetzung-kostenlos-ab-59-pro-stunde/3465818642-298-2066",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909485": {
+        "id": "3502909485",
+        "title": "Jacke gr. 62/68",
+        "price": "1 €",
+        "location": "06886 Sachsen-Anhalt - Lutherstadt Wittenberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68778281-4fed-4b29-a08e-c694d383c244?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/jacke-gr-62-68/3502909485-22-2394",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909484": {
+        "id": "3502909484",
+        "title": "Neue Atlas Sicherheitsschuhe Arbeitsschuhe Größe 44",
+        "price": "60 €",
+        "location": "42289 Wuppertal - Heckinghausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56f9a3f3-5013-4d39-a366-eeab04db80a0?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neue-atlas-sicherheitsschuhe-arbeitsschuhe-groesse-44/3502909484-158-1573",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909483": {
+        "id": "3502909483",
+        "title": "JVC, Fernseher,45 Zoll mit Receiver für Kabel Fernsehen,",
+        "price": "70 €",
+        "location": "72290 Baden-Württemberg - Loßburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5511d9b1-a9c2-487e-ba4e-87517e23c5fc?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/jvc-fernseher-45-zoll-mit-receiver-fuer-kabel-fernsehen-/3502909483-175-17626",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909482": {
+        "id": "3502909482",
+        "title": "Rückleuchten",
+        "price": "3 €",
+        "location": "02763 Sachsen - Zittau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/0638007a-012e-4b75-a6b1-947273790670?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/rueckleuchten/3502909482-223-4087",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3491720847": {
+        "id": "3491720847",
+        "title": "Damen Trachten Lederhose Country Maddox kurz Gr. 40 wie 38 NEU",
+        "price": "85 €",
+        "location": "86444 Bayern - Affing",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1265485-d88f-4233-8655-5a984c94f037?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/damen-trachten-lederhose-country-maddox-kurz-gr-40-wie-38-neu/3491720847-154-7048",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3491093998": {
+        "id": "3491093998",
+        "title": "Dainese Herren Motorrad Hose Kombi Textil Gr. 52 wie Neu",
+        "price": "85 €",
+        "location": "86444 Bayern - Affing",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/230c425f-e55a-4e65-8e90-ca35b232a0a4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/dainese-herren-motorrad-hose-kombi-textil-gr-52-wie-neu/3491093998-306-7048",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909480": {
+        "id": "3502909480",
+        "title": "diddl blätter a5 weiße und bunte",
+        "price": "1 €",
+        "location": "69469 Baden-Württemberg - Weinheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c99c075a-97dc-4975-b0f0-c70ebf84591f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/diddl-blaetter-a5-weisse-und-bunte/3502909480-234-8266",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909479": {
+        "id": "3502909479",
+        "title": "Lego Technic Paket 5 Sets 42151 42123 42093 42161 vollständig",
+        "price": "100 €",
+        "location": "40878 Nordrhein-Westfalen - Ratingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/9870a53c-7b50-41f6-aa72-cd4e93991ede?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lego-technic-paket-5-sets-42151-42123-42093-42161-vollstaendig/3502909479-23-1776",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909478": {
+        "id": "3502909478",
+        "title": "Granit Stein Säule Stufe",
+        "price": "60 €",
+        "location": "94051 Bayern - Hauzenberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/74dd66b7-42df-43c3-8dcd-dbdfe1779278?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/granit-stein-saeule-stufe/3502909478-87-7479",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909476": {
+        "id": "3502909476",
+        "title": "Türkontakt Fenster Kontakt Alarm WLAN Tuya Smartphone App NEU",
+        "price": "8 €",
+        "location": "91054 Bayern - Erlangen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6d5ed06-e96a-4535-a613-66245bc4014b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tuerkontakt-fenster-kontakt-alarm-wlan-tuya-smartphone-app-neu/3502909476-168-6800",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909475": {
+        "id": "3502909475",
+        "title": "Fußmatte Stich",
+        "price": "5 €",
+        "location": "03226 Brandenburg - Vetschau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5caf69db-772b-4cf6-b6ee-4b86cf5f89d4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/fussmatte-stich/3502909475-90-7805",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909474": {
+        "id": "3502909474",
+        "title": "4x225/60/17 Winterreifen",
+        "price": "175 €",
+        "location": "78647 Baden-Württemberg - Trossingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8be72548-e8f5-4e80-844d-22897638989d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/4x225-60-17-winterreifen/3502909474-223-8497",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909473": {
+        "id": "3502909473",
+        "title": "Kinderbett „Fee“ – Rosa/Weiß mit Ausziehbett",
+        "price": "150 € VB",
+        "location": "13055 Berlin - Hohenschönhausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/ea12b6cc-8472-4b08-a5ff-7e9a82181b87?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/-kinderbett-fee-rosa-weiss-mit-ausziehbett-/3502909473-20-3358",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909472": {
+        "id": "3502909472",
+        "title": "Paul Green High Heels Stiefeletten Plateau schwarz 38 Stiletto",
+        "price": "60 €",
+        "location": "40545 Düsseldorf - Oberkassel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee9d689-09f3-4ab9-bb7b-43533114f303?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/paul-green-high-heels-stiefeletten-plateau-schwarz-38-stiletto/3502909472-159-2071",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909471": {
+        "id": "3502909471",
+        "title": "Dogs Creek Sicherheitsgeschirr Revolution M Hunde Geschirr",
+        "price": "30 € VB",
+        "location": "38536 Niedersachsen - Meinersen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/310c03b7-c937-4847-8283-cf70f9f4c111?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/dogs-creek-sicherheitsgeschirr-revolution-m-hunde-geschirr/3502909471-313-2680",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3497021760": {
+        "id": "3497021760",
+        "title": "Bosch Home & Garden Konvolut 18V Elektrowerkzeug",
+        "price": "249 €",
+        "location": "03172 Brandenburg - Guben",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12cf3029-6751-4129-8a49-b44ace749778?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/bosch-home-garden-konvolut-18v-elektrowerkzeug/3497021760-84-7770",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3081538880": {
+        "id": "3081538880",
+        "title": "Vermiete Lager-Container, Lagerraum, Selfstorage in Erlenstegen",
+        "price": "69 €",
+        "location": "90411 Nürnberg (Mittelfr) - Nordstadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/487a1757-e93c-4768-9b40-fd512331ac98?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/vermiete-lager-container-lagerraum-selfstorage-in-erlenstegen/3081538880-402-6821",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3452514083": {
+        "id": "3452514083",
+        "title": "2x Audi 80 90 B2 B3 B4 Cabrio Coupe Passat Anschlag Neu 811412319",
+        "price": "45 €",
+        "location": "41539 Nordrhein-Westfalen - Dormagen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26845478-2553-4b52-8406-c48de9bd99e1?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2x-audi-80-90-b2-b3-b4-cabrio-coupe-passat-anschlag-neu-811412319/3452514083-223-1879",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "2054349332": {
+        "id": "2054349332",
+        "title": "MIETE Radlader mieten Hoflader Anmieten  Bagger 1400 Kg Huplast  • inkl. Palettengabel • inkl. Schaufel • Langzeitmiete möglich • Lieferung/Abholung möglich / Avant 755i",
+        "price": "130 €",
+        "location": "64823 Hessen - Groß-Umstadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/846bf4e5-5b8c-4fe8-aa2b-2380f60d22e3?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/miete-radlader-mieten-hoflader-anmieten-bagger-1400-kg-huplast-inkl-palettengabel-inkl-schaufel-langzeitmiete-moeglich-lieferung-abholung-moeglich-avant-755i/2054349332-239-4472",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3204831277": {
+        "id": "3204831277",
+        "title": "Kartenlegen-seriös -einfühlsam und ehrlich",
+        "price": "13 €",
+        "location": "66115 Saarbrücken-West - Burbach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ecdb40f7-d3d1-4754-ab51-a6cfb516418d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kartenlegen-serioes-einfuehlsam-und-ehrlich/3204831277-298-384",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3138412737": {
+        "id": "3138412737",
+        "title": "Umzug? Entrümpelung? Transport? – Schnell & Zuverlässig mit Fahrer oder Team!",
+        "price": "39 € VB",
+        "location": "45136 Essen - Bergerhausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/3679bacd-27a6-4312-828b-1d2160606db4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/-umzug-entruempelung-transport-schnell-zuverlaessig-mit-fahrer-oder-team-/3138412737-238-2051",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909468": {
+        "id": "3502909468",
+        "title": "Buderus Logamatic Heizungssteuerung",
+        "price": "200 €",
+        "location": "55545 Rheinland-Pfalz - Bad Kreuznach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e3cff6-a12f-49bd-bca7-554954d3cf51?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/buderus-logamatic-heizungssteuerung/3502909468-84-5075",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909469": {
+        "id": "3502909469",
+        "title": "Mega Bluse xxl 42 44",
+        "price": "6 €",
+        "location": "55543 Rheinland-Pfalz - Bad Kreuznach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f4d81d0-4984-4956-bfc0-9196be19d4dd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/mega-bluse-xxl-42-44/3502909469-154-5073",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909467": {
+        "id": "3502909467",
+        "title": "Absolut Kleid Gr.4",
+        "price": "60 €",
+        "location": "78315 Baden-Württemberg - Radolfzell am Bodensee",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0c8c0d7f-340b-413a-bc6a-1c9bdcf50a84?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/absolut-kleid-gr-4/3502909467-154-8190",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909465": {
+        "id": "3502909465",
+        "title": "AVM Fritzbox Fritz!Box 7520 VK 1und1 1&1 Homeserver Wlan Router",
+        "price": "36 € VB",
+        "location": "58513 Nordrhein-Westfalen - Lüdenscheid",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70dec4b1-1504-488a-8d34-1e88eb50442b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/avm-fritzbox-fritz-box-7520-vk-1und1-1-1-homeserver-wlan-router/3502909465-225-1805",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909464": {
+        "id": "3502909464",
+        "title": "Kinderfahrrad 20 zoll",
+        "price": "50 € VB",
+        "location": "39326 Sachsen-Anhalt - Hermsdorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b319fd83-d811-44bf-a5bf-4f5c98c16347?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kinderfahrrad-20-zoll/3502909464-217-17270",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909463": {
+        "id": "3502909463",
+        "title": "Gelbe Herz Sonnenbrille",
+        "price": "5 €",
+        "location": "72762 Baden-Württemberg - Reutlingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6bf804f2-fa3e-4171-8e7e-3fdef237aad9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/gelbe-herz-sonnenbrille/3502909463-156-9351",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909461": {
+        "id": "3502909461",
+        "title": "EUREX BY BRAX HERRENJEANS W56 L 30 STRETCH!!",
+        "price": "13 €",
+        "location": "95448 Bayern - Bayreuth",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0ec6193-e433-4018-9e77-5fc654fcd723?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/eurex-by-brax-herrenjeans-w56-l-30-stretch-/3502909461-160-7493",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909459": {
+        "id": "3502909459",
+        "title": "Herr der Ringe DVD Sammlerbox Die Rückkehr des Königs  ungeöffnet",
+        "price": "40 € VB",
+        "location": "47506 Nordrhein-Westfalen - Neukirchen-Vluyn",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbd795f4-55aa-4d3d-8169-14f5da3c86e9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/herr-der-ringe-dvd-sammlerbox-die-rueckkehr-des-koenigs-ungeoeffnet/3502909459-79-1128",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909458": {
+        "id": "3502909458",
+        "title": "2",
+        "price": null,
+        "location": null,
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86c90936-4a6d-4a59-a801-dbc3dd54222b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sneaker-gabor-rolling-soft-gr-38/3502909458-159-2573",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909457": {
+        "id": "3502909457",
+        "title": "Why We Eat (Too Much) - Dr. Andrew Jenkinson",
+        "price": "4 €",
+        "location": "80992 München - Moosach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e7f4e03e-ab77-4134-84de-b13d6557f6e4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/why-we-eat-too-much-dr-andrew-jenkinson/3502909457-76-6447",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909455": {
+        "id": "3502909455",
+        "title": "2 Alte Koffer",
+        "price": "18 €",
+        "location": "49401 Niedersachsen - Damme",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c0151f6-b014-4e14-b711-909e2c39527a?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2-alte-koffer/3502909455-240-2617",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909453": {
+        "id": "3502909453",
+        "title": "Amsterdam Herrenfahrrad, gut gepflegt",
+        "price": "100 € VB",
+        "location": "09111 Sachsen - Chemnitz",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20031e6d-b50f-43a1-a533-7b096c324e13?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/amsterdam-herrenfahrrad-gut-gepflegt/3502909453-217-3886",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909452": {
+        "id": "3502909452",
+        "title": "TP-Link Access-Point TL-WA1201 WI-Fi 5 Dualband Wlan Gigabit",
+        "price": "28 € VB",
+        "location": "58513 Nordrhein-Westfalen - Lüdenscheid",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/782ca231-5f93-4f49-b97b-1c936545ef55?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tp-link-access-point-tl-wa1201-wi-fi-5-dualband-wlan-gigabit/3502909452-225-1805",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909451": {
+        "id": "3502909451",
+        "title": "2",
+        "price": null,
+        "location": null,
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd71c02f-2264-452b-bcc7-36c2d61a07df?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/16-defekte-android-handys/3502909451-173-416",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909450": {
+        "id": "3502909450",
+        "title": "Kommode zu verschenken",
+        "price": "Zu verschenken",
+        "location": "78078 Baden-Württemberg - Niedereschach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14819b35-7037-4b1b-8670-274d5eee0aa2?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kommode-zu-verschenken/3502909450-88-8516",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "2746519018": {
+        "id": "2746519018",
+        "title": "GARAGE MIETEN in 55597 Wöllstein",
+        "price": "95 €",
+        "location": "67551 Rheinland-Pfalz - Worms",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0de2cc26-374d-467e-b624-e152badd14dd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/garage-mieten-in-55597-woellstein/2746519018-197-5197",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "2615603504": {
+        "id": "2615603504",
+        "title": "Online Nachhilfe in Mathe & Informatik für Studierende und Schüler:innen",
+        "price": "60 €",
+        "location": "92224 Bayern - Amberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-static/images/placeholder/nachhilfe?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/online-nachhilfe-in-mathe-informatik-fuer-studierende-und-schueler-innen/2615603504-268-5790",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909449": {
+        "id": "3502909449",
+        "title": "ATU Wanderschuhe für Damen",
+        "price": "29 €",
+        "location": "85540 Kr. München - Haar",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/963303c0-602c-4828-9f5b-d01597df684c?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/atu-wanderschuhe-fuer-damen/3502909449-159-6185",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909448": {
+        "id": "3502909448",
+        "title": "Scott Contessa Mountainbike 26 Zoll – weiß / lila -Shimano",
+        "price": "150 € VB",
+        "location": "47506 Nordrhein-Westfalen - Neukirchen-Vluyn",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/253dcf58-cd1d-4003-87e8-8340e63a41de?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/scott-contessa-mountainbike-26-zoll-weiss-lila-shimano/3502909448-217-1128",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909447": {
+        "id": "3502909447",
+        "title": "ABC Kinderwagen",
+        "price": "60 € VB",
+        "location": "49479 Ibbenbüren - Püsselbüren",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a69c5ed-9c8d-4911-adf3-c66e42ddb2c0?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/abc-kinderwagen/3502909447-25-29414",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909446": {
+        "id": "3502909446",
+        "title": "Neu Steppmantel warm gefüttert in Größe 42",
+        "price": "50 €",
+        "location": "14913 Brandenburg - Jüterbog",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/dab6ba23-afd0-49af-89d1-16f18d19e796?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neu-steppmantel-warm-gefuettert-in-groesse-42/3502909446-154-18650",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909445": {
+        "id": "3502909445",
+        "title": "Roulette Buch Bücher",
+        "price": "48 €",
+        "location": "42551 Nordrhein-Westfalen - Velbert",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/836f1db0-1fc3-46eb-9041-0ce54edcffa5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/roulette-buch-buecher/3502909445-77-1749",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909444": {
+        "id": "3502909444",
+        "title": "Tonie Winter Lieder",
+        "price": "9 €",
+        "location": "18109 Rostock - Gross Klein",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/6208e938-67b0-4cec-a977-6e93cb978e1f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tonie-winter-lieder/3502909444-23-9532",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909443": {
+        "id": "3502909443",
+        "title": "diddl blätter a5 weiße und bunte",
+        "price": "1 €",
+        "location": "69469 Baden-Württemberg - Weinheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2b46412-9e53-402b-8902-3a369c9cb591?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/diddl-blaetter-a5-weisse-und-bunte/3502909443-234-8266",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909442": {
+        "id": "3502909442",
+        "title": "Disney Baby Set Gr. 62",
+        "price": "3 €",
+        "location": "41515 Nordrhein-Westfalen - Grevenbroich",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f058a04f-feec-4657-b1ee-6ecb9d0537a3?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/disney-baby-set-gr-62/3502909442-22-1824",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909441": {
+        "id": "3502909441",
+        "title": "2xHängelampen ,Versand kostenfrei !!!❤️❤️",
+        "price": "55 €",
+        "location": "23936 Nordwestmecklenburg - Landkreis - Grevesmuehlen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59fdba4c-bcdb-44f5-a206-79ec6cb2c0ba?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2xhaengelampen-versand-kostenfrei-/3502909441-82-222",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909440": {
+        "id": "3502909440",
+        "title": "Tisch  zu verkaufen",
+        "price": "60 €",
+        "location": "70469 Stuttgart - Feuerbach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7a5b2a94-5816-4eec-8c42-59f8f4abd9cb?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tisch-zu-verkaufen/3502909440-86-9305",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909438": {
+        "id": "3502909438",
+        "title": "Schwarzer trägerloser Jumpsuit",
+        "price": "25 €",
+        "location": "74564 Baden-Württemberg - Crailsheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f71c3981-1121-4a28-9252-d18fd93859e5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/schwarzer-traegerloser-jumpsuit/3502909438-154-9134",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909435": {
+        "id": "3502909435",
+        "title": "Sweathose ♦️ H&M /Hose /Jogger /Jogginghose Gr 134/140",
+        "price": "48 €",
+        "location": "13407 Berlin - Reinickendorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c4f7b4d-40b2-467c-a7de-69a67e359b2b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sweathose-h-m-hose-jogger-jogginghose-gr-134-140/3502909435-22-3460",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909433": {
+        "id": "3502909433",
+        "title": "warme robuste Cord Hose von Jako-o",
+        "price": "20 €",
+        "location": "74653 Baden-Württemberg - Ingelfingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/449f325b-1ffd-415b-aa07-9a7909e200ef?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/warme-robuste-cord-hose-von-jako-o/3502909433-22-26281",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909432": {
+        "id": "3502909432",
+        "title": "drei kleinere Aloewerapflanzen",
+        "price": "1 €",
+        "location": "90411 Nürnberg (Mittelfr) - Nordstadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b0ae8963-9600-4349-864d-6b569deebc85?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/drei-kleinere-aloewerapflanzen/3502909432-89-6821",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909431": {
+        "id": "3502909431",
+        "title": "Latzhose H&M 116",
+        "price": "5 €",
+        "location": "25693 Dithmarschen - St. Michaelisdonn",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8583393-c8cf-47bb-86d7-a2e5f6030b95?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/latzhose-h-m-116/3502909431-22-19576",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909430": {
+        "id": "3502909430",
+        "title": "DJI Phantom 3 Standard Drohne mit Koffer & Zubehör",
+        "price": "200 €",
+        "location": "40764 Nordrhein-Westfalen - Langenfeld",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed4a863f-626a-4be0-b317-a4063d843be6?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/dji-phantom-3-standard-drohne-mit-koffer-zubehoer/3502909430-168-1863",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909429": {
+        "id": "3502909429",
+        "title": "*Nike* Air Max TN Gr.42",
+        "price": "20 €",
+        "location": "13349 Mitte - Wedding",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db60e5ff-277f-4169-a494-81b7e6969c90?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/-nike-air-max-tn-gr-42/3502909429-158-3509",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909428": {
+        "id": "3502909428",
+        "title": "2 Alte Lampen",
+        "price": "21 €",
+        "location": "49401 Niedersachsen - Damme",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205c8e4f-17f6-4a1f-b7a0-f879b7bcd1d4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2-alte-lampen/3502909428-240-2617",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909427": {
+        "id": "3502909427",
+        "title": "Siemens IQ500 Geschirrspülmaschine unterbaufähig silber",
+        "price": "210 €",
+        "location": "59425 Nordrhein-Westfalen - Unna",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5be75a56-3bba-4834-b3ed-e0fed7d1af8e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/siemens-iq500-geschirrspuelmaschine-unterbaufaehig-silber/3502909427-176-1839",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3390245412": {
+        "id": "3390245412",
+        "title": "Mutterboden / Gartenerde mit Sand & Kompost | Jetzt Anfragen",
+        "price": "47 € VB",
+        "location": "79232 Freiburg im Breisgau - March",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/ef506ac6-d0fd-410b-b22c-faa5c23545be?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/mutterboden-gartenerde-mit-sand-kompost-jetzt-anfragen/3390245412-87-9358",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3438159619": {
+        "id": "3438159619",
+        "title": "Falck Noeske Garten- und Landschaftspflege",
+        "price": "30 € VB",
+        "location": "31275 Niedersachsen - Lehrte",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5431ab1-f6b7-4549-8b95-ca6fc438b027?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/falck-noeske-garten-und-landschaftspflege/3438159619-239-2910",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909424": {
+        "id": "3502909424",
+        "title": "ION Vega Kitesurf Trapez Größe 36/38",
+        "price": "75 € VB",
+        "location": "86916 Bayern - Kaufering",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e2c0a51-a0a3-49d8-807e-90dab89e6f8b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ion-vega-kitesurf-trapez-groesse-36-38/3502909424-230-7095",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909423": {
+        "id": "3502909423",
+        "title": "Ring Spotlight Cam Plus Outdoor",
+        "price": "70 €",
+        "location": "67578 Rheinland-Pfalz - Gimbsheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2265519a-a3bf-482d-ae23-820ea2e636da?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ring-spotlight-cam-plus-outdoor/3502909423-245-4465",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909422": {
+        "id": "3502909422",
+        "title": "Abendkleid Blau Größe 4XL",
+        "price": "4 € VB",
+        "location": "23795 Schleswig-Holstein - Bad Segeberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3ee8ac92-49f0-4ea8-ab12-bd93baa86cbe?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/abendkleid-blau-groesse-4xl/3502909422-154-13372",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909421": {
+        "id": "3502909421",
+        "title": "4x195/65/15 Winterreifen",
+        "price": "100 €",
+        "location": "78647 Baden-Württemberg - Trossingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3836bad-cb61-4533-a0af-f7f25db4d130?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/4x195-65-15-winterreifen/3502909421-223-8497",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909420": {
+        "id": "3502909420",
+        "title": "EMS Fußmassagegerät / Massage-Matte mit Fernbedienung in OVP",
+        "price": "15 € VB",
+        "location": "60326 Frankfurt am Main - Gallusviertel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38b9d164-8da8-4eba-a110-4f46c6c1a9dd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ems-fussmassagegeraet-massage-matte-mit-fernbedienung-in-ovp/3502909420-224-4306",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909419": {
+        "id": "3502909419",
+        "title": "Wichtelpuppe David von Rosemarie Anna Müller, 35/500",
+        "price": "80 € VB",
+        "location": "18059 Rostock - Südstadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/45cdd36b-99bb-4892-80cb-fd06c8145565?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/wichtelpuppe-david-von-rosemarie-anna-mueller-35-500/3502909419-234-13049",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909418": {
+        "id": "3502909418",
+        "title": "Luffy/Ruffy Figur Resin Handbemaltes Unikat",
+        "price": "70 €",
+        "location": "70378 Mühlhausen - Stuttgart Neugereut",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/7106c77d-459c-4c65-a62f-389510e7d8dc?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/luffy-ruffy-figur-resin-handbemaltes-unikat/3502909418-234-27090",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909416": {
+        "id": "3502909416",
+        "title": "Asien: Eine kulinarische Reise - Kochbuch",
+        "price": "6 €",
+        "location": "80992 München - Moosach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205f6612-27ea-46ff-8b82-cc75844cb433?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/asien-eine-kulinarische-reise-kochbuch/3502909416-76-6447",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909415": {
+        "id": "3502909415",
+        "title": "Tonie Benjamin Blümchen",
+        "price": "10 €",
+        "location": "18109 Rostock - Gross Klein",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8b8a7fc-dbdf-4efb-a6af-f68e9ceda64a?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tonie-benjamin-bluemchen/3502909415-23-9532",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909414": {
+        "id": "3502909414",
+        "title": "FHB Arbeitsjacke in Blau-Schwarz, Größe L, wie neu",
+        "price": "50 €",
+        "location": "42289 Wuppertal - Heckinghausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/8671dc8a-96b7-4365-ad10-6c9c52b0bd88?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/fhb-arbeitsjacke-in-blau-schwarz-groesse-l-wie-neu/3502909414-160-1573",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909412": {
+        "id": "3502909412",
+        "title": "Ikea Bett Leirvik,1,60×2,00m inkl. 2 Lattenroste + 2 Matratzen",
+        "price": "25 € VB",
+        "location": "44329 Dortmund - Lanstrop",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8463b56-238a-460b-bc0a-49e6278acd77?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ikea-bett-leirvik-1-60-2-00m-inkl-2-lattenroste-2-matratzen/3502909412-81-27528",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909411": {
+        "id": "3502909411",
+        "title": "Plissee neu zwei Stück",
+        "price": "10 €",
+        "location": "37079 Niedersachsen - Göttingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/07fd93db-55b7-400c-a450-55aa014e1792?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/plissee-neu-zwei-stueck/3502909411-90-3136",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909410": {
+        "id": "3502909410",
+        "title": "Nespresso Kaffeemaschine",
+        "price": "30 €",
+        "location": "21109 Hamburg-Mitte - Hamburg Wilhelmsburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d66bfc8-bd1a-466b-b50e-ed89ba952dc3?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/nespresso-kaffeemaschine/3502909410-176-9442",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909409": {
+        "id": "3502909409",
+        "title": "Sherrygläser + Karaffe von Nachtmann",
+        "price": "45 €",
+        "location": "21709 Niedersachsen - Himmelpforten",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88deb74a-e2f3-4b28-b437-70d942bed946?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sherryglaeser-karaffe-von-nachtmann/3502909409-86-2819",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909408": {
+        "id": "3502909408",
+        "title": "Merkur ADP Geldspielautomat Spielautomat Münzauswurf Rutsche",
+        "price": "10 €",
+        "location": "45357 Essen - Essen-Borbeck",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4b355ca-bb78-41a8-aa28-388d28935e75?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/merkur-adp-geldspielautomat-spielautomat-muenzauswurf-rutsche/3502909408-168-2032",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909407": {
+        "id": "3502909407",
+        "title": "Pullover gr. 34/36",
+        "price": "3 €",
+        "location": "06886 Sachsen-Anhalt - Lutherstadt Wittenberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/3216308d-b8e5-4589-a441-a079cb7ac80e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/pullover-gr-34-36/3502909407-154-2394",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909405": {
+        "id": "3502909405",
+        "title": "Hoodie pink xxl",
+        "price": "12 €",
+        "location": "42477 Nordrhein-Westfalen - Radevormwald",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/9303ee86-44f6-4b9e-aaf6-51b8dd576a76?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hoodie-pink-xxl/3502909405-154-1560",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909404": {
+        "id": "3502909404",
+        "title": "Ortovox SWISSWOOL Col Becchei Hybrid Jacke Größe XL.",
+        "price": "125 € VB",
+        "location": "59929 Nordrhein-Westfalen - Brilon",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a710012-645b-4eff-9b5b-090c1c7beeee?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ortovox-swisswool-col-becchei-hybrid-jacke-groesse-xl-/3502909404-160-1269",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "2768730353": {
+        "id": "2768730353",
+        "title": "Brennholz/ Kaminholz/ Feuerholz/ Hartholz",
+        "price": "120 €",
+        "location": "71229 Baden-Württemberg - Leonberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2825bdee-acc4-4e18-ae56-4f9045d3b4cd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/brennholz-kaminholz-feuerholz-hartholz/2768730353-87-8441",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3456758817": {
+        "id": "3456758817",
+        "title": "Saeco Tchibo cafissimo Kaffeeautomat",
+        "price": "25 €",
+        "location": "14163 Berlin - Zehlendorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1df7340-e6c9-4295-9073-8aff4974eb85?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/saeco-tchibo-cafissimo-kaffeeautomat/3456758817-86-3527",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909402": {
+        "id": "3502909402",
+        "title": "Eleganter weißer Jumpsuit trägerlos",
+        "price": "25 €",
+        "location": "74564 Baden-Württemberg - Crailsheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d2160ab7-fc83-4674-8ee8-87f2b60a9f61?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/eleganter-weisser-jumpsuit-traegerlos/3502909402-154-9134",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909400": {
+        "id": "3502909400",
+        "title": "Ereshkigal Fate Grand Order Cosplay maid",
+        "price": "15 €",
+        "location": "44369 Dortmund - Huckarde",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b687cc8b-ca89-4532-9fe7-796ffcede535?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ereshkigal-fate-grand-order-cosplay-maid/3502909400-155-1102",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "2032378785": {
+        "id": "2032378785",
+        "title": "Blockstufen Treppenstufen Naturstein 100 35 14-16cm  Sonderpreis!",
+        "price": "65 €",
+        "location": "59427 Nordrhein-Westfalen - Unna",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/3646b66e-2ada-41bc-97e9-36e5c71d0ffd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/blockstufen-treppenstufen-naturstein-100-35-14-16cm-sonderpreis-/2032378785-84-1840",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502414476": {
+        "id": "3502414476",
+        "title": "Mähroboter GARDENA R40Li",
+        "price": "119 € VB",
+        "location": "53757 Nordrhein-Westfalen - Sankt Augustin",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e76ad473-02cf-4a38-b252-0c1b04872a03?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/maehroboter-gardena-r40li/3502414476-89-1861",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909398": {
+        "id": "3502909398",
+        "title": "diddl blätter a6 weiße und bunte",
+        "price": "1 €",
+        "location": "69469 Baden-Württemberg - Weinheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/185570e2-37af-445e-a1b7-b4f2f6072cba?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/diddl-blaetter-a6-weisse-und-bunte/3502909398-234-8266",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909397": {
+        "id": "3502909397",
+        "title": "Allude 100% Kaschmirpullover Rundhalspullover Creme Off-White XS",
+        "price": "89 € VB",
+        "location": "45141 Essen - Stoppenberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8dd16a44-f5fc-4347-b421-885ad37a6ae1?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/allude-100-kaschmirpullover-rundhalspullover-creme-off-white-xs/3502909397-154-2057",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909396": {
+        "id": "3502909396",
+        "title": "Schöne Glasvase mit Facettenschliff 8 x",
+        "price": "5 €",
+        "location": "63762 Bayern - Großostheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c8d64377-39ae-4388-a87d-78a37e3adced?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/schoene-glasvase-mit-facettenschliff-8-x/3502909396-246-7416",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909395": {
+        "id": "3502909395",
+        "title": "Wickelkommode mit Bärenmotiv für das Kinderzimmer",
+        "price": "20 € VB",
+        "location": "32584 Nordrhein-Westfalen - Löhne",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f9d5449-8e7e-41b9-b16d-7c94f6972ab2?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/wickelkommode-mit-baerenmotiv-fuer-das-kinderzimmer/3502909395-20-1220",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909394": {
+        "id": "3502909394",
+        "title": "Reer Heizstrahler mit Standfuß – Baby Wickeltisch Heizstrahler",
+        "price": "25 €",
+        "location": "99518 Thüringen - Bad Sulza",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa0d17ea-2755-4486-bf29-967b7f7586d7?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/reer-heizstrahler-mit-standfuss-baby-wickeltisch-heizstrahler/3502909394-258-20812",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909393": {
+        "id": "3502909393",
+        "title": "Anita ... extravaganter Badeanzug ... Gr. 40 C ... neu/NP 139",
+        "price": "27 €",
+        "location": "72074 Baden-Württemberg - Tübingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/9609e418-afa9-42a0-acb2-02769b41edeb?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/anita-extravaganter-badeanzug-gr-40-c-neu-np-139/3502909393-154-9095",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909391": {
+        "id": "3502909391",
+        "title": "Shein Kleid lila Gr. 62",
+        "price": "1 €",
+        "location": "41515 Nordrhein-Westfalen - Grevenbroich",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84b79bec-86e3-43b7-b27d-2ed3529a0276?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/shein-kleid-lila-gr-62/3502909391-22-1824",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909389": {
+        "id": "3502909389",
+        "title": "Mercedes-Benz Audio 10 CD Autoradio",
+        "price": "60 € VB",
+        "location": "73230 Baden-Württemberg - Kirchheim unter Teck",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9116708-33fb-4502-b0a6-8f6f91f882f9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/mercedes-benz-audio-10-cd-autoradio/3502909389-223-8464",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909388": {
+        "id": "3502909388",
+        "title": "Mercedes W108 W114 W115 /8 W116 Knopf Becker Autoradio",
+        "price": "10 €",
+        "location": "15377 Brandenburg - Buckow (Märkische Schweiz)",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab2fd3bf-ca27-45dc-b86e-e4520ecab792?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/mercedes-w108-w114-w115-8-w116-knopf-becker-autoradio/3502909388-223-18194",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909386": {
+        "id": "3502909386",
+        "title": "verkaufe katzenstreu",
+        "price": "250 €",
+        "location": "35396 Hessen - Gießen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f39beed3-422a-4c31-92fa-6126b4fe210b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/verkaufe-katzenstreu/3502909386-313-4711",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909385": {
+        "id": "3502909385",
+        "title": "off Shoulder Top weis",
+        "price": "2 €",
+        "location": "04103 Leipzig - Leipzig, Zentrum",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/4322ccb8-090a-41f0-bf05-72ea6fd3c49c?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/off-shoulder-top-weis/3502909385-154-4259",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909384": {
+        "id": "3502909384",
+        "title": "Kleinanzeigen Velbert Mode & Beauty Uhren & Schmuck Deine Anzeige",
+        "price": "3 €",
+        "location": "42551 Nordrhein-Westfalen - Velbert",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c60432-15a3-42ce-be04-8b5163d5dddf?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kleinanzeigen-velbert-mode-beauty-uhren-schmuck-deine-anzeige/3502909384-157-1749",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909383": {
+        "id": "3502909383",
+        "title": "Pegasus Avanti 28 Zoll Damentahrrad grau Top Zustand",
+        "price": "250 € VB",
+        "location": "50226 Nordrhein-Westfalen - Frechen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/0974000e-717b-4782-87f0-93d85d33f1b6?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/pegasus-avanti-28-zoll-damentahrrad-grau-top-zustand/3502909383-217-1160",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909382": {
+        "id": "3502909382",
+        "title": "IKEA SUNDVIK Kinder-Tischset",
+        "price": "15 €",
+        "location": "10969 Friedrichshain-Kreuzberg - Kreuzberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3fa39e9a-d318-4983-9300-d0104b1b2662?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ikea-sundvik-kinder-tischset/3502909382-20-9632",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909381": {
+        "id": "3502909381",
+        "title": "Handgemachte Blumen",
+        "price": "20 €",
+        "location": "57489 Nordrhein-Westfalen - Drolshagen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9991fa5-011a-407f-8a01-6f811c459fb3?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/handgemachte-blumen/3502909381-282-1530",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909380": {
+        "id": "3502909380",
+        "title": "Wichtelpuppe Elly von Rosemarie Anna Müller 120/500",
+        "price": "80 € VB",
+        "location": "18059 Rostock - Südstadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66d688a7-3adb-49aa-ab14-01f341f6bb23?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/wichtelpuppe-elly-von-rosemarie-anna-mueller-120-500/3502909380-234-13049",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909379": {
+        "id": "3502909379",
+        "title": "Schreibtisch klein (100cm x 70cm)",
+        "price": "Zu verschenken",
+        "location": "54427 Rheinland-Pfalz - Kell am See",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e429974d-b622-484d-968a-8a76da85e39a?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/schreibtisch-klein-100cm-x-70cm-/3502909379-93-357",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909377": {
+        "id": "3502909377",
+        "title": "Opel Astra G Feder - Vauxhall 49759",
+        "price": "12 € VB",
+        "location": "23795 Schleswig-Holstein - Bad Segeberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/2679f740-c71b-4e9b-85b5-babd08630e95?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/opel-astra-g-feder-vauxhall-49759/3502909377-223-13372",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "2868084238": {
+        "id": "2868084238",
+        "title": "Trapezbleche, Dachziegelbleche, Stehfalz, Wandbleche, Dachbleche, Werksverkauf",
+        "price": "10 €",
+        "location": "16269 Brandenburg - Wriezen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/270f8ea9-8a49-467c-81bf-28408c61839b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/trapezbleche-dachziegelbleche-stehfalz-wandbleche-dachbleche-werksverkauf/2868084238-84-7849",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3293613944": {
+        "id": "3293613944",
+        "title": "Siebdruckplatten ab 10,95 €/m²",
+        "price": "10 €",
+        "location": "19258 Mecklenburg-Vorpommern - Tessin b. Boizenburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4bb6bd17-33b1-4184-b85b-cc1f873d2426?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/siebdruckplatten-ab-10-95-m-/3293613944-84-26669",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909376": {
+        "id": "3502909376",
+        "title": "4x195/65/15 Winterreifen",
+        "price": "145 €",
+        "location": "78647 Baden-Württemberg - Trossingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/34714858-a854-44ea-b4df-1e90f213561d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/4x195-65-15-winterreifen/3502909376-223-8497",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909375": {
+        "id": "3502909375",
+        "title": "Bekleidungspaket Jungen 12-teilig Größe 158/164 H&M Puma Crivit",
+        "price": "10 €",
+        "location": "44309 Dortmund - Brackel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61df0a51-78e8-4223-9b6d-e519243a8246?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/bekleidungspaket-jungen-12-teilig-groesse-158-164-h-m-puma-crivit/3502909375-22-1100",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909374": {
+        "id": "3502909374",
+        "title": "Leere Kartons",
+        "price": "Zu verschenken",
+        "location": "45899 Nordrhein-Westfalen - Gelsenkirchen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/221ac3a0-de6f-4173-9983-3dc9b4bbb2ba?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/leere-kartons/3502909374-234-1004",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909372": {
+        "id": "3502909372",
+        "title": "Alter Wandbehang",
+        "price": "20 €",
+        "location": "04179 Leipzig - Altlindenau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0d914570-0f7b-413f-ab63-526c9e9df6ce?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/alter-wandbehang/3502909372-246-4236",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909371": {
+        "id": "3502909371",
+        "title": "Zinnfiguren Kulmbach geschütztransport 1556",
+        "price": "25 €",
+        "location": "46483 Nordrhein-Westfalen - Wesel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86d8fe2a-ff68-4de4-8d3a-f479626225d5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/zinnfiguren-kulmbach-geschuetztransport-1556/3502909371-234-1867",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909370": {
+        "id": "3502909370",
+        "title": "NEU Set Diddl Maus dm Kosmetik Produkte Limited Edition Limitiert",
+        "price": "45 €",
+        "location": "14776 Brandenburg - Brandenburg an der Havel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17963c41-9e40-488a-8207-e8cb3649f7e8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neu-set-diddl-maus-dm-kosmetik-produkte-limited-edition-limitiert/3502909370-224-7737",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909368": {
+        "id": "3502909368",
+        "title": "Ozzy Osbourne Live on Stage 2002 DVD Sony Music Englisch",
+        "price": "25 €",
+        "location": "12167 Berlin - Steglitz",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72416c44-cb8d-4483-8f22-dabcc5d3e3a2?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ozzy-osbourne-live-on-stage-2002-dvd-sony-music-englisch/3502909368-79-3421",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909367": {
+        "id": "3502909367",
+        "title": "Gürtel Schwarz Gold",
+        "price": "1 €",
+        "location": "04103 Leipzig - Leipzig, Zentrum",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d251da-49a2-44b9-a602-084faa5de09e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/guertel-schwarz-gold/3502909367-156-4259",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909366": {
+        "id": "3502909366",
+        "title": "Damen Steppjacke dunkelblau - neu ohne Etikett",
+        "price": "16 € VB",
+        "location": "95152 Bayern - Selbitz",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e651f752-61e4-41b9-b5bf-9ddda3d7f3d8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/damen-steppjacke-dunkelblau-neu-ohne-etikett/3502909366-154-7223",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909365": {
+        "id": "3502909365",
+        "title": "Behringer Eurorack UB1832FX-PRO Mischpult",
+        "price": "75 €",
+        "location": "47226 Duisburg - Rheinhausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7466cc4b-5914-44be-ba2f-09f4b50fcf72?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/behringer-eurorack-ub1832fx-pro-mischpult/3502909365-74-2136",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909364": {
+        "id": "3502909364",
+        "title": "Vila Mantel in Mint, Gr. 34 / XS, neu mit Etikett",
+        "price": "45 €",
+        "location": "24111 Kiel - Russee-Hammer",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/00970501-24b6-4f4f-99f0-a6c92b26f3f0?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/vila-mantel-in-mint-gr-34-xs-neu-mit-etikett/3502909364-154-706",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909363": {
+        "id": "3502909363",
+        "title": "Rock von Marco OPolo",
+        "price": "89 €",
+        "location": "50858 Lindenthal - Köln Weiden",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0c0afa26-738e-431c-b5ce-488f7685716f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/rock-von-marco-opolo/3502909363-154-17141",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909362": {
+        "id": "3502909362",
+        "title": "NEU. SOCCX Mantel in Größe L (40)",
+        "price": "50 €",
+        "location": "14913 Brandenburg - Jüterbog",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/5717164a-ca40-4931-b44e-600b3376c0cc?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neu-soccx-mantel-in-groesse-l-40-/3502909362-154-18650",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909361": {
+        "id": "3502909361",
+        "title": "Slingpumps von Simen Gr.37 Bunt mit Blumen neu",
+        "price": "19 € VB",
+        "location": "63454 Hessen - Hanau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f41136ed-f507-4633-9ec2-01a8884e2430?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/slingpumps-von-simen-gr-37-bunt-mit-blumen-neu/3502909361-159-4284",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909360": {
+        "id": "3502909360",
+        "title": "diddl blätter a6 weiße und bunte",
+        "price": "1 €",
+        "location": "69469 Baden-Württemberg - Weinheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/031270e0-f5ec-4167-a3d2-a13f44019133?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/diddl-blaetter-a6-weisse-und-bunte/3502909360-234-8266",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909359": {
+        "id": "3502909359",
+        "title": "Sofa - Gebraucht",
+        "price": "30 € VB",
+        "location": "14554 Brandenburg - Seddiner See",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a54ffb78-f685-4706-b63f-0f8a0a379b5b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sofa-gebraucht/3502909359-88-7961",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909358": {
+        "id": "3502909358",
+        "title": "Lederjacke von Transit",
+        "price": "75 € VB",
+        "location": "28357 Bremen - Borgfeld",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d59e7f2e-daf9-4a50-a9ed-01869337b56d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lederjacke-von-transit/3502909358-154-17309",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3485306875": {
+        "id": "3485306875",
+        "title": "trockene Garage Am Wohngebiet",
+        "price": "69 €",
+        "location": "01705 Sachsen - Freital",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59e224af-3846-4999-878d-1967b338299d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/trockene-garage-am-wohngebiet/3485306875-197-14381",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "2384003916": {
+        "id": "2384003916",
+        "title": "Chiptuning Leistungsmessung Kennfeldoptimierung Softwareänderungen",
+        "price": "249 € VB",
+        "location": "55595 Rheinland-Pfalz - Weinsheim (Kr Bad Kreuznach)",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b353071e-b456-400a-9d32-31201f76935d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/chiptuning-leistungsmessung-kennfeldoptimierung-softwareaenderungen/2384003916-223-16177",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909357": {
+        "id": "3502909357",
+        "title": "Neuwertiges 4-er Set Eskadron-Lammfellgamaschen in Gr. WB",
+        "price": "75 €",
+        "location": "96215 Bayern - Lichtenfels",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/8282c38b-ad2b-4e6d-8cf0-63322231f614?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neuwertiges-4-er-set-eskadron-lammfellgamaschen-in-gr-wb/3502909357-313-6956",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909356": {
+        "id": "3502909356",
+        "title": "Regenjacke ernstings family  110",
+        "price": "5 €",
+        "location": "25693 Dithmarschen - St. Michaelisdonn",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3cf37637-1d91-44f7-af71-8d9a4b5f6e84?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/regenjacke-ernstings-family-110/3502909356-22-19576",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909355": {
+        "id": "3502909355",
+        "title": "Jogginganzug ♦️ H&M Minnie /Sweatshirt /Sweathose  Gr 134/140",
+        "price": "15 €",
+        "location": "13407 Berlin - Reinickendorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/7034f96e-a4de-43ea-9a85-49657cb9faea?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/jogginganzug-h-m-minnie-sweatshirt-sweathose-gr-134-140/3502909355-22-3460",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909354": {
+        "id": "3502909354",
+        "title": "Autry Sneaker weiß/schwarz Größe 45",
+        "price": "119 € VB",
+        "location": "61462 Hessen - Königstein im Taunus",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d332a06c-1109-4952-adab-e3f5df32c8e3?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/autry-sneaker-weiss-schwarz-groesse-45/3502909354-158-4529",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909353": {
+        "id": "3502909353",
+        "title": "Eislaufschuhe Schlittschuhe weiß Gr. 37",
+        "price": "9 €",
+        "location": "86916 Bayern - Kaufering",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/038f2b13-94dd-4f8a-aa76-ac5c6a4eb007?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/eislaufschuhe-schlittschuhe-weiss-gr-37/3502909353-230-7095",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909352": {
+        "id": "3502909352",
+        "title": "Shein Minnie Mouse Kostüm Gr. 68",
+        "price": "2 €",
+        "location": "41515 Nordrhein-Westfalen - Grevenbroich",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5c048426-57f7-43b0-be03-583f1697784b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/shein-minnie-mouse-kostuem-gr-68/3502909352-22-1824",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909351": {
+        "id": "3502909351",
+        "title": "SEVERIN Sous-Vide-Garer – Vitamine erhalten & fettarm garen",
+        "price": "45 € VB",
+        "location": "51143 Köln - Porz",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/467fa35d-e49b-41d1-9e95-b796f16ce543?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/severin-sous-vide-garer-vitamine-erhalten-fettarm-garen/3502909351-86-963",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909350": {
+        "id": "3502909350",
+        "title": "Bettgestell 90x200",
+        "price": "30 € VB",
+        "location": "85413 Bayern - Hörgertshausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4db0a47e-40d9-42ff-bccc-8abccb692954?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/bettgestell-90x200/3502909350-20-6538",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909348": {
+        "id": "3502909348",
+        "title": "Profilrolle, Anschweißscharniere verschiedene Größen",
+        "price": "1 €",
+        "location": "66265 Saarland - Heusweiler",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a2e6649-f6a7-4a00-bef0-afadf8bec654?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/profilrolle-anschweissscharniere-verschiedene-groessen/3502909348-84-341",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909346": {
+        "id": "3502909346",
+        "title": "Zelt , Großraumzelt , Familienzelt Loop",
+        "price": "100 € VB",
+        "location": "15748 Brandenburg - Märkisch Buchholz",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/811f519f-0ee6-4e9f-9d20-8922ab74dcb1?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/zelt-grossraumzelt-familienzelt-loop/3502909346-230-25485",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909343": {
+        "id": "3502909343",
+        "title": "Braun serial 9 pro",
+        "price": "200 € VB",
+        "location": "51107 Köln - Ostheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2c/2ca27658-ce26-4e35-aff8-68f2e62deda3?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/braun-serial-9-pro/3502909343-224-21775",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909342": {
+        "id": "3502909342",
+        "title": "SuperFit Hausschuhe für Jungs",
+        "price": "5 €",
+        "location": "85540 Kr. München - Haar",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/3372b302-de2b-41e8-8031-4991c8f1eb42?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/superfit-hausschuhe-fuer-jungs/3502909342-19-6185",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909340": {
+        "id": "3502909340",
+        "title": "Thermo-Spielanzug Matschanzug Gr. 74/80 Mädchenkleidung NEU OVP",
+        "price": "8 €",
+        "location": "51647 Nordrhein-Westfalen - Gummersbach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4d216901-f29a-41af-9d1c-b8a2593094fb?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/thermo-spielanzug-matschanzug-gr-74-80-maedchenkleidung-neu-ovp/3502909340-22-1885",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909338": {
+        "id": "3502909338",
+        "title": "BMW 3er E46, 330i, 316i,  Limousine, Coupe, Innenleuchten hinten",
+        "price": "10 €",
+        "location": "71691 Baden-Württemberg - Freiberg am Neckar",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79b62224-88ae-4580-8b73-64029a67c078?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/bmw-3er-e46-330i-316i-limousine-coupe-innenleuchten-hinten/3502909338-223-8900",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909335": {
+        "id": "3502909335",
+        "title": "16GB G.Skill DDR4 3000 CL16 RAM Kit - 1,35V XMP 2x F4-3000C16S",
+        "price": "59 €",
+        "location": "56179 Rheinland-Pfalz - Vallendar",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3cb778ad-f066-4ce6-b3de-f4991088df47?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/16gb-g-skill-ddr4-3000-cl16-ram-kit-1-35v-xmp-2x-f4-3000c16s/3502909335-225-5036",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909334": {
+        "id": "3502909334",
+        "title": "Koaxialkabel Rolle 20 m 135 db - NEU",
+        "price": "9 €",
+        "location": "91054 Bayern - Erlangen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1b4ca3b-751b-428a-976b-c09d08395397?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/koaxialkabel-rolle-20-m-135-db-neu/3502909334-175-6800",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909332": {
+        "id": "3502909332",
+        "title": "Stieg Larsson Millennium Trilogie DVD Box",
+        "price": "7 €",
+        "location": "01844 Sachsen - Neustadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/339d4cf1-cecb-4bd4-8d27-887bab71f04c?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/stieg-larsson-millennium-trilogie-dvd-box/3502909332-79-4120",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909331": {
+        "id": "3502909331",
+        "title": "Herr der Ringe DVD Sammlerbox Die zwei Türme ungeöffnet",
+        "price": "40 € VB",
+        "location": "47506 Nordrhein-Westfalen - Neukirchen-Vluyn",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/261b2559-7434-45f6-8c96-572a44237280?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/herr-der-ringe-dvd-sammlerbox-die-zwei-tuerme-ungeoeffnet/3502909331-79-1128",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909330": {
+        "id": "3502909330",
+        "title": "BBQ Feuerfeste Grill Pfanne 27,5cm Durchmesser Outdoor Camping",
+        "price": "25 €",
+        "location": "29221 Niedersachsen - Celle",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8eb7f94a-78c3-4558-9d61-4511f76edcd0?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/bbq-feuerfeste-grill-pfanne-27-5cm-durchmesser-outdoor-camping/3502909330-230-3200",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909328": {
+        "id": "3502909328",
+        "title": "Rosemarie Anna Müller Wichtelpuppe Tenshi 57/300 mit Zertifikat",
+        "price": "80 € VB",
+        "location": "18059 Rostock - Südstadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/34625387-eb52-4fe7-829a-00e7bf5afb0f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/rosemarie-anna-mueller-wichtelpuppe-tenshi-57-300-mit-zertifikat/3502909328-234-13049",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909327": {
+        "id": "3502909327",
+        "title": "Fledermäuse Neudorff Garten neu",
+        "price": "18 €",
+        "location": "13469 Berlin - Reinickendorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/abfe03bb-dadb-4dc4-84ff-4115e4d89561?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/fledermaeuse-neudorff-garten-neu/3502909327-87-3456",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909326": {
+        "id": "3502909326",
+        "title": "Bally Wulff Eurotec Spielautomat Geldspielautomat Münzkanal",
+        "price": "10 €",
+        "location": "45357 Essen - Essen-Borbeck",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98c9fc97-9244-44fd-8c97-8c467f0f5390?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/bally-wulff-eurotec-spielautomat-geldspielautomat-muenzkanal/3502909326-168-2032",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909325": {
+        "id": "3502909325",
+        "title": "Ecco Schuhe Gr. 38",
+        "price": "20 €",
+        "location": "49377 Niedersachsen - Vechta",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dcc4ee04-05f6-4239-98a9-a0268eb8219d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ecco-schuhe-gr-38/3502909325-159-2573",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3109204079": {
+        "id": "3109204079",
+        "title": "Zimmerer-, Dachdecker- und Spenglerarbeiten, Dachfenster",
+        "price": "60 €",
+        "location": "97720 Bayern - Nüdlingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/75d8a47b-cebf-46f0-9311-9b67c2a7e72b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/zimmerer-dachdecker-und-spenglerarbeiten-dachfenster/3109204079-239-6749",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909323": {
+        "id": "3502909323",
+        "title": "PETER KAISER SANDALETTEN * 39* TOP ZUSTAND",
+        "price": "50 €",
+        "location": "74360 Baden-Württemberg - Ilsfeld",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f9439e3-c7fe-4f99-bfe1-0e6ddf20d64a?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/peter-kaiser-sandaletten-39-top-zustand/3502909323-159-19880",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909322": {
+        "id": "3502909322",
+        "title": "Mexx jacke grösse 134 - 140",
+        "price": "10 € VB",
+        "location": "52134 Nordrhein-Westfalen - Herzogenrath",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/0148dab7-6bae-4216-a6ac-55f8bee4736f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/mexx-jacke-groesse-134-140/3502909322-22-1712",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909320": {
+        "id": "3502909320",
+        "title": "Riesen Affe Kuscheltier ca. 1 Meter groß",
+        "price": "16 €",
+        "location": "35315 Hessen - Homberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/339afc60-210d-45f9-a31c-6e55c539f82e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/riesen-affe-kuscheltier-ca-1-meter-gross/3502909320-23-4675",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909319": {
+        "id": "3502909319",
+        "title": "VW Golf 6 Heck Emblem Schwarz Zeichen 6er GTI R GTD Volkswagen",
+        "price": "15 €",
+        "location": "56422 Rheinland-Pfalz - Wirges",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f743f4e5-c22c-4b34-808f-e811e2858964?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/vw-golf-6-heck-emblem-schwarz-zeichen-6er-gti-r-gtd-volkswagen/3502909319-223-5031",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909318": {
+        "id": "3502909318",
+        "title": "Jeans und Jeansrock 122/128",
+        "price": "5 €",
+        "location": "36088 Hessen - Hünfeld",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80768274-b274-44f4-baa0-b377b945b07b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/jeans-und-jeansrock-122-128/3502909318-22-4627",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909317": {
+        "id": "3502909317",
+        "title": "diddl blätter a4 weiße und bunte",
+        "price": "1 €",
+        "location": "69469 Baden-Württemberg - Weinheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f31499c-45b2-4f43-b516-b1b5117eece9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/diddl-blaetter-a4-weisse-und-bunte/3502909317-234-8266",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909316": {
+        "id": "3502909316",
+        "title": "Lampe Leuchte Stehlampe",
+        "price": "5 €",
+        "location": "42551 Nordrhein-Westfalen - Velbert",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae5e3730-ca3b-4a7b-b0ed-59b9b35e3ae5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lampe-leuchte-stehlampe/3502909316-82-1749",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909315": {
+        "id": "3502909315",
+        "title": "Kaufmannsladen",
+        "price": "50 € VB",
+        "location": "09661 Sachsen - Hainichen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d75a8251-9ac0-471e-af5d-77007e25a0ba?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kaufmannsladen/3502909315-23-19884",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909312": {
+        "id": "3502909312",
+        "title": "Zinnfiguren Friedrich Kulmbach scholtz",
+        "price": "100 € VB",
+        "location": "46483 Nordrhein-Westfalen - Wesel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/548b0328-6fc6-48cb-8bce-6071b081268e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/zinnfiguren-friedrich-kulmbach-scholtz/3502909312-234-1867",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909309": {
+        "id": "3502909309",
+        "title": "NEU: DSQUARED2 Skinny Jeans JENNIFER cropped Navy Blue 36 blau",
+        "price": "250 €",
+        "location": "40545 Düsseldorf - Oberkassel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5c82f97f-11a7-4d73-bb7d-a418bd502bc1?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neu-dsquared2-skinny-jeans-jennifer-cropped-navy-blue-36-blau/3502909309-154-2071",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909307": {
+        "id": "3502909307",
+        "title": "Audio - HiF i-  5.1 System - AUNA 5.1 Soundsystem, Fernbedienung",
+        "price": "55 €",
+        "location": "38820 Sachsen-Anhalt - Halberstadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/abfc33f1-32b2-467a-a89a-d7cc8aec5143?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/audio-hif-i-5-1-system-auna-5-1-soundsystem-fernbedienung/3502909307-172-2207",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909306": {
+        "id": "3502909306",
+        "title": "Echtholz Schrank",
+        "price": "60 €",
+        "location": "01594 Sachsen - Stauchitz",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/3667ea08-c8dc-40f7-b8e4-a885d9613de1?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/echtholz-schrank/3502909306-88-19839",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909305": {
+        "id": "3502909305",
+        "title": "Athlon 3000g. 35W.",
+        "price": "25 €",
+        "location": "37269 Hessen - Eschwege",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8acbc646-ce0d-4c8b-953f-a4733170f227?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/athlon-3000g-35w-/3502909305-225-4740",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909304": {
+        "id": "3502909304",
+        "title": "Leonardo Tischlicht Orbit 4-teiliges Teelicht-Set",
+        "price": "5 €",
+        "location": "63762 Bayern - Großostheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee70680-17dc-495b-bf6f-1ee8dc22bb11?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/leonardo-tischlicht-orbit-4-teiliges-teelicht-set/3502909304-246-7416",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "2346714797": {
+        "id": "2346714797",
+        "title": "BUS Abstellplatz, LKW Abstellplatz, Parkplatz, Truck Stellplatz, NFZ Stellplatz, Parking, parken",
+        "price": "179 €",
+        "location": "15537 Brandenburg - Grünheide (Mark)",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92252b8b-40ad-4467-9a3e-44a3075d0aaf?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/bus-abstellplatz-lkw-abstellplatz-parkplatz-truck-stellplatz-nfz-stellplatz-parking-parken/2346714797-238-17982",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3334294886": {
+        "id": "3334294886",
+        "title": "Möbelentsorgung Landshut – Heute anrufen, morgen frei!",
+        "price": "150 €",
+        "location": "84032 Bayern - Landshut",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4abf34b5-09da-4aa4-be9a-72bcbbcd0409?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/moebelentsorgung-landshut-heute-anrufen-morgen-frei-/3334294886-239-20550",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909303": {
+        "id": "3502909303",
+        "title": "Arc'teryx Atom Hoody M Gr.L",
+        "price": "110 € VB",
+        "location": "59929 Nordrhein-Westfalen - Brilon",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6d058d6-a5a7-46f4-aace-e3941527b565?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/arc-teryx-atom-hoody-m-gr-l/3502909303-160-1269",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909302": {
+        "id": "3502909302",
+        "title": "Pfaff 130 Nähmaschine",
+        "price": "130 €",
+        "location": "49692 Niedersachsen - Cappeln (Oldenburg)",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6fe6c8a4-8bb9-4c1d-81ed-e3134e2b92f2?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/pfaff-130-naehmaschine/3502909302-176-2593",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909301": {
+        "id": "3502909301",
+        "title": "Gartenmöbel Rattan",
+        "price": "35 € VB",
+        "location": "24943 Schleswig-Holstein - Flensburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56ed9a88-1393-4382-8cf7-de2fd08c874a?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/gartenmoebel-rattan/3502909301-89-17392",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909300": {
+        "id": "3502909300",
+        "title": "5x IKEA Bilderrahmen – KNOPPÄNG & RIBBA",
+        "price": "10 €",
+        "location": "10969 Friedrichshain-Kreuzberg - Kreuzberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/8218e4b1-049d-445e-8a1d-2549f7a6cb54?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/5x-ikea-bilderrahmen-knoppaeng-ribba/3502909300-246-9632",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909299": {
+        "id": "3502909299",
+        "title": "Keramik-Dose mit Tablett 'kleines DANKESCHÖN' weiß",
+        "price": "3 €",
+        "location": "73312 Baden-Württemberg - Geislingen an der Steige",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b8f9461d-8ea7-4a5e-8bd9-e3c46d3e1d59?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/keramik-dose-mit-tablett-kleines-dankeschoen-weiss/3502909299-246-8942",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909296": {
+        "id": "3502909296",
+        "title": "C&A Langarm Shirt Gr. 62",
+        "price": "2 €",
+        "location": "41515 Nordrhein-Westfalen - Grevenbroich",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b74c7f2c-6530-49aa-a31d-670e0c0f904e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/c-a-langarm-shirt-gr-62/3502909296-22-1824",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909295": {
+        "id": "3502909295",
+        "title": "VW Golf 6 Zeichen Front Emblem Schwarz Glanz Grill 6er GTI R GTD",
+        "price": "23 €",
+        "location": "56422 Rheinland-Pfalz - Wirges",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19bf98a3-63a5-4574-ab5d-68d5dc848dfb?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/vw-golf-6-zeichen-front-emblem-schwarz-glanz-grill-6er-gti-r-gtd/3502909295-223-5031",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909294": {
+        "id": "3502909294",
+        "title": "Neuer Sportrock für Damen - Atmungsaktiv & Bequem",
+        "price": "5 €",
+        "location": "75179 Baden-Württemberg - Pforzheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31088634-c218-4c3d-8882-ba48acc1e667?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neuer-sportrock-fuer-damen-atmungsaktiv-bequem/3502909294-154-9267",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909293": {
+        "id": "3502909293",
+        "title": "Weihnachtsgeschirr aus Glas, Becher Seltmann Weiden",
+        "price": "50 €",
+        "location": "01109 Dresden - Wilschdorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/819e92f5-c448-4849-ac47-f62cb97bf303?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/weihnachtsgeschirr-aus-glas-becher-seltmann-weiden/3502909293-86-24671",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909290": {
+        "id": "3502909290",
+        "title": "Teddy Anzug gr. 80",
+        "price": "5 €",
+        "location": "06886 Sachsen-Anhalt - Lutherstadt Wittenberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/549f8a38-abff-47ed-b22a-db256776d87b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/teddy-anzug-gr-80/3502909290-22-2394",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909289": {
+        "id": "3502909289",
+        "title": "Gaming pc Gehäuse ohne Lüfter",
+        "price": "29 € VB",
+        "location": "45326 Essen - Altenessen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56be8ca7-9e9d-40c3-bf9c-46eb12684084?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-pc-gehaeuse-ohne-luefter/3502909289-225-2036",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909288": {
+        "id": "3502909288",
+        "title": "K2 Inline Skates blau-schwarz Gr 39",
+        "price": "9 €",
+        "location": "86916 Bayern - Kaufering",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9bafe1aa-65c1-46ff-8292-7cbf7662d468?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/k2-inline-skates-blau-schwarz-gr-39/3502909288-230-7095",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909287": {
+        "id": "3502909287",
+        "title": "Süßer Kuromi Taschenspiegel Lanzarote",
+        "price": "18 € VB",
+        "location": "90402 Nürnberg (Mittelfr) - Mitte",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/75e2a9de-d09e-4b6f-ab36-e2bc3356e965?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/suesser-kuromi-taschenspiegel-lanzarote/3502909287-156-6820",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909286": {
+        "id": "3502909286",
+        "title": "Rabe ...extravagantes Shirt ... Gr. 46 ... neuw. / incl. Porto",
+        "price": "15 €",
+        "location": "72074 Baden-Württemberg - Tübingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5877a45-3412-4035-a316-dcb087569500?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/rabe-extravagantes-shirt-gr-46-neuw-incl-porto/3502909286-154-9095",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909285": {
+        "id": "3502909285",
+        "title": "Mamma Mia! ABBA Party Tour Ticket Hamburg 05.09.26",
+        "price": "20 € VB",
+        "location": "18445 Nordvorpommern - Landkreis - Prohn",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e82d022d-7f6f-45e9-b9ca-8630978731e4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/mamma-mia-abba-party-tour-ticket-hamburg-05-09-26/3502909285-251-131",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909284": {
+        "id": "3502909284",
+        "title": "Einhell Elektrowerkzeug im Koffer/Trolley",
+        "price": "50 €",
+        "location": "58097 Nordrhein-Westfalen - Hagen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4935568-5da7-4656-81ed-a5aac8b760d6?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/einhell-elektrowerkzeug-im-koffer-trolley/3502909284-84-2014",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909283": {
+        "id": "3502909283",
+        "title": "diddl blätter a4 weis und bunte",
+        "price": "1 €",
+        "location": "69469 Baden-Württemberg - Weinheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86b26234-4d9d-41cf-8bb0-6c9c77a438bb?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/diddl-blaetter-a4-weis-und-bunte/3502909283-234-8266",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909282": {
+        "id": "3502909282",
+        "title": "Buche/Brennholz",
+        "price": "145 €",
+        "location": "89150 Baden-Württemberg - Laichingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc958fc1-3f0b-41c3-a899-bcce77c9d001?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/buche-brennholz/3502909282-87-8932",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909281": {
+        "id": "3502909281",
+        "title": "Audi TT 8n Tankdeckel",
+        "price": "30 €",
+        "location": "23701 Kreis Ostholstein - Eutin",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3c5ed1d-f624-4a46-b8b1-adccd0b552c9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/audi-tt-8n-tankdeckel/3502909281-223-10552",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909280": {
+        "id": "3502909280",
+        "title": "Perücke Kurzhaar",
+        "price": "50 €",
+        "location": "13599 Berlin - Spandau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/755fe1b2-e690-41d6-9234-64abb90c5989?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/peruecke-kurzhaar/3502909280-224-3432",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909279": {
+        "id": "3502909279",
+        "title": "Leggings warm und Kuschelrolli Gr. 110",
+        "price": "6 €",
+        "location": "69412 Baden-Württemberg - Eberbach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55867796-da7a-4ca1-9209-4d876ee43eb9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/leggings-warm-und-kuschelrolli-gr-110/3502909279-22-15353",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909276": {
+        "id": "3502909276",
+        "title": "Kleine blaue Kunstglas Vase mit Cristal Aufkleber",
+        "price": "7 €",
+        "location": "01844 Sachsen - Neustadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0bc4877-7c29-46e6-b0b4-bcdbc828ae93?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kleine-blaue-kunstglas-vase-mit-cristal-aufkleber/3502909276-246-4120",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "2456405123": {
+        "id": "2456405123",
+        "title": "Urlaub Bauernhof / Ponyhof/ Ferienwohnung / Bayerischer Wald",
+        "price": "62 €",
+        "location": "94157 Bayern - Perlesreut",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a3ca83b-307e-4ba9-85fb-89f3fbecd8b2?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/urlaub-bauernhof-ponyhof-ferienwohnung-bayerischer-wald/2456405123-275-7451",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3497740686": {
+        "id": "3497740686",
+        "title": "TOP Gartenset: Holztisch mit 4 verstellbaren Stühlen",
+        "price": "79 € VB",
+        "location": "39326 Sachsen-Anhalt - Hohenwarsleben",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b77430bd-6186-4fb5-92fe-c5be4a3dac56?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/top-gartenset-holztisch-mit-4-verstellbaren-stuehlen/3497740686-89-17260",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909273": {
+        "id": "3502909273",
+        "title": "Nike Turnschuhe Sneaker Gr 44 28cm Innensohle weiß blau neuwertig",
+        "price": "49 €",
+        "location": "06618 Sachsen-Anhalt - Naumburg (Saale)",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb61a90d-fb28-4720-ad71-b591b4b5ca71?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/nike-turnschuhe-sneaker-gr-44-28cm-innensohle-weiss-blau-neuwertig/3502909273-158-2333",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909272": {
+        "id": "3502909272",
+        "title": "Eichhorn electrischer Zug mit Wagon",
+        "price": "25 € VB",
+        "location": "52134 Nordrhein-Westfalen - Herzogenrath",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d0dd682-ac29-4e5c-9ee9-06dc948848e9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/eichhorn-electrischer-zug-mit-wagon/3502909272-23-1712",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909269": {
+        "id": "3502909269",
+        "title": "Rosa Kindertisch mit Stuhl",
+        "price": "Zu verschenken",
+        "location": "33609 Bielefeld - Bielefeld (Innenstadt)",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44b92bef-4776-41ba-bec4-dc9d49fb4e40?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/rosa-kindertisch-mit-stuhl/3502909269-20-1067",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909268": {
+        "id": "3502909268",
+        "title": "Rollroste 80 x 200 cm \"2 Stück\" , 15 Leisten, stabil, belastbar❗️",
+        "price": "25 €",
+        "location": "54497 Rheinland-Pfalz - Morbach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b0277991-1fee-4a70-880e-19b961456f54?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/rollroste-80-x-200-cm-2-stueck-15-leisten-stabil-belastbar-/3502909268-81-5129",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909267": {
+        "id": "3502909267",
+        "title": "3",
+        "price": null,
+        "location": null,
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01f2e562-12bd-4a7a-a6bb-dd5007a81430?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/verkaufen-eine-gute-mainboard/3502909267-225-3473",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909265": {
+        "id": "3502909265",
+        "title": "Werder Bremen gegen RB Leipzig  2 x Sitz Nord",
+        "price": "75 €",
+        "location": "28195 Bremen-Mitte - Bremen Altstadt",
+        "date": null,
+        "image": null,
+        "url": "https://www.kleinanzeigen.de/s-anzeige/werder-bremen-gegen-rb-leipzig-2-x-sitz-nord/3502909265-257-46",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909264": {
+        "id": "3502909264",
+        "title": "IKEA HEMNES Nachttisch Schwarzbraun – Mit Schublade",
+        "price": "10 €",
+        "location": "10969 Friedrichshain-Kreuzberg - Kreuzberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/45382eaa-ca78-4195-9fcb-12fef29053e5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/ikea-hemnes-nachttisch-schwarzbraun-mit-schublade/3502909264-81-9632",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909263": {
+        "id": "3502909263",
+        "title": "ZU VERSCHENKEN: 2xTeppich",
+        "price": "Zu verschenken",
+        "location": "65817 Hessen - Eppstein",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/1119455d-96ad-463a-993f-13b55f4f8198?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/zu-verschenken-2xteppich-/3502909263-90-4814",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909262": {
+        "id": "3502909262",
+        "title": "Philodendron Pflanze im Topf Burke Marx",
+        "price": "5 €",
+        "location": "51103 Köln - Kalk",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98d80e3f-e64e-4e57-bd60-b41edee18bf4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/philodendron-pflanze-im-topf-burke-marx/3502909262-89-17009",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909261": {
+        "id": "3502909261",
+        "title": "FRAAS Schal / Tuch – Hellblau – NEU mit Etikett",
+        "price": "25 € VB",
+        "location": "95152 Bayern - Selbitz",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1a8392d4-acb7-452c-b484-3ef2cfd8567b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/fraas-schal-tuch-hellblau-neu-mit-etikett/3502909261-156-7223",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909260": {
+        "id": "3502909260",
+        "title": "4 x Toyo Proxes 215 / 45 R18 89 W NEU",
+        "price": "35 €",
+        "location": "42551 Nordrhein-Westfalen - Velbert",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92a9b78d-7706-4bfc-b434-f91d7c3dd390?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/4-x-toyo-proxes-215-45-r18-89-w-neu-/3502909260-223-1749",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909259": {
+        "id": "3502909259",
+        "title": "Apple Magic Keyboard Folio für iPad 10. Gen in OVP",
+        "price": "175 €",
+        "location": "44789 Bochum - Bochum-Süd",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/425753d8-f9cd-4fe7-bb9c-afeb1a0d0f81?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/apple-magic-keyboard-folio-fuer-ipad-10-gen-in-ovp/3502909259-285-1945",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909258": {
+        "id": "3502909258",
+        "title": "Baby-Wickeltisch / Wickelstation auf Roll grau",
+        "price": "40 €",
+        "location": "90441 Nürnberg (Mittelfr) - Südstadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ffffa6d3-2f59-42b1-b50d-4f82e23d9e75?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/baby-wickeltisch-wickelstation-auf-roll-grau/3502909258-258-6826",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909257": {
+        "id": "3502909257",
+        "title": "Tisch Weiss Hochglanz 1,6x0,9m Esstisch ZU VERSCHENKEN",
+        "price": "Zu verschenken",
+        "location": "56218 Rheinland-Pfalz - Mülheim-Kärlich",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aaea2cb9-4113-488b-be70-216228fcebb1?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tisch-weiss-hochglanz-1-6x0-9m-esstisch-zu-verschenken/3502909257-86-5418",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909254": {
+        "id": "3502909254",
+        "title": "Disney Stitch Tasche mit Reißverschluss neuwertig",
+        "price": "5 €",
+        "location": "73312 Baden-Württemberg - Geislingen an der Steige",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab8dd222-789b-4cc6-a453-ae6084b237de?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/disney-stitch-tasche-mit-reissverschluss-neuwertig/3502909254-156-8942",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909251": {
+        "id": "3502909251",
+        "title": "Playstation 4",
+        "price": "80 €",
+        "location": "63849 Bayern - Leidersbach",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66a2f53c-80b3-4e2b-9e89-d7e8f02c162d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/playstation-4/3502909251-279-7430",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909250": {
+        "id": "3502909250",
+        "title": "LOL Surprise OMG Queens Modepuppe",
+        "price": "30 €",
+        "location": "72762 Baden-Württemberg - Reutlingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43da67c0-e91a-47b6-9ecc-5a8a2102eff5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lol-surprise-omg-queens-modepuppe/3502909250-23-9351",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
+      },
+      "3502909249": {
+        "id": "3502909249",
+        "title": "Lego Technic 42119 -2 in 1- Monster Jam & Max-D Pullback",
+        "price": "30 €",
+        "location": "82335 Bayern - Berg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d3f7dd6-cd93-4f1e-8ec7-875c055244da?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lego-technic-42119-2-in-1-monster-jam-max-d-pullback/3502909249-23-5521",
+        "first_seen": "2026-09-04T03:07:29.750894+00:00"
       }
     }
   }

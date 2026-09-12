@@ -1,0 +1,877 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Themen-Editor – Kleinanzeigen Übersicht</title>
+<style>
+  :root {
+    --green: #0a7d3c;
+    --bg: #f5f5f5;
+    --card: #fff;
+    --border: #ddd;
+    --danger: #c0392b;
+    --text-muted: #777;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    margin: 0;
+    padding: 12px 12px 90px 12px;
+    color: #222;
+  }
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  header h1 { font-size: 1.25em; margin: 0; }
+  #settingsBtn {
+    font-size: 1.4em;
+    background: none;
+    border: none;
+    padding: 6px 10px;
+    cursor: pointer;
+  }
+  .status {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 0.9em;
+    margin-bottom: 14px;
+    color: var(--text-muted);
+  }
+  .status.error { border-color: var(--danger); color: var(--danger); background: #fdecea; }
+
+  section#defaultBlacklistSection, section#importSection {
+    background: var(--card);
+    border-radius: 10px;
+    padding: 12px 14px;
+    margin-bottom: 14px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.1);
+  }
+  section h2 { font-size: 1em; margin: 0 0 8px 0; }
+  section h2 small { color: var(--text-muted); font-weight: 400; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+  .chip {
+    background: #eef6f0;
+    color: var(--green);
+    border: 1px solid #cfe8d8;
+    border-radius: 14px;
+    padding: 4px 6px 4px 10px;
+    font-size: 0.85em;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .chip-remove {
+    background: none;
+    border: none;
+    color: var(--green);
+    font-size: 1em;
+    line-height: 1;
+    padding: 2px 4px;
+    cursor: pointer;
+  }
+  .chip-input-row { display: flex; gap: 6px; }
+  .chip-input-row input {
+    flex: 1;
+    padding: 8px 10px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.95em;
+  }
+  .chip-input-row button {
+    padding: 8px 14px;
+    border: none;
+    border-radius: 8px;
+    background: var(--green);
+    color: #fff;
+    font-size: 1.1em;
+    cursor: pointer;
+  }
+
+  #importSection textarea {
+    width: 100%;
+    margin: 8px 0;
+    padding: 8px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-family: monospace;
+    font-size: 0.85em;
+  }
+  #importSection summary { cursor: pointer; font-weight: 600; }
+  #importSection button {
+    padding: 10px 14px;
+    border: none;
+    border-radius: 8px;
+    background: var(--green);
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  #addTopicBtn {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 14px;
+    border: 2px dashed var(--green);
+    background: transparent;
+    color: var(--green);
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 1em;
+    cursor: pointer;
+  }
+
+  details.topic-card {
+    background: var(--card);
+    border-radius: 10px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.1);
+    overflow: hidden;
+  }
+  details.topic-card summary {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 14px;
+    cursor: pointer;
+    font-weight: 700;
+  }
+  details.topic-card summary::-webkit-details-marker { display: none; }
+  .topic-name { flex: 1; }
+  .topic-body {
+    padding: 0 14px 14px 14px;
+    border-top: 1px solid var(--border);
+  }
+
+  .link-row {
+    background: #fafafa;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  .link-top-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 8px;
+  }
+  .link-url {
+    flex: 1;
+    padding: 8px 10px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.85em;
+    min-width: 0;
+  }
+  .icon-btn {
+    background: none;
+    border: none;
+    font-size: 1.2em;
+    padding: 6px 8px;
+    cursor: pointer;
+    border-radius: 6px;
+  }
+  .icon-btn.danger { color: var(--danger); }
+  .source-tag {
+    background: var(--green);
+    color: #fff;
+    font-size: 0.75em;
+    font-weight: 700;
+    padding: 4px 8px;
+    border-radius: 6px;
+  }
+
+  .link-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+  }
+  .link-actions select {
+    flex: 1;
+    min-width: 140px;
+    padding: 8px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.85em;
+  }
+  .transfer-btn {
+    padding: 8px 10px;
+    border: 1px solid var(--green);
+    background: #fff;
+    color: var(--green);
+    border-radius: 8px;
+    font-size: 0.85em;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+
+  .add-link-btn {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px dashed var(--green);
+    background: transparent;
+    color: var(--green);
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .add-link-btn.secondary { border-style: solid; border-color: var(--border); color: #555; }
+
+  #transferBanner {
+    position: fixed;
+    left: 0; right: 0; bottom: 62px;
+    background: #fff3cd;
+    border-top: 2px solid #e0a800;
+    padding: 10px 14px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.9em;
+    z-index: 20;
+  }
+  #transferBanner button {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  #transferBanner button:first-of-type { background: var(--green); color: #fff; }
+  #transferBanner button:last-of-type { background: #eee; color: #333; }
+
+  footer {
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    background: #fff;
+    border-top: 1px solid var(--border);
+    padding: 10px 14px;
+    z-index: 10;
+  }
+  #saveBtn {
+    display: block;
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 10px;
+    background: var(--green);
+    color: #fff;
+    font-size: 1.05em;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  .modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.4);
+    display: flex;
+    align-items: flex-end;
+    z-index: 30;
+  }
+  .modal-content {
+    background: #fff;
+    width: 100%;
+    border-radius: 14px 14px 0 0;
+    padding: 18px;
+    max-height: 90vh;
+    overflow-y: auto;
+  }
+  .modal-content h2 { margin-top: 0; }
+  .modal-content label {
+    display: block;
+    font-size: 0.85em;
+    font-weight: 600;
+    margin: 12px 0 4px 0;
+  }
+  .modal-content input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.95em;
+  }
+  .modal-content .hint {
+    font-size: 0.78em;
+    color: var(--text-muted);
+    margin-top: 10px;
+  }
+  .modal-content button {
+    margin-top: 16px;
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .modal-content button.primary { background: var(--green); color: #fff; }
+  .modal-content button.secondary { background: #eee; color: #333; margin-top: 8px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Themen-Editor</h1>
+  <button id="settingsBtn" aria-label="Einstellungen">⚙️</button>
+</header>
+
+<div id="statusBar" class="status">Wird geladen…</div>
+
+<main id="app" hidden>
+  <section id="defaultBlacklistSection">
+    <h2>Standard-Blacklist <small>(gilt für alle Links)</small></h2>
+    <div id="defaultBlacklistChips" class="chips"></div>
+    <div class="chip-input-row">
+      <input type="text" id="defaultBlacklistInput" placeholder="Wort hinzufügen…">
+      <button type="button" onclick="addDefaultBlacklistWord()">+</button>
+    </div>
+  </section>
+
+  <section id="importSection">
+    <details>
+      <summary>Ganze Liste importieren (links.txt-Format)</summary>
+      <textarea id="importText" rows="6" placeholder="[Thema]&#10;https://...&#10;https://..."></textarea>
+      <button type="button" onclick="importText()">Importieren &amp; zusammenführen</button>
+    </details>
+  </section>
+
+  <button id="addTopicBtn" type="button" onclick="addTopic()">+ Neues Thema</button>
+
+  <div id="topicsContainer"></div>
+</main>
+
+<div id="transferBanner" hidden>
+  <span id="transferInfo"></span>
+  <button type="button" onclick="applyTransfer()">Übertragen (<span id="transferCount">0</span>)</button>
+  <button type="button" onclick="cancelTransfer()">Abbrechen</button>
+</div>
+
+<footer>
+  <button id="saveBtn" type="button" onclick="saveConfig()">💾 Speichern</button>
+</footer>
+
+<div id="settingsModal" class="modal" hidden>
+  <div class="modal-content">
+    <h2>Verbindung zu GitHub</h2>
+    <label for="cfgRepo">Repo (owner/repo)</label>
+    <input id="cfgRepo" placeholder="Golb69/kleinanzeigen-uebersicht">
+    <label for="cfgBranch">Branch</label>
+    <input id="cfgBranch" placeholder="main">
+    <label for="cfgPath">Pfad zur Datei</label>
+    <input id="cfgPath" placeholder="links.json">
+    <label for="cfgToken">Personal Access Token</label>
+    <input id="cfgToken" type="password" placeholder="github_pat_... oder ghp_...">
+    <p class="hint">
+      Der Token wird ausschließlich lokal auf diesem Gerät (localStorage)
+      gespeichert und nur für direkte Anfragen an api.github.com verwendet.
+      Nutze am besten einen fein-granularen Token, der nur auf dieses eine
+      Repository mit „Contents: Read and write" beschränkt ist.
+    </p>
+    <button type="button" class="primary" onclick="connect()">Verbinden &amp; Laden</button>
+    <button type="button" class="secondary" onclick="closeSettings()">Abbrechen</button>
+  </div>
+</div>
+
+<script>
+"use strict";
+
+const API = "https://api.github.com";
+
+let cfg = { owner: "", repo: "", branch: "main", path: "links.json", token: "" };
+let data = { default_blacklist: [], topics: [] };
+let fileSha = null;
+let transfer = null; // { ti, li, selected: Set("ti:li") }
+
+// ---------- Hilfsfunktionen ----------
+
+function utf8ToBase64(str) {
+  const bytes = new TextEncoder().encode(str);
+  let binary = "";
+  bytes.forEach(function (b) { binary += String.fromCharCode(b); });
+  return btoa(binary);
+}
+
+function base64ToUtf8(b64) {
+  const binary = atob(b64.replace(/\n/g, ""));
+  const bytes = new Uint8Array(binary.length);
+  for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+  return new TextDecoder().decode(bytes);
+}
+
+function shortUrl(u) {
+  return u.length > 46 ? u.slice(0, 43) + "…" : u;
+}
+
+function setStatus(msg, isError) {
+  const el = document.getElementById("statusBar");
+  el.textContent = msg;
+  el.className = isError ? "status error" : "status";
+}
+
+function makeChip(text, onRemove) {
+  const span = document.createElement("span");
+  span.className = "chip";
+  span.textContent = text;
+  const x = document.createElement("button");
+  x.type = "button";
+  x.textContent = "×";
+  x.className = "chip-remove";
+  x.onclick = onRemove;
+  span.appendChild(x);
+  return span;
+}
+
+// ---------- Einstellungen (nur Verbindungsdaten, lokal) ----------
+
+function loadSettings() {
+  try {
+    const raw = localStorage.getItem("ka_editor_settings");
+    if (raw) cfg = Object.assign(cfg, JSON.parse(raw));
+  } catch (e) { /* ignorieren, Defaults bleiben */ }
+}
+
+function saveSettings() {
+  localStorage.setItem("ka_editor_settings", JSON.stringify(cfg));
+}
+
+function openSettings() {
+  document.getElementById("cfgRepo").value = (cfg.owner && cfg.repo) ? (cfg.owner + "/" + cfg.repo) : "";
+  document.getElementById("cfgBranch").value = cfg.branch || "main";
+  document.getElementById("cfgPath").value = cfg.path || "links.json";
+  document.getElementById("cfgToken").value = cfg.token || "";
+  document.getElementById("settingsModal").hidden = false;
+}
+
+function closeSettings() {
+  document.getElementById("settingsModal").hidden = true;
+}
+
+async function connect() {
+  const repoVal = document.getElementById("cfgRepo").value.trim();
+  const parts = repoVal.split("/");
+  if (parts.length !== 2 || !parts[0] || !parts[1]) {
+    alert("Bitte im Format owner/repo angeben, z.B. Golb69/kleinanzeigen-uebersicht");
+    return;
+  }
+  cfg.owner = parts[0];
+  cfg.repo = parts[1];
+  cfg.branch = document.getElementById("cfgBranch").value.trim() || "main";
+  cfg.path = document.getElementById("cfgPath").value.trim() || "links.json";
+  cfg.token = document.getElementById("cfgToken").value.trim();
+  saveSettings();
+  closeSettings();
+  await loadData();
+}
+
+// ---------- GitHub API ----------
+
+async function ghGet(path) {
+  return fetch(
+    API + "/repos/" + cfg.owner + "/" + cfg.repo + "/contents/" + encodeURIComponent(path) + "?ref=" + encodeURIComponent(cfg.branch),
+    { headers: { "Authorization": "token " + cfg.token, "Accept": "application/vnd.github+json" } }
+  );
+}
+
+async function ghPut(path, contentStr, sha, message) {
+  const body = { message: message, content: utf8ToBase64(contentStr), branch: cfg.branch };
+  if (sha) body.sha = sha;
+  return fetch(
+    API + "/repos/" + cfg.owner + "/" + cfg.repo + "/contents/" + encodeURIComponent(path),
+    {
+      method: "PUT",
+      headers: {
+        "Authorization": "token " + cfg.token,
+        "Accept": "application/vnd.github+json",
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(body)
+    }
+  );
+}
+
+async function loadData() {
+  if (!cfg.owner || !cfg.repo || !cfg.token) {
+    setStatus("Bitte zuerst über ⚙️ mit GitHub verbinden.");
+    openSettings();
+    return;
+  }
+  setStatus("Lade " + cfg.path + " aus " + cfg.owner + "/" + cfg.repo + "…");
+  try {
+    const res = await ghGet(cfg.path);
+    if (res.status === 404) {
+      data = { default_blacklist: [], topics: [] };
+      fileSha = null;
+      setStatus("Keine " + cfg.path + " gefunden – wird beim Speichern neu angelegt.");
+    } else {
+      const json = await res.json();
+      if (!res.ok) throw new Error(json.message || ("HTTP " + res.status));
+      fileSha = json.sha;
+      data = JSON.parse(base64ToUtf8(json.content));
+      data.default_blacklist = data.default_blacklist || [];
+      data.topics = data.topics || [];
+      data.topics.forEach(function (t) {
+        t.links = t.links || [];
+        t.links.forEach(function (l) { l.blacklist = l.blacklist || []; });
+      });
+      setStatus("Geladen ✓ (" + data.topics.length + " Themen)");
+    }
+    document.getElementById("app").hidden = false;
+    render();
+  } catch (err) {
+    setStatus("Fehler beim Laden: " + err.message, true);
+  }
+}
+
+async function saveConfig() {
+  setStatus("Speichere…");
+  try {
+    const content = JSON.stringify(data, null, 2);
+    const res = await ghPut(cfg.path, content, fileSha, "links.json via Editor aktualisiert");
+    const json = await res.json();
+    if (!res.ok) {
+      if (res.status === 409) {
+        setStatus("Konflikt: Datei wurde extern geändert. Bitte Seite neu laden und erneut versuchen.", true);
+        return;
+      }
+      throw new Error(json.message || ("HTTP " + res.status));
+    }
+    fileSha = json.content.sha;
+    setStatus("Gespeichert ✓ — nächster Aggregator-Lauf verwendet die neue Konfiguration.");
+  } catch (err) {
+    setStatus("Fehler beim Speichern: " + err.message, true);
+  }
+}
+
+// ---------- Rendering ----------
+
+function render() {
+  renderDefaultBlacklist();
+  renderTopics();
+}
+
+function renderDefaultBlacklist() {
+  const el = document.getElementById("defaultBlacklistChips");
+  el.innerHTML = "";
+  data.default_blacklist.forEach(function (word, i) {
+    el.appendChild(makeChip(word, function () {
+      data.default_blacklist.splice(i, 1);
+      render();
+    }));
+  });
+}
+
+function addDefaultBlacklistWord() {
+  const input = document.getElementById("defaultBlacklistInput");
+  const val = input.value.trim();
+  if (!val) return;
+  if (data.default_blacklist.indexOf(val) === -1) data.default_blacklist.push(val);
+  input.value = "";
+  render();
+}
+
+function renderTopics() {
+  const container = document.getElementById("topicsContainer");
+  container.innerHTML = "";
+  data.topics.forEach(function (topic, ti) {
+    container.appendChild(renderTopicCard(topic, ti));
+  });
+}
+
+function renderTopicCard(topic, ti) {
+  const details = document.createElement("details");
+  details.className = "topic-card";
+  details.open = true;
+
+  const summary = document.createElement("summary");
+  const nameSpan = document.createElement("span");
+  nameSpan.className = "topic-name";
+  nameSpan.textContent = topic.name + " (" + topic.links.length + ")";
+  nameSpan.onclick = function (e) { e.preventDefault(); renameTopic(ti); };
+  summary.appendChild(nameSpan);
+
+  const delBtn = document.createElement("button");
+  delBtn.type = "button";
+  delBtn.textContent = "🗑️";
+  delBtn.className = "icon-btn danger";
+  delBtn.onclick = function (e) { e.preventDefault(); e.stopPropagation(); deleteTopic(ti); };
+  summary.appendChild(delBtn);
+
+  details.appendChild(summary);
+
+  const body = document.createElement("div");
+  body.className = "topic-body";
+
+  topic.links.forEach(function (link, li) {
+    body.appendChild(renderLinkRow(ti, link, li));
+  });
+
+  const addLinkBtn = document.createElement("button");
+  addLinkBtn.type = "button";
+  addLinkBtn.className = "add-link-btn";
+  addLinkBtn.textContent = "+ Link hinzufügen";
+  addLinkBtn.onclick = function () { addLink(ti); };
+  body.appendChild(addLinkBtn);
+
+  const bulkAddBtn = document.createElement("button");
+  bulkAddBtn.type = "button";
+  bulkAddBtn.className = "add-link-btn secondary";
+  bulkAddBtn.textContent = "+ Mehrere Links einfügen";
+  bulkAddBtn.onclick = function () { bulkAddLinks(ti); };
+  body.appendChild(bulkAddBtn);
+
+  details.appendChild(body);
+  return details;
+}
+
+function renderLinkRow(ti, link, li) {
+  const row = document.createElement("div");
+  row.className = "link-row";
+
+  const topRow = document.createElement("div");
+  topRow.className = "link-top-row";
+
+  if (transfer) {
+    if (transfer.ti === ti && transfer.li === li) {
+      const tag = document.createElement("span");
+      tag.className = "source-tag";
+      tag.textContent = "Quelle";
+      topRow.appendChild(tag);
+    } else {
+      const cb = document.createElement("input");
+      cb.type = "checkbox";
+      const key = ti + ":" + li;
+      cb.checked = transfer.selected.has(key);
+      cb.onchange = function () {
+        if (cb.checked) transfer.selected.add(key); else transfer.selected.delete(key);
+        updateTransferBanner();
+      };
+      topRow.appendChild(cb);
+    }
+  }
+
+  const urlInput = document.createElement("input");
+  urlInput.type = "text";
+  urlInput.className = "link-url";
+  urlInput.value = link.url;
+  urlInput.placeholder = "https://www.kleinanzeigen.de/s-...";
+  urlInput.oninput = function () { link.url = urlInput.value; };
+  topRow.appendChild(urlInput);
+
+  const delBtn = document.createElement("button");
+  delBtn.type = "button";
+  delBtn.className = "icon-btn danger";
+  delBtn.textContent = "🗑️";
+  delBtn.onclick = function () { deleteLink(ti, li); };
+  topRow.appendChild(delBtn);
+
+  row.appendChild(topRow);
+
+  const chipWrap = document.createElement("div");
+  chipWrap.className = "chips";
+  link.blacklist.forEach(function (word, wi) {
+    chipWrap.appendChild(makeChip(word, function () {
+      link.blacklist.splice(wi, 1);
+      render();
+    }));
+  });
+  row.appendChild(chipWrap);
+
+  const chipInputRow = document.createElement("div");
+  chipInputRow.className = "chip-input-row";
+  const chipInput = document.createElement("input");
+  chipInput.type = "text";
+  chipInput.placeholder = "Blacklist-Wort für diesen Link…";
+  chipInput.onkeydown = function (e) {
+    if (e.key === "Enter") {
+      e.preventDefault();
+      const v = chipInput.value.trim();
+      if (v && link.blacklist.indexOf(v) === -1) { link.blacklist.push(v); render(); }
+    }
+  };
+  chipInputRow.appendChild(chipInput);
+  const chipAddBtn = document.createElement("button");
+  chipAddBtn.type = "button";
+  chipAddBtn.textContent = "+";
+  chipAddBtn.onclick = function () {
+    const v = chipInput.value.trim();
+    if (v && link.blacklist.indexOf(v) === -1) { link.blacklist.push(v); render(); }
+  };
+  chipInputRow.appendChild(chipAddBtn);
+  row.appendChild(chipInputRow);
+
+  const actionRow = document.createElement("div");
+  actionRow.className = "link-actions";
+
+  const select = document.createElement("select");
+  const defaultOpt = document.createElement("option");
+  defaultOpt.textContent = "Blacklist übernehmen von…";
+  defaultOpt.value = "";
+  select.appendChild(defaultOpt);
+  data.topics.forEach(function (t2, ti2) {
+    t2.links.forEach(function (l2, li2) {
+      if (ti2 === ti && li2 === li) return;
+      if (!l2.blacklist.length) return;
+      const opt = document.createElement("option");
+      opt.value = ti2 + ":" + li2;
+      opt.textContent = t2.name + " — " + shortUrl(l2.url) + " (" + l2.blacklist.length + ")";
+      select.appendChild(opt);
+    });
+  });
+  select.onchange = function () {
+    if (!select.value) return;
+    const parts = select.value.split(":").map(Number);
+    const source = data.topics[parts[0]].links[parts[1]];
+    link.blacklist = source.blacklist.slice();
+    render();
+  };
+  actionRow.appendChild(select);
+
+  const transferBtn = document.createElement("button");
+  transferBtn.type = "button";
+  transferBtn.className = "transfer-btn";
+  transferBtn.textContent = "📤 Blacklist übertragen";
+  transferBtn.onclick = function () { startTransfer(ti, li); };
+  actionRow.appendChild(transferBtn);
+
+  row.appendChild(actionRow);
+
+  return row;
+}
+
+// ---------- Blacklist übertragen (Auswahl-Modus) ----------
+
+function startTransfer(ti, li) {
+  transfer = { ti: ti, li: li, selected: new Set() };
+  document.getElementById("transferBanner").hidden = false;
+  updateTransferBanner();
+  render();
+}
+
+function updateTransferBanner() {
+  if (!transfer) return;
+  document.getElementById("transferCount").textContent = transfer.selected.size;
+  const source = data.topics[transfer.ti].links[transfer.li];
+  document.getElementById("transferInfo").textContent =
+    "Blacklist von \"" + shortUrl(source.url) + "\" auf ausgewählte Links übertragen:";
+}
+
+function applyTransfer() {
+  if (!transfer) return;
+  if (transfer.selected.size === 0) {
+    alert("Bitte mindestens einen Ziel-Link auswählen (Checkbox).");
+    return;
+  }
+  const source = data.topics[transfer.ti].links[transfer.li];
+  transfer.selected.forEach(function (key) {
+    const parts = key.split(":").map(Number);
+    data.topics[parts[0]].links[parts[1]].blacklist = source.blacklist.slice();
+  });
+  cancelTransfer();
+  setStatus("Blacklist übertragen. Nicht vergessen zu speichern!");
+}
+
+function cancelTransfer() {
+  transfer = null;
+  document.getElementById("transferBanner").hidden = true;
+  render();
+}
+
+// ---------- Themen / Links CRUD ----------
+
+function addTopic() {
+  const name = prompt("Name des neuen Themas:");
+  if (!name) return;
+  data.topics.push({ name: name, links: [] });
+  render();
+}
+
+function renameTopic(ti) {
+  const name = prompt("Neuer Name:", data.topics[ti].name);
+  if (!name) return;
+  data.topics[ti].name = name;
+  render();
+}
+
+function deleteTopic(ti) {
+  if (!confirm("Thema \"" + data.topics[ti].name + "\" inkl. aller Links wirklich löschen?")) return;
+  data.topics.splice(ti, 1);
+  render();
+}
+
+function addLink(ti) {
+  data.topics[ti].links.push({ url: "", blacklist: [] });
+  render();
+}
+
+function deleteLink(ti, li) {
+  if (!confirm("Diesen Link wirklich löschen?")) return;
+  data.topics[ti].links.splice(li, 1);
+  render();
+}
+
+function bulkAddLinks(ti) {
+  const text = prompt("Links einfügen (eine URL pro Zeile):");
+  if (!text) return;
+  const urls = text.split("\n").map(function (s) { return s.trim(); }).filter(function (s) { return s.indexOf("http") === 0; });
+  const existing = {};
+  data.topics[ti].links.forEach(function (l) { existing[l.url] = true; });
+  urls.forEach(function (u) {
+    if (!existing[u]) { data.topics[ti].links.push({ url: u, blacklist: [] }); existing[u] = true; }
+  });
+  render();
+}
+
+// ---------- Import (links.txt-Format) ----------
+
+function importText() {
+  const raw = document.getElementById("importText").value;
+  if (!raw.trim()) return;
+  const lines = raw.split("\n");
+  let current = null;
+  let added = 0;
+  lines.forEach(function (rawLine) {
+    const line = rawLine.trim();
+    if (!line) return;
+    if (line.charAt(0) === "[" && line.charAt(line.length - 1) === "]") {
+      const name = line.slice(1, -1).trim();
+      current = data.topics.find(function (t) { return t.name === name; });
+      if (!current) {
+        current = { name: name, links: [] };
+        data.topics.push(current);
+      }
+    } else if (current && line.indexOf("http") === 0) {
+      const exists = current.links.some(function (l) { return l.url === line; });
+      if (!exists) {
+        current.links.push({ url: line, blacklist: [] });
+        added++;
+      }
+    }
+  });
+  document.getElementById("importText").value = "";
+  render();
+  setStatus("Import: " + added + " neue Links übernommen. Nicht vergessen zu speichern!");
+}
+
+// ---------- Start ----------
+
+document.getElementById("settingsBtn").onclick = openSettings;
+loadSettings();
+loadData();
+</script>
+</body>
+</html>

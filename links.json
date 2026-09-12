@@ -1,0 +1,40 @@
+{
+  "default_blacklist": [
+    "defekt",
+    "kaputt",
+    "bastler",
+    "nur teile",
+    "ohne funktion",
+    "funktioniert nicht",
+    "schrott",
+    "als ersatzteil"
+  ],
+  "topics": [
+    {
+      "name": "3D - Thüringen",
+      "links": [
+        {
+          "url": "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547",
+          "blacklist": []
+        },
+        {
+          "url": "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548",
+          "blacklist": []
+        }
+      ]
+    },
+    {
+      "name": "3D - Dtl.",
+      "links": [
+        {
+          "url": "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0",
+          "blacklist": []
+        },
+        {
+          "url": "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0",
+          "blacklist": []
+        }
+      ]
+    }
+  ]
+}

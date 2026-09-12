@@ -1,5 +1,5 @@
 <!DOCTYPE html><html lang='de'><head><meta charset='utf-8'>
-<title>3D - Thüringen – Kleinanzeigen</title>
+<title>Kleinanzeigen Übersicht</title>
 <style>
 body{font-family:sans-serif;background:#f5f5f5;margin:0;padding:16px;}
 a{text-decoration:none;color:inherit;}
@@ -96,26 +96,23 @@ h1{margin-top:0;text-align:center;}
   margin-top:2px;
 }
 </style></head><body>
-<a class='back-link' href='../index.html'>&larr; Zurück zur Übersicht</a>
-<h1>3D - Thüringen</h1>
-<div class='meta-top' id='adCount'>1 Anzeigen</div>
-<input type='text' id='adSearch' class='search-box' placeholder='Anzeigen durchsuchen…' oninput='filterAds()' autocomplete='off'>
-<div class='grid' id='adGrid'>
-<a class='card' data-title='lg oled 55ef9509 teile einzeln fuã, platinen t-con kleinteile' href='https://www.kleinanzeigen.de/s-anzeige/lg-oled-55ef9509-teile-einzeln-fuss-platinen-t-con-kleinteile/3389659961-175-2604' target='_blank'><img src='https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/387f2c50-0d50-4062-a46f-4e054204aceb?rule=$_2.AUTO' loading='lazy'><div class='card-body'><div class='card-title'>LG Oled 55EF9509 Teile EINZELN FuÃ, Platinen T-Con Kleinteile</div><div class='card-price'>💰 60 â¬</div><div class='card-meta'>📍 49186 Niedersachsen - Bad Iburg</div><div class='card-meta'>🗓️ </div></div></a>
-</div>
+<h1>Themen</h1>
+<div class='meta-top'>Stand: 12.09.2026 16:03</div>
+<input type='text' id='topicSearch' class='search-box' placeholder='Thema suchen…' oninput='filterTopics()' autocomplete='off'>
+<ul class='topic-list' id='topicList'>
+<li><a href='themen/3D - Thüringen.html'>3D - Thüringen<span class='count'>1 Anzeigen</span></a></li>
+<li><a href='themen/3D - Dtl..html'>3D - Dtl.<span class='count'>226 Anzeigen</span></a></li>
+</ul>
 
 <script>
-function filterAds() {
-  var q = document.getElementById('adSearch').value.trim().toLowerCase();
+function filterTopics() {
+  var q = document.getElementById('topicSearch').value.trim().toLowerCase();
   var terms = q.split(/\s+/).filter(Boolean);
-  var visible = 0;
-  document.querySelectorAll('#adGrid .card').forEach(function (card) {
-    var title = card.dataset.title || '';
-    var match = terms.every(function (t) { return title.indexOf(t) !== -1; });
-    card.style.display = match ? '' : 'none';
-    if (match) visible++;
+  document.querySelectorAll('#topicList li').forEach(function (li) {
+    var text = li.textContent.toLowerCase();
+    var match = terms.every(function (t) { return text.indexOf(t) !== -1; });
+    li.style.display = match ? '' : 'none';
   });
-  document.getElementById('adCount').textContent = visible + ' Anzeigen';
 }
 </script>
 

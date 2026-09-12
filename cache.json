@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-12T03:14:42.896464+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-12T03:14:54.433050+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-12T03:15:03.858652+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-12T03:17:36.403511+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-12T10:08:47.062306+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-12T10:09:02.412800+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-12T10:09:18.221698+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-12T10:11:21.396442+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -2398,6 +2398,16 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3cb26868-8267-44d0-a5d1-fd4822b8e3bf?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-65-zoll-4k-uhd-smart-tv-ue65hu7590l-3d-premium/3505648710-175-4627",
         "first_seen": "2026-09-11T10:41:29.350691+00:00"
+      },
+      "3510259001": {
+        "id": "3510259001",
+        "title": "Panasonic LED 4K,UHD,UltraHD,3D,1200Hz,Wifi,Triple Tuner,HDR",
+        "price": "230 €",
+        "location": "35759 Hessen - Driedorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc98753c-6ef8-4e9d-9df5-a62dfdd9667f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/panasonic-led-4k-uhd-ultrahd-3d-1200hz-wifi-triple-tuner-hdr/3510259001-175-4705",
+        "first_seen": "2026-09-12T10:11:21.396232+00:00"
       }
     }
   }

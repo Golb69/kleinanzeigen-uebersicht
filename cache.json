@@ -1,7 +1,7 @@
 {
   "fetched_urls": {
     "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-14T11:53:04.680810+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-14T03:30:13.960717+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-14T17:44:56.210593+00:00",
     "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-14T11:53:20.992926+00:00",
     "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-12T16:03:06.384077+00:00"
   },
@@ -9,9 +9,9 @@
     "3D - Thüringen": {
       "3389659961": {
         "id": "3389659961",
-        "title": "LG Oled 55EF9509 Teile EINZELN Fuß, Platinen T-Con Kleinteile",
-        "price": "60 €",
-        "location": "49186 Niedersachsen - Bad Iburg",
+        "title": "12",
+        "price": null,
+        "location": null,
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/387f2c50-0d50-4062-a46f-4e054204aceb?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/lg-oled-55ef9509-teile-einzeln-fuss-platinen-t-con-kleinteile/3389659961-175-2604",

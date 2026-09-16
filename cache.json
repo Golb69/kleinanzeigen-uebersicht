@@ -1,8 +1,8 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-16T10:53:17.313995+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-16T10:53:31.095941+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-16T10:53:40.061635+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-16T20:53:53.988647+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-16T20:54:07.325976+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-16T20:54:17.628214+00:00",
     "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-16T16:14:09.098819+00:00"
   },
   "ads": {
@@ -21,9 +21,9 @@
     "3D - Dtl.": {
       "3484266203": {
         "id": "3484266203",
-        "title": "2",
-        "price": null,
-        "location": null,
+        "title": "âï¸Philips 65â 65PUS9809/12 UHD 3D Android SmartTV",
+        "price": "99 â¬",
+        "location": "18249 Mecklenburg-Vorpommern - Dreetz (bei BÃ¼tzow)",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db64032b-0a60-4c02-8b2c-098a12f31f90?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/-philips-65-65pus9809-12-uhd-3d-android-smarttv/3484266203-175-26929",

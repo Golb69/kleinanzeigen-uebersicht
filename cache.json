@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-16T20:53:53.988647+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-16T20:54:07.325976+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-16T20:54:17.628214+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-16T16:14:09.098819+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-17T03:33:12.821742+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-17T03:33:26.729634+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-17T03:33:39.101363+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-17T03:36:10.450583+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -791,9 +791,9 @@
       },
       "3480094157": {
         "id": "3480094157",
-        "title": "5",
-        "price": null,
-        "location": null,
+        "title": "Beamer Leinwand 110 Zoll 4:3 3D 4K Ultra HD",
+        "price": "50 â¬",
+        "location": "23992 Mecklenburg-Vorpommern - Neukloster",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/3067e4f3-1164-4780-9b4e-535f2c2a4173?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/beamer-leinwand-110-zoll-4-3-3d-4k-ultra-hd/3480094157-175-20179",
@@ -1241,9 +1241,9 @@
       },
       "3459122174": {
         "id": "3459122174",
-        "title": "9",
-        "price": null,
-        "location": null,
+        "title": "Wonder Woman 1984 â 4K + 3D Blu ray Steelbook NEU SEALED",
+        "price": "35 â¬ VB",
+        "location": "46483 Nordrhein-Westfalen - Wesel",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0ce61b71-669a-48ea-961c-77a171668d83?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/wonder-woman-1984-4k-3d-blu-ray-steelbook-neu-sealed/3459122174-79-1867",
@@ -1661,9 +1661,9 @@
       },
       "3338745651": {
         "id": "3338745651",
-        "title": "5",
-        "price": null,
-        "location": null,
+        "title": "WONDER WOMAN & WONDER WOMAN 1984 - 4K UHD + 3D Blu-ray STEELBOOK",
+        "price": "70 â¬",
+        "location": "88605 Baden-WÃ¼rttemberg - MeÃkirch",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f320093-cee9-41e6-8bb3-45d3d877e20a?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/wonder-woman-wonder-woman-1984-4k-uhd-3d-blu-ray-steelbook/3338745651-79-20338",
@@ -2282,7 +2282,7 @@
       "3513446405": {
         "id": "3513446405",
         "title": "Grundig Berlin 55 Zoll 4K UHD TV CLX 8595 inkl. 2x 3D Brillen",
-        "price": "150 â¬ VB",
+        "price": "129 â¬ VB",
         "location": "86169 Bayern - Augsburg",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ade4df99-caca-4887-a8cd-aa7be54c54c9?rule=$_2.AUTO",
@@ -2471,9 +2471,9 @@
       },
       "3514566540": {
         "id": "3514566540",
-        "title": "Samsung 55 Zoll 4K UHD Smart TV UE55JU7000T – 3D – WLAN",
-        "price": "199 € VB",
-        "location": "74906 Baden-Württemberg - Bad Rappenau",
+        "title": "Samsung 55 Zoll 4K UHD Smart TV UE55JU7000T â 3D â WLAN",
+        "price": "199 â¬ VB",
+        "location": "74906 Baden-WÃ¼rttemberg - Bad Rappenau",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60745f26-2ae5-4bed-9cf6-a66c3eb0edd4?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-55-zoll-4k-uhd-smart-tv-ue55ju7000t-3d-wlan/3514566540-175-8606",
@@ -2498,6 +2498,66 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/48c7f56b-1649-4886-911f-4055f3e92700?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/beamer-leinwand-110zoll-4-3-3d-4k-ultra-had/3504877047-175-20179",
         "first_seen": "2026-09-16T16:14:09.098580+00:00"
+      },
+      "3514861585": {
+        "id": "3514861585",
+        "title": "ELEGOO Mars 3 4K Resin 3D-Drucker â voll funktionsfÃ¤hig",
+        "price": "120 â¬ VB",
+        "location": "44651 Nordrhein-Westfalen - Herne",
+        "date": null,
+        "image": null,
+        "url": "https://www.kleinanzeigen.de/s-anzeige/elegoo-mars-3-4k-resin-3d-drucker-voll-funktionsfaehig/3514861585-249-2000",
+        "first_seen": "2026-09-17T03:36:10.450374+00:00"
+      },
+      "3514767907": {
+        "id": "3514767907",
+        "title": "Grundig TV Smart 4K 3D",
+        "price": "100 â¬",
+        "location": "26683 Niedersachsen - Saterland",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9bce2df8-9e3a-4e1a-95a9-edbe265ccd31?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/grundig-tv-smart-4k-3d/3514767907-175-2586",
+        "first_seen": "2026-09-17T03:36:10.450374+00:00"
+      },
+      "3514760150": {
+        "id": "3514760150",
+        "title": "Drucker 3D 4K inkl. ZubehÃ¶r",
+        "price": "200 â¬",
+        "location": "16306 Brandenburg - Passow Brandenburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d86a1734-68a4-4c59-9ecf-528e87787ec4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/drucker-3d-4k-inkl-zubehoer/3514760150-225-21107",
+        "first_seen": "2026-09-17T03:36:10.450374+00:00"
+      },
+      "3514749276": {
+        "id": "3514749276",
+        "title": "LG Fernseher 4K 3D 49 Zoll 123cm",
+        "price": "120 â¬ VB",
+        "location": "63486 Hessen - BruchkÃ¶bel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d495bb5-a1b8-4dbe-8e2f-377a8f2af355?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lg-fernseher-4k-3d-49-zoll-123cm/3514749276-175-4555",
+        "first_seen": "2026-09-17T03:36:10.450374+00:00"
+      },
+      "3513344722": {
+        "id": "3513344722",
+        "title": "Yamaha HTR-2866 - UHD - 4K - 3D - Heimkino Receiver",
+        "price": "149 â¬ VB",
+        "location": "24357 Schleswig-Holstein - Fleckeby",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/081ac5b0-fd0c-49d4-821c-c4b734767221?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/yamaha-htr-2866-uhd-4k-3d-heimkino-receiver/3513344722-172-520",
+        "first_seen": "2026-09-17T03:36:10.450374+00:00"
+      },
+      "3511500481": {
+        "id": "3511500481",
+        "title": "Grundig 48 VLX 8580 BL 3D 4K Fernseher",
+        "price": "200 â¬",
+        "location": "84030 Bayern - Ergolding",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66d91bd6-c73d-4ce0-befa-6812f657b37d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/grundig-48-vlx-8580-bl-3d-4k-fernseher/3511500481-175-17510",
+        "first_seen": "2026-09-17T03:36:10.450374+00:00"
       }
     }
   }

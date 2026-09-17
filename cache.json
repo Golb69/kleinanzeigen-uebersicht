@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-17T03:33:12.821742+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-17T03:33:26.729634+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-17T03:33:39.101363+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-17T03:36:10.450583+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-17T11:00:23.609970+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-17T11:00:37.389149+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-17T11:00:51.967752+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-17T11:04:43.608538+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -152,7 +152,7 @@
       "3506981883": {
         "id": "3506981883",
         "title": "Grundig Lugano 48\" CLX 8485 SL: TV (Ultra-HD) 3D 4K",
-        "price": "190 â¬",
+        "price": "190 â¬ VB",
         "location": "48720 Nordrhein-Westfalen - Rosendahl",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/780abb82-8b0b-4957-9403-f987fa724ad6?rule=$_2.AUTO",
@@ -242,7 +242,7 @@
       "3504511395": {
         "id": "3504511395",
         "title": "Orbsmart R82 4K Mediaplayer | Dolby Vision / Atmos | HDR10+ | 3D",
-        "price": "199 â¬ VB",
+        "price": "189 â¬ VB",
         "location": "58097 Nordrhein-Westfalen - Hagen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc2fddad-9140-495f-8b4e-6dca78462305?rule=$_2.AUTO",
@@ -571,9 +571,9 @@
       },
       "3493635431": {
         "id": "3493635431",
-        "title": "HDMI Splitter 1x3 â NEU â 4K Ultra HD / 3D / 10.2 Gbps",
-        "price": "10 â¬",
-        "location": "74535 Baden-WÃ¼rttemberg - Mainhardt",
+        "title": "5",
+        "price": null,
+        "location": null,
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d2b123a-832c-4096-8144-f41dc36c0e23?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-splitter-1x3-neu-4k-ultra-hd-3d-10-2-gbps/3493635431-225-9159",
@@ -581,9 +581,9 @@
       },
       "3493208302": {
         "id": "3493208302",
-        "title": "Black Widow 4K UHD + 3D + Blu-ray Set - Japan Version",
-        "price": "85 â¬",
-        "location": "81541 Obergiesing-Fasangarten - Obergiesing",
+        "title": "Anzeige",
+        "price": null,
+        "location": null,
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4ebde128-c357-418b-830e-339d50a404e5?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/black-widow-4k-uhd-3d-blu-ray-set-japan-version/3493208302-79-16362",
@@ -591,9 +591,9 @@
       },
       "3493206259": {
         "id": "3493206259",
-        "title": "Doctor Strange Multiverse of Madness 4K Ultra HD+3D+2D - Japan",
-        "price": "85 â¬",
-        "location": "81541 Obergiesing-Fasangarten - Obergiesing",
+        "title": "2",
+        "price": null,
+        "location": null,
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b0ba1667-ca7c-4d2b-8c18-24681f403647?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/doctor-strange-multiverse-of-madness-4k-ultra-hd-3d-2d-japan/3493206259-79-16362",
@@ -601,9 +601,9 @@
       },
       "3492830994": {
         "id": "3492830994",
-        "title": "Club 3D SenseVision CSV-1460 USB 3.0 Dockingstation 4K",
-        "price": "129 â¬ VB",
-        "location": "63303 Hessen - Dreieich",
+        "title": "2",
+        "price": null,
+        "location": null,
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17b39d7e-33f1-4afb-a8b1-fee7d4986a31?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/club-3d-sensevision-csv-1460-usb-3-0-dockingstation-4k/3492830994-225-4291",
@@ -711,9 +711,9 @@
       },
       "3385103748": {
         "id": "3385103748",
-        "title": "NEU HDMI Splitter 3 in 1-Switch Adapter Full HD 4K 1080P 3D OVP",
-        "price": "25 â¬",
-        "location": "10627 Berlin - Charlottenburg",
+        "title": "14",
+        "price": null,
+        "location": null,
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c6057b7d-c43c-4c91-8224-3b0de8bb6410?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/neu-hdmi-splitter-3-in-1-switch-adapter-full-hd-4k-1080p-3d-ovp/3385103748-225-3343",
@@ -2512,7 +2512,7 @@
       "3514767907": {
         "id": "3514767907",
         "title": "Grundig TV Smart 4K 3D",
-        "price": "100 â¬",
+        "price": "100 â¬ VB",
         "location": "26683 Niedersachsen - Saterland",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9bce2df8-9e3a-4e1a-95a9-edbe265ccd31?rule=$_2.AUTO",
@@ -2558,6 +2558,96 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66d91bd6-c73d-4ce0-befa-6812f657b37d?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/grundig-48-vlx-8580-bl-3d-4k-fernseher/3511500481-175-17510",
         "first_seen": "2026-09-17T03:36:10.450374+00:00"
+      },
+      "3515166276": {
+        "id": "3515166276",
+        "title": "Panasonic TX58DXW784 3D 4K UHD Smart TV",
+        "price": "250 â¬",
+        "location": "60323 Frankfurt am Main - Westend",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/901ca574-8a5f-48a3-a9ba-2593d579ba4e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/panasonic-tx58dxw784-3d-4k-uhd-smart-tv/3515166276-175-4304",
+        "first_seen": "2026-09-17T11:04:43.608346+00:00"
+      },
+      "3510285743": {
+        "id": "3510285743",
+        "title": "LG OLED 65 Zoll â OLED65C6V â 4K OLED â Curved â 3D",
+        "price": "240 â¬ VB",
+        "location": "24983 Schleswig-Holstein - Handewitt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5ccd6bb-c22b-45b2-bcd8-98ebfb15ac4d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lg-oled-65-zoll-oled65c6v-4k-oled-curved-3d/3510285743-175-722",
+        "first_seen": "2026-09-17T11:04:43.608346+00:00"
+      },
+      "3178451693": {
+        "id": "3178451693",
+        "title": "Atlas Gemini RS â Silikonputz SOFORT ABHOLBAR IN ESSEN",
+        "price": "85 â¬",
+        "location": "45141 Essen - Stoppenberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a9ecfcb-30eb-41f5-a210-e886126344fe?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/atlas-gemini-rs-silikonputz-sofort-abholbar-in-essen/3178451693-84-2057",
+        "first_seen": "2026-09-17T11:04:43.608346+00:00"
+      },
+      "3306667682": {
+        "id": "3306667682",
+        "title": "Projektionsleinwand manuell 120 Zoll Wandmontage NEU",
+        "price": "139 â¬",
+        "location": "29614 Niedersachsen - Soltau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c31eaecb-4352-4552-931a-739203feec22?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/projektionsleinwand-manuell-120-zoll-wandmontage-neu/3306667682-87-3257",
+        "first_seen": "2026-09-17T11:04:43.608346+00:00"
+      },
+      "3457119468": {
+        "id": "3457119468",
+        "title": "2 Teilnehmer Set QualitÃ¤ts-Alu-Satelliten-Komplettanlage Rot 60cm",
+        "price": "65 â¬ VB",
+        "location": "55619 Rheinland-Pfalz - Hennweiler",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2eb275cc-cf0a-455b-bc1a-c28d90778a06?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2-teilnehmer-set-qualitaets-alu-satelliten-komplettanlage-rot-60cm/3457119468-246-5137",
+        "first_seen": "2026-09-17T11:04:43.608346+00:00"
+      },
+      "3390894853": {
+        "id": "3390894853",
+        "title": "Blickfang 3D-Bild romantische Kirche im FrÃ¼hling mit Holzbank NEU",
+        "price": "20 â¬",
+        "location": "65599 Hessen - Dornburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85d1d51b-ad8e-4cf0-9833-32b589dfe9f7?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/blickfang-3d-bild-romantische-kirche-im-fruehling-mit-holzbank-neu/3390894853-246-4361",
+        "first_seen": "2026-09-17T11:04:43.608346+00:00"
+      },
+      "3285367906": {
+        "id": "3285367906",
+        "title": "TV-Antennen-T-Splitter / Koaxial-Verteiler",
+        "price": "2 â¬",
+        "location": "71144 Baden-WÃ¼rttemberg - Steinenbronn",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2109e18-0af8-4b25-a41b-c051aa97a2c8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tv-antennen-t-splitter-koaxial-verteiler/3285367906-84-19209",
+        "first_seen": "2026-09-17T11:04:43.608346+00:00"
+      },
+      "3259255416": {
+        "id": "3259255416",
+        "title": "HDMI-Kabel 2.0 // FullHD + ARC // NEU !!",
+        "price": "5 â¬",
+        "location": "38162 Niedersachsen - Cremlingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a0805a1-818a-4eff-a8b5-4638ea6f5860?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-kabel-2-0-fullhd-arc-neu-/3259255416-88-2459",
+        "first_seen": "2026-09-17T11:04:43.608346+00:00"
+      },
+      "3249041243": {
+        "id": "3249041243",
+        "title": "LNB 3 StÃ¼ck mit 3 1,5m Kabel neu",
+        "price": "30 â¬ VB",
+        "location": "84489 Kr. AltÃ¶tting - Burghausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6fa340d-628c-4c38-9961-a5ecc05658d5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lnb-3-stueck-mit-3-1-5m-kabel-neu/3249041243-84-5905",
+        "first_seen": "2026-09-17T11:04:43.608346+00:00"
       }
     }
   }

@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-18T10:37:10.761886+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-18T10:37:20.919601+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-18T10:37:34.457277+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-18T10:41:13.148989+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-18T20:26:02.086158+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-18T20:26:15.197871+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-18T20:26:22.992826+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-18T20:29:43.719527+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -82,7 +82,7 @@
       "3508837327": {
         "id": "3508837327",
         "title": "Samsung UE48JU7090T 48 Zoll 4K UHD 3D Smart TV â Serie 7",
-        "price": "199 â¬ VB",
+        "price": "167 â¬ VB",
         "location": "75391 Baden-WÃ¼rttemberg - Gechingen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc5e5e59-8f31-4837-9a55-714437db6828?rule=$_2.AUTO",
@@ -882,11 +882,11 @@
       "3474683910": {
         "id": "3474683910",
         "title": "speaka professional hdmi splitter 1x4  4K 3D",
-        "price": "25 â¬",
+        "price": "20 â¬",
         "location": "30539 Hannover - Kirchrode-Bemerode-WÃ¼lferode",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be8cdc2a-f8d7-431a-b066-d75a51cd4ea7?rule=$_2.AUTO",
-        "url": "https://www.kleinanzeigen.de/s-anzeige/speaka-professional-hdmi-splitter-1x4-4k-3d-/3474683910-175-3173",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/speaka-professional-hdmi-splitter-1x4-4k-3d/3474683910-175-3173",
         "first_seen": "2026-09-12T16:03:06.383905+00:00"
       },
       "3474081559": {
@@ -2031,9 +2031,9 @@
       },
       "2968212897": {
         "id": "2968212897",
-        "title": "Doctor Strange 1+2/ Captain Marvel/ Black Widow (Steelbook,3D,4K)",
-        "price": "100 â¬ VB",
-        "location": "06406 Sachsen-Anhalt - Bernburg (Saale)",
+        "title": "11",
+        "price": null,
+        "location": null,
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27914cc1-225a-4aa4-87e8-9328b41dc7cf?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/doctor-strange-1-2-captain-marvel-black-widow-steelbook-3d-4k-/2968212897-79-2226",
@@ -2051,9 +2051,9 @@
       },
       "2955853462": {
         "id": "2955853462",
-        "title": "4K HDMI UHD 2160p Full HD 3D CEC Kabel 1,5m QualitÃ¤tskabel NEU",
-        "price": "3 â¬",
-        "location": "40699 Nordrhein-Westfalen - Erkrath",
+        "title": "Anzeige",
+        "price": null,
+        "location": null,
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d141ef63-e988-4a84-8da0-4bba59d43fb6?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/4k-hdmi-uhd-2160p-full-hd-3d-cec-kabel-1-5m-qualitaetskabel-neu/2955853462-225-1401",
@@ -2688,6 +2688,56 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/46a2a340-0fcf-4e86-89bc-539031cde205?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/phrozen-sonic-mighty-4k-resin-3d-drucker-/3483658819-168-3328",
         "first_seen": "2026-09-17T21:02:13.410464+00:00"
+      },
+      "3516520706": {
+        "id": "3516520706",
+        "title": "Panasonic 55 Zoll 4K UHD Smart-TV 3D Fernseher",
+        "price": "230 â¬",
+        "location": "21073 Hamburg - Harburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1eb011db-4a69-4f76-91a3-9354a2da2785?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/panasonic-55-zoll-4k-uhd-smart-tv-3d-fernseher/3516520706-175-9445",
+        "first_seen": "2026-09-18T20:29:43.719262+00:00"
+      },
+      "3516468703": {
+        "id": "3516468703",
+        "title": "HDMI Kabel 4K 3D HEC HighSpeed m. Internet 1,50m LÃ¤nge",
+        "price": "4 â¬",
+        "location": "21706 Niedersachsen - Drochtersen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/662f332c-956e-40da-a99a-cde2dc7b117e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-kabel-4k-3d-hec-highspeed-m-internet-1-50m-laenge/3516468703-225-863",
+        "first_seen": "2026-09-18T20:29:43.719262+00:00"
+      },
+      "3516407450": {
+        "id": "3516407450",
+        "title": "Hisense 42 Zoll 4K 3D TV (LTDN42K680)",
+        "price": "55 â¬",
+        "location": "16227 Brandenburg - Eberswalde",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3228969-dcd5-4f72-b4f4-186c98759e77?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hisense-42-zoll-4k-3d-tv-ltdn42k680-/3516407450-175-7722",
+        "first_seen": "2026-09-18T20:29:43.719262+00:00"
+      },
+      "3516147354": {
+        "id": "3516147354",
+        "title": "Panasonic TX-50AXW804 50â 4K 3D TV + Sony Soundbar/Subwoof",
+        "price": "249 â¬",
+        "location": "31157 Niedersachsen - Sarstedt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d0b57a7-1cb5-4d48-9388-fadb3fa9d830?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/panasonic-tx-50axw804-50-4k-3d-tv-sony-soundbar-subwoof/3516147354-175-2908",
+        "first_seen": "2026-09-18T20:29:43.719262+00:00"
+      },
+      "3516139559": {
+        "id": "3516139559",
+        "title": "Wie NEU Panasonic DMP-BDT185 3D Blu-ray Player 4K Upscal DVD CD",
+        "price": "65 â¬ VB",
+        "location": "42489 Nordrhein-Westfalen - WÃ¼lfrath",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06190b66-e0d9-4741-954f-d66554b17dd5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/wie-neu-panasonic-dmp-bdt185-3d-blu-ray-player-4k-upscal-dvd-cd/3516139559-175-1554",
+        "first_seen": "2026-09-18T20:29:43.719262+00:00"
       }
     }
   }

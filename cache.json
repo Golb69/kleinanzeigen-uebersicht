@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-17T20:58:05.988501+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-17T20:58:20.378733+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-17T20:58:35.128184+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-17T21:02:13.410650+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-18T03:18:47.580384+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-18T03:18:57.339884+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-18T03:19:08.723362+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-18T03:22:11.816514+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -231,9 +231,9 @@
       },
       "3504707326": {
         "id": "3504707326",
-        "title": "13",
-        "price": null,
-        "location": null,
+        "title": "TCL 55 Zoll Smart TV UHD 4K 3D inklusive Wandhalterung",
+        "price": "245 â¬ VB",
+        "location": "23556 Schleswig-Holstein - LÃ¼beck",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86f462dc-d39d-434f-82b8-59ea583520bc?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/tcl-55-zoll-smart-tv-uhd-4k-3d-inklusive-wandhalterung/3504707326-175-413",
@@ -271,9 +271,9 @@
       },
       "3504220437": {
         "id": "3504220437",
-        "title": "20",
-        "price": null,
-        "location": null,
+        "title": "Warcraft - The Beginning - STEELBOOK 4K ULTRA HD + BLURAY 3D + BR",
+        "price": "28 â¬",
+        "location": "64347 Hessen - Griesheim",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/0310d89b-1bcb-4ec3-a34a-d15c39c1b566?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/warcraft-the-beginning-steelbook-4k-ultra-hd-bluray-3d-br/3504220437-79-4501",
@@ -281,9 +281,9 @@
       },
       "3504149749": {
         "id": "3504149749",
-        "title": "4",
-        "price": null,
-        "location": null,
+        "title": "Philips 40 Zoll 40PUK6809 3D 4K LED Fernseher",
+        "price": "150 â¬",
+        "location": "25524 Schleswig-Holstein - Oelixdorf",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0f56fdc4-fa1b-4655-afad-a6c87b011be9?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/philips-40-zoll-40puk6809-3d-4k-led-fernseher/3504149749-175-823",
@@ -451,9 +451,9 @@
       },
       "3500378289": {
         "id": "3500378289",
-        "title": "7",
-        "price": null,
-        "location": null,
+        "title": "Panasonic TX-43CXW754 43 Zoll 4K Ultra HD Smart TV â 100 Hz â 3D",
+        "price": "150 â¬ VB",
+        "location": "94060 Bayern - Pocking",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a856c289-8d23-419f-ab5a-647777003553?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/panasonic-tx-43cxw754-43-zoll-4k-ultra-hd-smart-tv-100-hz-3d/3500378289-175-7478",
@@ -1911,9 +1911,9 @@
       },
       "3209823884": {
         "id": "3209823884",
-        "title": "Monster Hunter + 4K + 3D + UHD + Blu-ray + Mediabook",
-        "price": "39 â¬",
-        "location": "36041 Hessen - Fulda",
+        "title": "4",
+        "price": null,
+        "location": null,
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68ecf12d-d27b-42de-83ab-c327dab407f8?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/monster-hunter-4k-3d-uhd-blu-ray-mediabook/3209823884-79-4887",
@@ -2631,9 +2631,9 @@
       },
       "3259255416": {
         "id": "3259255416",
-        "title": "HDMI-Kabel 2.0 // FullHD + ARC // NEU !!",
-        "price": "5 â¬",
-        "location": "38162 Niedersachsen - Cremlingen",
+        "title": "2",
+        "price": null,
+        "location": null,
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a0805a1-818a-4eff-a8b5-4638ea6f5860?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-kabel-2-0-fullhd-arc-neu-/3259255416-88-2459",

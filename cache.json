@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-19T03:15:03.798038+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-19T03:15:15.549864+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-19T03:15:29.156286+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-19T03:18:49.313296+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-19T10:21:34.473290+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-19T10:21:50.574885+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-19T10:22:02.570496+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-19T10:25:49.059514+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -2738,6 +2738,46 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06190b66-e0d9-4741-954f-d66554b17dd5?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/wie-neu-panasonic-dmp-bdt185-3d-blu-ray-player-4k-upscal-dvd-cd/3516139559-175-1554",
         "first_seen": "2026-09-18T20:29:43.719262+00:00"
+      },
+      "3516863440": {
+        "id": "3516863440",
+        "title": "Grundig 55 GUB 9688 4K UHD 3D TV + Govee Ambilight + 3D Brillen",
+        "price": "239 â¬",
+        "location": "85290 Bayern - Geisenfeld",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26dbd8d1-1e45-4d0a-a7ee-506c2b3f4103?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/grundig-55-gub-9688-4k-uhd-3d-tv-govee-ambilight-3d-brillen/3516863440-175-5840",
+        "first_seen": "2026-09-19T10:25:49.059297+00:00"
+      },
+      "3516829123": {
+        "id": "3516829123",
+        "title": "Denon AVR X2000,  7.1 , 3d , 4K  ....",
+        "price": "140 â¬ VB",
+        "location": "21680 Niedersachsen - Stade",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/6765347d-82e7-465b-8115-7ef05305b096?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/denon-avr-x2000-7-1-3d-4k-/3516829123-172-2829",
+        "first_seen": "2026-09-19T10:25:49.059297+00:00"
+      },
+      "3516697496": {
+        "id": "3516697496",
+        "title": "Philips 40 Zoll 40PUK6809 3D 4K LED Fernseher",
+        "price": "150 â¬",
+        "location": "25524 Schleswig-Holstein - Oelixdorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0f3f0626-1e07-4080-a464-48748f78de4f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/philips-40-zoll-40puk6809-3d-4k-led-fernseher/3516697496-175-823",
+        "first_seen": "2026-09-19T10:25:49.059297+00:00"
+      },
+      "3516668231": {
+        "id": "3516668231",
+        "title": "Samsung 75\" 3D 4K TV (UE75JU7090) â Leuchtpunkt-Defekt",
+        "price": "160 â¬ VB",
+        "location": "90592 Bayern - Schwarzenbruck",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8b1c514-869c-4cd8-aaf0-d75b6c8a9871?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-75-3d-4k-tv-ue75ju7090-leuchtpunkt-defekt/3516668231-175-5656",
+        "first_seen": "2026-09-19T10:25:49.059297+00:00"
       }
     }
   }

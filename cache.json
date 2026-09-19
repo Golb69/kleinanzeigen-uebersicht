@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-19T10:21:34.473290+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-19T10:21:50.574885+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-19T10:22:02.570496+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-19T10:25:49.059514+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-19T20:05:16.150193+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-19T20:05:25.841778+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-19T20:05:40.353820+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-19T20:09:44.775255+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -2778,6 +2778,36 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8b1c514-869c-4cd8-aaf0-d75b6c8a9871?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-75-3d-4k-tv-ue75ju7090-leuchtpunkt-defekt/3516668231-175-5656",
         "first_seen": "2026-09-19T10:25:49.059297+00:00"
+      },
+      "3517542327": {
+        "id": "3517542327",
+        "title": "âLG 60UF8579 â 60 Zoll 4K Ultra HD 3D LED Fernseher Smart TV UHD",
+        "price": "225 â¬",
+        "location": "71336 Baden-WÃ¼rttemberg - Waiblingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2ee638ab-6fd3-47fc-832e-df9979ce0a11?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/-lg-60uf8579-60-zoll-4k-ultra-hd-3d-led-fernseher-smart-tv-uhd/3517542327-175-9042",
+        "first_seen": "2026-09-19T20:09:44.775048+00:00"
+      },
+      "3517505794": {
+        "id": "3517505794",
+        "title": "Vivanco High Speed HDMI Kabel mit Ethernet 1,5m 4K 3D",
+        "price": "5 â¬",
+        "location": "75172 Baden-WÃ¼rttemberg - Pforzheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/391121ab-40de-4107-920c-eb928ace4ffa?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/vivanco-high-speed-hdmi-kabel-mit-ethernet-1-5m-4k-3d/3517505794-225-9269",
+        "first_seen": "2026-09-19T20:09:44.775048+00:00"
+      },
+      "3517138065": {
+        "id": "3517138065",
+        "title": "SJGAM M15 Plus 2.4G Wireless Game Console 4K 3D Retro-Spielekons.",
+        "price": "40 â¬",
+        "location": "26655 Niedersachsen - Westerstede",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ade0bfc2-b7a6-4d84-b859-8f76d7f70524?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sjgam-m15-plus-2-4g-wireless-game-console-4k-3d-retro-spielekons-/3517138065-279-2641",
+        "first_seen": "2026-09-19T20:09:44.775048+00:00"
       }
     }
   }

@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-18T20:26:02.086158+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-18T20:26:15.197871+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-18T20:26:22.992826+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-18T20:29:43.719527+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-19T03:15:03.798038+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-19T03:15:15.549864+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-19T03:15:29.156286+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-19T03:18:49.313296+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -2031,9 +2031,9 @@
       },
       "2968212897": {
         "id": "2968212897",
-        "title": "11",
-        "price": null,
-        "location": null,
+        "title": "Doctor Strange 1+2/ Captain Marvel/ Black Widow (Steelbook,3D,4K)",
+        "price": "100 â¬ VB",
+        "location": "06406 Sachsen-Anhalt - Bernburg (Saale)",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27914cc1-225a-4aa4-87e8-9328b41dc7cf?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/doctor-strange-1-2-captain-marvel-black-widow-steelbook-3d-4k-/2968212897-79-2226",
@@ -2051,9 +2051,9 @@
       },
       "2955853462": {
         "id": "2955853462",
-        "title": "Anzeige",
-        "price": null,
-        "location": null,
+        "title": "4K HDMI UHD 2160p Full HD 3D CEC Kabel 1,5m QualitÃ¤tskabel NEU",
+        "price": "3 â¬",
+        "location": "40699 Nordrhein-Westfalen - Erkrath",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d141ef63-e988-4a84-8da0-4bba59d43fb6?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/4k-hdmi-uhd-2160p-full-hd-3d-cec-kabel-1-5m-qualitaetskabel-neu/2955853462-225-1401",

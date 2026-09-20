@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-20T10:41:05.366922+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-20T10:41:16.562951+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-20T10:41:30.593107+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-20T10:45:54.571391+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-20T20:21:38.369487+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-20T20:21:48.449110+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-20T20:21:55.987069+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-20T20:25:16.391398+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -222,7 +222,7 @@
       "3505312002": {
         "id": "3505312002",
         "title": "TCL 55 Zoll Smart TV UHD 4K 3D inklusive Wandhalterung",
-        "price": "250 â¬ VB",
+        "price": "235 â¬ VB",
         "location": "23558 Schleswig-Holstein - LÃ¼beck",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d2652f7-bbc4-4853-8b76-04641c9348f3?rule=$_2.AUTO",
@@ -232,7 +232,7 @@
       "3504707326": {
         "id": "3504707326",
         "title": "TCL 55 Zoll Smart TV UHD 4K 3D inklusive Wandhalterung",
-        "price": "245 â¬ VB",
+        "price": "235 â¬ VB",
         "location": "23556 Schleswig-Holstein - LÃ¼beck",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86f462dc-d39d-434f-82b8-59ea583520bc?rule=$_2.AUTO",
@@ -452,7 +452,7 @@
       "3500378289": {
         "id": "3500378289",
         "title": "Panasonic TX-43CXW754 43 Zoll 4K Ultra HD Smart TV â 100 Hz â 3D",
-        "price": "150 â¬ VB",
+        "price": "120 â¬ VB",
         "location": "94060 Bayern - Pocking",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a856c289-8d23-419f-ab5a-647777003553?rule=$_2.AUTO",
@@ -2432,7 +2432,7 @@
       "3510944590": {
         "id": "3510944590",
         "title": "3D player  DMP-BDT184EG, Blu ray Disc Player 4K, schwarz",
-        "price": "99 â¬",
+        "price": "89 â¬",
         "location": "42109 Wuppertal - Elberfeld",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5bc596ba-5974-4a2d-916e-0243b1426454?rule=$_2.AUTO",
@@ -2472,7 +2472,7 @@
       "3514566540": {
         "id": "3514566540",
         "title": "Samsung 55 Zoll 4K UHD Smart TV UE55JU7000T â 3D â WLAN",
-        "price": "199 â¬ VB",
+        "price": "179 â¬ VB",
         "location": "74906 Baden-WÃ¼rttemberg - Bad Rappenau",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60745f26-2ae5-4bed-9cf6-a66c3eb0edd4?rule=$_2.AUTO",
@@ -2868,6 +2868,116 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/23591251-6d68-40f9-9631-bc68d1ce086d?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/denon-avr-x2000-7-1-4k-3d-schnaeppchen-/3517702933-172-2829",
         "first_seen": "2026-09-20T10:45:54.571182+00:00"
+      },
+      "3518827504": {
+        "id": "3518827504",
+        "title": "LG 42LM660S 42\"3D Smart TV 80â¬,\nmit Amazon Fire 4K Max Stick 145â¬",
+        "price": "80 â¬",
+        "location": "86152 Bayern - Augsburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55473787-4943-432a-8194-976e484c93c1?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lg-42lm660s-42-3d-smart-tv-80-mit-amazon-fire-4k-max-stick-145-/3518827504-175-7526",
+        "first_seen": "2026-09-20T20:25:16.391114+00:00"
+      },
+      "3518678054": {
+        "id": "3518678054",
+        "title": "Terminator 2: Judgment Day 4K Ultra HD Bluray 3D 2x Vinyl Edition",
+        "price": "89 â¬ VB",
+        "location": "77871 Baden-WÃ¼rttemberg - Renchen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fea51fca-b4e2-4e47-ae9a-af5b558f2134?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/terminator-2-judgment-day-4k-ultra-hd-bluray-3d-2x-vinyl-edition/3518678054-79-8665",
+        "first_seen": "2026-09-20T20:25:16.391114+00:00"
+      },
+      "3518401070": {
+        "id": "3518401070",
+        "title": "3D Drucker Resin Anycubic Mono X 4K",
+        "price": "50 â¬",
+        "location": "64354 Hessen - Reinheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f4fcca3-1b1f-4f22-bbe9-928f35b46fd2?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3d-drucker-resin-anycubic-mono-x-4k/3518401070-249-4455",
+        "first_seen": "2026-09-20T20:25:16.391114+00:00"
+      },
+      "3518366396": {
+        "id": "3518366396",
+        "title": "Anycubic Mono 4K SLA 3D-Drucker + Anycubic Wash & Cure Maschine",
+        "price": "110 â¬ VB",
+        "location": "49525 Nordrhein-Westfalen - Lengerich",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f8951ab-ea15-44b4-8a7e-d6ae3bc49c86?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/anycubic-mono-4k-sla-3d-drucker-anycubic-wash-cure-maschine/3518366396-168-1257",
+        "first_seen": "2026-09-20T20:25:16.391114+00:00"
+      },
+      "3518292959": {
+        "id": "3518292959",
+        "title": "Grundig 3D 48 Zoll 4K Ultra-HD Fernseher (48 VLX 8582 BP)",
+        "price": "149 â¬",
+        "location": "95233 Bayern - Helmbrechts",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e26ed4e7-c1df-4f3d-beb6-ab5be5d1c87e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/grundig-3d-48-zoll-4k-ultra-hd-fernseher-48-vlx-8582-bp-/3518292959-175-7230",
+        "first_seen": "2026-09-20T20:25:16.391114+00:00"
+      },
+      "3518245918": {
+        "id": "3518245918",
+        "title": "Warcraft The Beginning STEELBOOK 4K ULTRA HD + BLURAY 3D + BLURAY",
+        "price": "25 â¬",
+        "location": "64347 Hessen - Griesheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b368a897-0208-47b6-8c40-0e60c1c15247?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/warcraft-the-beginning-steelbook-4k-ultra-hd-bluray-3d-bluray/3518245918-79-4501",
+        "first_seen": "2026-09-20T20:25:16.391114+00:00"
+      },
+      "3518236385": {
+        "id": "3518236385",
+        "title": "7 x Blu-Rays: Naturdokumentationen, 3D & 4K UHD, FSK 0-6",
+        "price": "4 â¬ VB",
+        "location": "24632 Schleswig-Holstein - LentfÃ¶hrden",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc6cb8bb-66b2-42f4-984c-a763c806737e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/7-x-blu-rays-naturdokumentationen-3d-4k-uhd-fsk-0-6/3518236385-79-816",
+        "first_seen": "2026-09-20T20:25:16.391114+00:00"
+      },
+      "3518210048": {
+        "id": "3518210048",
+        "title": "Fokky HS306-BK HDMI Splitter 1x2 4K UHD 3D",
+        "price": "6 â¬",
+        "location": "47055 Duisburg - Duisburg-Mitte",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed478c71-5740-4d8e-93e6-a2a5171b396f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/fokky-hs306-bk-hdmi-splitter-1x2-4k-uhd-3d/3518210048-225-2147",
+        "first_seen": "2026-09-20T20:25:16.391114+00:00"
+      },
+      "3518165405": {
+        "id": "3518165405",
+        "title": "SAMSUNG 55\" 3D-TV 4k UHD (UE55JU7590)",
+        "price": "125 â¬",
+        "location": "66386 Saarland - St. Ingbert",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f216bc0-bf99-4a62-a8bb-408e14178433?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-55-3d-tv-4k-uhd-ue55ju7590-/3518165405-175-303",
+        "first_seen": "2026-09-20T20:25:16.391114+00:00"
+      },
+      "3518164197": {
+        "id": "3518164197",
+        "title": "Elegoo Saturn 4K Resin 3D-Drucker + ZubehÃ¶r",
+        "price": "50 â¬",
+        "location": "98693 ThÃ¼ringen - Ilmenau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe2c15d-5890-482b-9001-620bc41cb1b6?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/elegoo-saturn-4k-resin-3d-drucker-zubehoer/3518164197-225-3687",
+        "first_seen": "2026-09-20T20:25:16.391114+00:00"
+      },
+      "3517963300": {
+        "id": "3517963300",
+        "title": "Philips 55PUS7180 55\" 4K Ambilight ,3 D mit Brillen",
+        "price": "50 â¬ VB",
+        "location": "77948 Baden-WÃ¼rttemberg - Friesenheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d36fb4a4-37da-4467-9a31-3784f07b513d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/philips-55pus7180-55-4k-ambilight-3-d-mit-brillen/3517963300-175-8045",
+        "first_seen": "2026-09-20T20:25:16.391114+00:00"
       }
     }
   }

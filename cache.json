@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-20T03:32:29.839727+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-20T03:32:37.990893+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-20T03:32:53.242858+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-20T03:36:42.896933+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-20T10:41:05.366922+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-20T10:41:16.562951+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-20T10:41:30.593107+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-20T10:45:54.571391+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -62,7 +62,7 @@
       "3509240702": {
         "id": "3509240702",
         "title": "Panasonic LED-TV TX-50EXW784 â 50 Zoll / 4K / 3D",
-        "price": "230 â¬ VB",
+        "price": "215 â¬ VB",
         "location": "13437 Berlin - Reinickendorf",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5a43e4f-6ab2-4b9a-bea2-ac4c37b7444a?rule=$_2.AUTO",
@@ -1182,7 +1182,7 @@
       "3462189765": {
         "id": "3462189765",
         "title": "Terminator 2: Judgment Day 4K Ultra HD Bluray 3D 2x Vinyl Edition",
-        "price": "80 â¬",
+        "price": "75 â¬",
         "location": "77871 Baden-WÃ¼rttemberg - Renchen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33e8a849-707b-452f-8ce1-7932e9d8ffc6?rule=$_2.AUTO",
@@ -1222,7 +1222,7 @@
       "3460081485": {
         "id": "3460081485",
         "title": "Terminator 2: Judgment Day 4K Ultra HD Bluray 3D 2x Vinyl Edition",
-        "price": "80 â¬",
+        "price": "75 â¬",
         "location": "77871 Baden-WÃ¼rttemberg - Renchen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b261198a-8242-45fb-bdce-f61ce5ed0e41?rule=$_2.AUTO",
@@ -2412,7 +2412,7 @@
       "3511225063": {
         "id": "3511225063",
         "title": "Panasonic LED-TV TX-50EXW784 â 50 Zoll / 4K / 3D",
-        "price": "230 â¬ VB",
+        "price": "215 â¬ VB",
         "location": "13437 Berlin - Reinickendorf",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/89261465-b8ff-4380-8bfc-d7759b2c42ee?rule=$_2.AUTO",
@@ -2828,6 +2828,46 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/526cee99-2f86-4ee3-bb91-d70a701515fb?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/vivanco-high-speed-hdmi-kabel-mit-ethernet-2-5m-4k-3d/3517547383-225-9269",
         "first_seen": "2026-09-20T03:36:42.896642+00:00"
+      },
+      "3517941329": {
+        "id": "3517941329",
+        "title": "Panasonic LED-TV TX-50EXW784 â 50 Zoll / 4K / 3D",
+        "price": "215 â¬ VB",
+        "location": "13437 Berlin - Reinickendorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/35e4e0a4-a827-4a6a-9c6c-8d24eb55a50d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/panasonic-led-tv-tx-50exw784-50-zoll-4k-3d/3517941329-175-3458",
+        "first_seen": "2026-09-20T10:45:54.571182+00:00"
+      },
+      "3517849745": {
+        "id": "3517849745",
+        "title": "Leinwand 120\" Beamer 8K/4K/Full HD und 3D tauglich",
+        "price": "80 â¬ VB",
+        "location": "29614 Niedersachsen - Soltau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdf1332a-5c37-4cb0-b2f4-6bae0f8e6fc6?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/leinwand-120-beamer-8k-4k-full-hd-und-3d-tauglich/3517849745-175-3257",
+        "first_seen": "2026-09-20T10:45:54.571182+00:00"
+      },
+      "3517740692": {
+        "id": "3517740692",
+        "title": "55\" Samsung 4K SUHD 3D Smart TV, TwinTuner, USB Recording,",
+        "price": "230 â¬",
+        "location": "38268 Niedersachsen - Lengede",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a6a6c1c-cc78-4912-b726-607afb004211?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/55-samsung-4k-suhd-3d-smart-tv-twintuner-usb-recording-/3517740692-175-2440",
+        "first_seen": "2026-09-20T10:45:54.571182+00:00"
+      },
+      "3517702933": {
+        "id": "3517702933",
+        "title": "Denon AVR X2000 , 7.1 , 4k , 3d ....SchnÃ¤ppchen âï¸",
+        "price": "80 â¬",
+        "location": "21680 Niedersachsen - Stade",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/23591251-6d68-40f9-9631-bc68d1ce086d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/denon-avr-x2000-7-1-4k-3d-schnaeppchen-/3517702933-172-2829",
+        "first_seen": "2026-09-20T10:45:54.571182+00:00"
       }
     }
   }

@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-19T20:05:16.150193+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-19T20:05:25.841778+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-19T20:05:40.353820+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-19T20:09:44.775255+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-20T03:32:29.839727+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-20T03:32:37.990893+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-20T03:32:53.242858+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-20T03:36:42.896933+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -762,7 +762,7 @@
       "3482942553": {
         "id": "3482942553",
         "title": "TianCai HDMI Splitter 4K UHD 3D",
-        "price": "3 â¬",
+        "price": null,
         "location": "37539 Bad Grund (Harz) - Windhausen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5fe18ad0-65aa-4d85-8e14-b7e5e6d65ba2?rule=$_2.AUTO",
@@ -2808,6 +2808,26 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ade0bfc2-b7a6-4d84-b859-8f76d7f70524?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/sjgam-m15-plus-2-4g-wireless-game-console-4k-3d-retro-spielekons-/3517138065-279-2641",
         "first_seen": "2026-09-19T20:09:44.775048+00:00"
+      },
+      "3517575618": {
+        "id": "3517575618",
+        "title": "Steelbook Filme Sammlung Blu-Ray 4K 3D Neu&Neuwertig Auch Einzel",
+        "price": "123 â¬ VB",
+        "location": "90584 Bayern - Allersberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49b9ab2f-c766-4e32-b949-df86d854f4fe?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/steelbook-filme-sammlung-blu-ray-4k-3d-neu-neuwertig-auch-einzel/3517575618-79-5632",
+        "first_seen": "2026-09-20T03:36:42.896642+00:00"
+      },
+      "3517547383": {
+        "id": "3517547383",
+        "title": "Vivanco High Speed HDMI Kabel mit Ethernet 2,5m 4K 3D",
+        "price": "8 â¬",
+        "location": "75172 Baden-WÃ¼rttemberg - Pforzheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/526cee99-2f86-4ee3-bb91-d70a701515fb?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/vivanco-high-speed-hdmi-kabel-mit-ethernet-2-5m-4k-3d/3517547383-225-9269",
+        "first_seen": "2026-09-20T03:36:42.896642+00:00"
       }
     }
   }

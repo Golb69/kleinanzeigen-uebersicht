@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-21T12:04:05.998138+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-21T12:04:21.010241+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-21T12:04:34.742564+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-21T12:08:14.569856+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-21T21:43:30.674796+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-21T21:43:45.484559+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-21T21:43:59.239450+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-21T21:48:04.075655+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -2742,7 +2742,7 @@
       "3516863440": {
         "id": "3516863440",
         "title": "Grundig 55 GUB 9688 4K UHD 3D TV + Govee Ambilight + 3D Brillen",
-        "price": "239 â¬",
+        "price": "220 â¬",
         "location": "85290 Bayern - Geisenfeld",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26dbd8d1-1e45-4d0a-a7ee-506c2b3f4103?rule=$_2.AUTO",
@@ -2988,6 +2988,46 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af26bc91-977f-498c-823d-519035f67a9a?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-kabel-20-meter-4k-3d-fullhd-high-speed-neu/3328435060-175-4283",
         "first_seen": "2026-09-21T12:08:14.569602+00:00"
+      },
+      "3519455152": {
+        "id": "3519455152",
+        "title": "Philips 65PUS9809 4K 3D TV Ambilight",
+        "price": "150 â¬",
+        "location": "27374 Niedersachsen - VisselhÃ¶vede",
+        "date": null,
+        "image": null,
+        "url": "https://www.kleinanzeigen.de/s-anzeige/philips-65pus9809-4k-3d-tv-ambilight/3519455152-175-2951",
+        "first_seen": "2026-09-21T21:43:59.239435+00:00"
+      },
+      "3519289325": {
+        "id": "3519289325",
+        "title": "HDMI 4k Highspeed-Kabel mit Ethernet 3D ready Gold-plated neu+OVP",
+        "price": "4 â¬",
+        "location": "52134 Nordrhein-Westfalen - Herzogenrath",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02931a7e-96be-4065-ae6e-2b8ea859fe82?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-4k-highspeed-kabel-mit-ethernet-3d-ready-gold-plated-neu-ovp/3519289325-175-1712",
+        "first_seen": "2026-09-21T21:48:04.075456+00:00"
+      },
+      "3519141387": {
+        "id": "3519141387",
+        "title": "Samsung 55 Zoll TV 3D + Amazon Fire TV Stick 4K",
+        "price": "180 â¬",
+        "location": "35390 Hessen - GieÃen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7cc6c3c9-2d3e-41b6-8b07-36de64719f7d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-55-zoll-tv-3d-amazon-fire-tv-stick-4k/3519141387-175-4712",
+        "first_seen": "2026-09-21T21:48:04.075456+00:00"
+      },
+      "3491401829": {
+        "id": "3491401829",
+        "title": "Samsung BD-H6500 3D 4K Blu-Ray Player mit WLAN & Fernbedienung",
+        "price": "30 â¬ VB",
+        "location": "71332 Baden-WÃ¼rttemberg - Waiblingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a447d6f-cc53-42e7-8e25-fcafb9801653?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-bd-h6500-3d-4k-blu-ray-player-mit-wlan-fernbedienung/3491401829-175-9044",
+        "first_seen": "2026-09-21T21:48:04.075456+00:00"
       }
     }
   }

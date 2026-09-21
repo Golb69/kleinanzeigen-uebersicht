@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-21T03:27:17.083798+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-21T03:27:33.646657+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-21T03:27:48.684571+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-21T03:30:57.199192+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-21T12:04:05.998138+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-21T12:04:21.010241+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-21T12:04:34.742564+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-21T12:08:14.569856+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -532,7 +532,7 @@
       "3496366738": {
         "id": "3496366738",
         "title": "3D Resin Printer/Drucker- LD-O06 4K Creality+ ZubehÃ¶r",
-        "price": "200 â¬ VB",
+        "price": "180 â¬ VB",
         "location": "70199 Stuttgart - Stuttgart-SÃ¼d",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bd86a0d5-905c-494a-8fda-ccbc93ff7126?rule=$_2.AUTO",
@@ -2978,6 +2978,16 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d36fb4a4-37da-4467-9a31-3784f07b513d?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/philips-55pus7180-55-4k-ambilight-3-d-mit-brillen/3517963300-175-8045",
         "first_seen": "2026-09-20T20:25:16.391114+00:00"
+      },
+      "3328435060": {
+        "id": "3328435060",
+        "title": "HDMI Kabel 20 Meter 4K 3D FullHD High Speed Neu",
+        "price": "12 â¬ VB",
+        "location": "63452 Hessen - Hanau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af26bc91-977f-498c-823d-519035f67a9a?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-kabel-20-meter-4k-3d-fullhd-high-speed-neu/3328435060-175-4283",
+        "first_seen": "2026-09-21T12:08:14.569602+00:00"
       }
     }
   }

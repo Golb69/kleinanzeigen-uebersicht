@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-21T21:43:30.674796+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-21T21:43:45.484559+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-21T21:43:59.239450+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-21T21:48:04.075655+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-22T11:00:15.986747+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-22T11:00:26.775189+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-22T11:00:37.215136+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-22T11:04:29.272590+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -3028,6 +3028,46 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a447d6f-cc53-42e7-8e25-fcafb9801653?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-bd-h6500-3d-4k-blu-ray-player-mit-wlan-fernbedienung/3491401829-175-9044",
         "first_seen": "2026-09-21T21:48:04.075456+00:00"
+      },
+      "3520037304": {
+        "id": "3520037304",
+        "title": "Panasonic DMP-BDT374 / 4K Upscaling  / 3D Blu-ray Player / *Top*",
+        "price": "50 â¬",
+        "location": "46397 Nordrhein-Westfalen - Bocholt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85f55f54-3bdc-4a76-988a-159bb0539142?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/panasonic-dmp-bdt374-4k-upscaling-3d-blu-ray-player-top-/3520037304-175-1850",
+        "first_seen": "2026-09-22T11:04:29.272348+00:00"
+      },
+      "3520001186": {
+        "id": "3520001186",
+        "title": "Club 3D USB 3.0 Dual Display 4K 60Hz Dockingstation â CSV-1460",
+        "price": "89 â¬ VB",
+        "location": "75173 Baden-WÃ¼rttemberg - Pforzheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40ae97d1-0a1f-4597-8691-c86c6c92d91a?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/club-3d-usb-3-0-dual-display-4k-60hz-dockingstation-csv-1460/3520001186-225-9268",
+        "first_seen": "2026-09-22T11:04:29.272348+00:00"
+      },
+      "3519973450": {
+        "id": "3519973450",
+        "title": "Blu Ray Steelbooks, 3D, 4K, Guardians of the Galaxy",
+        "price": "130 â¬",
+        "location": "31228 Niedersachsen - Peine",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d096f78e-a92e-4450-acb6-3227b75cfd11?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/blu-ray-steelbooks-3d-4k-guardians-of-the-galaxy/3519973450-79-2676",
+        "first_seen": "2026-09-22T11:04:29.272348+00:00"
+      },
+      "3519950615": {
+        "id": "3519950615",
+        "title": "Blu Ray Steelbooks, 3D, 4K, Wonder Woman",
+        "price": "100 â¬",
+        "location": "31228 Niedersachsen - Peine",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f43b6d0a-fa13-4f05-8713-5e0d1f7b100e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/blu-ray-steelbooks-3d-4k-wonder-woman/3519950615-79-2676",
+        "first_seen": "2026-09-22T11:04:29.272348+00:00"
       }
     }
   }

@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-22T11:00:15.986747+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-22T11:00:26.775189+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-22T11:00:37.215136+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-22T11:04:29.272590+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-22T20:54:42.015939+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-22T20:54:58.151816+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-22T20:55:06.827201+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-22T20:58:16.126669+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -302,7 +302,7 @@
       "3502713793": {
         "id": "3502713793",
         "title": "ELEGOO Mars 4 DLP Resin 3D-Drucker â DLP â 4K",
-        "price": "85 â¬ VB",
+        "price": "85 â¬",
         "location": "86381 Bayern - Krumbach Schwaben",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b753741-4a81-45be-8255-85ce44d16bba?rule=$_2.AUTO",
@@ -1462,7 +1462,7 @@
       "3424248230": {
         "id": "3424248230",
         "title": "3D Blu-ray Bluray Iron Men3 OVP Jurassic World kein 4k keine Dvd",
-        "price": "12 â¬ VB",
+        "price": "21 â¬",
         "location": "51145 KÃ¶ln - Porz",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b374c2f8-7171-42f3-b96b-9c550f664932?rule=$_2.AUTO",
@@ -1742,7 +1742,7 @@
       "3294597074": {
         "id": "3294597074",
         "title": "LG 55UH850V â 55 Zoll 4K 3D Smart TV",
-        "price": "115 â¬ VB",
+        "price": "114 â¬ VB",
         "location": "47533 Nordrhein-Westfalen - Kleve",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/4686569d-ab99-44f6-95ce-6e6ba648e0d8?rule=$_2.AUTO",
@@ -2712,7 +2712,7 @@
       "3516407450": {
         "id": "3516407450",
         "title": "Hisense 42 Zoll 4K 3D TV (LTDN42K680)",
-        "price": "55 â¬",
+        "price": "50 â¬",
         "location": "16227 Brandenburg - Eberswalde",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3228969-dcd5-4f72-b4f4-186c98759e77?rule=$_2.AUTO",
@@ -2732,7 +2732,7 @@
       "3516139559": {
         "id": "3516139559",
         "title": "Wie NEU Panasonic DMP-BDT185 3D Blu-ray Player 4K Upscal DVD CD",
-        "price": "65 â¬ VB",
+        "price": "60 â¬",
         "location": "42489 Nordrhein-Westfalen - WÃ¼lfrath",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06190b66-e0d9-4741-954f-d66554b17dd5?rule=$_2.AUTO",
@@ -3068,6 +3068,16 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f43b6d0a-fa13-4f05-8713-5e0d1f7b100e?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/blu-ray-steelbooks-3d-4k-wonder-woman/3519950615-79-2676",
         "first_seen": "2026-09-22T11:04:29.272348+00:00"
+      },
+      "3520434712": {
+        "id": "3520434712",
+        "title": "2 HDMI Kabel 4k ultra HD/3D \nHigh Speed",
+        "price": "8 â¬ VB",
+        "location": "25541 Dithmarschen - Brunsbuettel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4b1ad79-0e5d-46f0-bdbf-6e8193981254?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2-hdmi-kabel-4k-ultra-hd-3d-high-speed/3520434712-225-780",
+        "first_seen": "2026-09-22T20:58:16.126372+00:00"
       }
     }
   }

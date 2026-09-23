@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-23T10:49:00.948495+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-23T10:49:13.490278+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-23T10:49:29.137618+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-23T10:53:12.577227+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-23T21:06:46.584918+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-23T21:06:58.385477+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-23T21:07:12.561452+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-23T21:10:33.055135+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -82,7 +82,7 @@
       "3508837327": {
         "id": "3508837327",
         "title": "Samsung UE48JU7090T 48 Zoll 4K UHD 3D Smart TV â Serie 7",
-        "price": "167 â¬ VB",
+        "price": "140 â¬ VB",
         "location": "75391 Baden-WÃ¼rttemberg - Gechingen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc5e5e59-8f31-4837-9a55-714437db6828?rule=$_2.AUTO",
@@ -101,9 +101,9 @@
       },
       "3507979768": {
         "id": "3507979768",
-        "title": "5",
-        "price": null,
-        "location": null,
+        "title": "Techole HDMI Switch / Splitter (2 in 1 / 1 in 2) - 4K 3D",
+        "price": "12 â¬ VB",
+        "location": "19063 Schwerin - GroÃer Dreesch",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d3b4919-d5a1-4601-83f7-20071dd41c25?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/techole-hdmi-switch-splitter-2-in-1-1-in-2-4k-3d/3507979768-225-276",
@@ -151,9 +151,9 @@
       },
       "3506981883": {
         "id": "3506981883",
-        "title": "3",
-        "price": null,
-        "location": null,
+        "title": "Grundig Lugano 48\" CLX 8485 SL: TV (Ultra-HD) 3D 4K",
+        "price": "190 â¬ VB",
+        "location": "48720 Nordrhein-Westfalen - Rosendahl",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/780abb82-8b0b-4957-9403-f987fa724ad6?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/grundig-lugano-48-clx-8485-sl-tv-ultra-hd-3d-4k/3506981883-175-1174",
@@ -171,9 +171,9 @@
       },
       "3505777583": {
         "id": "3505777583",
-        "title": "4",
-        "price": null,
-        "location": null,
+        "title": "4K 3D Panasonic Blu-Ray Player  DMP-BDT384",
+        "price": "35 â¬ VB",
+        "location": "26624 Niedersachsen - SÃ¼dbrookmerland",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e359046b-cf79-4583-a770-8edc16c9cb1a?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/4k-3d-panasonic-blu-ray-player-dmp-bdt384/3505777583-175-2748",
@@ -421,9 +421,9 @@
       },
       "3500876100": {
         "id": "3500876100",
-        "title": "4",
-        "price": null,
-        "location": null,
+        "title": "HDMI Splitter 4K 3D",
+        "price": "10 â¬",
+        "location": "60594 Frankfurt am Main - Sachsenhausen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/478f8db4-36aa-4b54-a166-8754b8ab8e24?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-splitter-4k-3d/3500876100-225-4315",
@@ -1621,9 +1621,9 @@
       },
       "3352237910": {
         "id": "3352237910",
-        "title": "4",
-        "price": null,
-        "location": null,
+        "title": "HDIM Splitter  4K 3D",
+        "price": "6 â¬ VB",
+        "location": "57339 Nordrhein-Westfalen - ErndtebrÃ¼ck",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/57d11484-1af8-465e-8dc7-c11f6ff1d98e?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/hdim-splitter-4k-3d/3352237910-175-1469",
@@ -1761,9 +1761,9 @@
       },
       "3286779582": {
         "id": "3286779582",
-        "title": "4",
-        "price": null,
-        "location": null,
+        "title": "HDMI Switch 3 in 2 out 4K 3D Support neuwertig",
+        "price": "15 â¬",
+        "location": "31073 Niedersachsen - Delligsen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a823ad02-01a3-4236-acb1-a20252013759?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-switch-3-in-2-out-4k-3d-support-neuwertig/3286779582-225-2883",
@@ -1811,9 +1811,9 @@
       },
       "3281830933": {
         "id": "3281830933",
-        "title": "2",
-        "price": null,
-        "location": null,
+        "title": "3m Vivanco ProWire High-End HDMI Kabel 4K/3D/24Karat/FullHD",
+        "price": "30 â¬",
+        "location": "80933 Feldmoching-Hasenbergl - Feldmoching",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92936518-8a23-4eb5-aba5-bfb9ad618a69?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/3m-vivanco-prowire-high-end-hdmi-kabel-4k-3d-24karat-fullhd/3281830933-175-6453",
@@ -1841,9 +1841,9 @@
       },
       "3266392670": {
         "id": "3266392670",
-        "title": "Anzeige",
-        "price": null,
-        "location": null,
+        "title": "1,5m HDMI Kabel 4k Full HDTV 3D Heim TV PS4 PS3 HDR 150cm",
+        "price": "5 â¬",
+        "location": "24114 Schleswig-Holstein - Kiel",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1f2699b-33f9-4c9e-ad55-fa29e3d43405?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/1-5m-hdmi-kabel-4k-full-hdtv-3d-heim-tv-ps4-ps3-hdr-150cm/3266392670-175-697",
@@ -1851,9 +1851,9 @@
       },
       "3266391616": {
         "id": "3266391616",
-        "title": "Anzeige",
-        "price": null,
-        "location": null,
+        "title": "1,2m HDMI Kabel 4k Full HDTV 3D Heim TV PS4 PS3 HDR 120cm",
+        "price": "5 â¬",
+        "location": "24114 Schleswig-Holstein - Kiel",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4abb78f0-62d2-4ce5-9c01-8ffcbc781173?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/1-2m-hdmi-kabel-4k-full-hdtv-3d-heim-tv-ps4-ps3-hdr-120cm/3266391616-175-697",
@@ -2171,9 +2171,9 @@
       },
       "2625947941": {
         "id": "2625947941",
-        "title": "Anzeige",
-        "price": null,
-        "location": null,
+        "title": "CSL - HDMI 2.0 Switch 4K HDR 3D",
+        "price": "15 â¬ VB",
+        "location": "14532 Brandenburg - Stahnsdorf",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f58248a-678c-4f6f-9fdc-f0dba40edd63?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/csl-hdmi-2-0-switch-4k-hdr-3d/2625947941-175-9830",
@@ -2211,9 +2211,9 @@
       },
       "2285810386": {
         "id": "2285810386",
-        "title": "6",
-        "price": null,
-        "location": null,
+        "title": "Ligawo Hdmi Umschalter 6518750 Matrix 4x2 4K 2K 3D ARC",
+        "price": "50 â¬",
+        "location": "04720 Sachsen - DÃ¶beln",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cbe26476-70b1-4e4a-b883-a3ae97588f4f?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/ligawo-hdmi-umschalter-6518750-matrix-4x2-4k-2k-3d-arc/2285810386-175-4022",
@@ -2871,9 +2871,9 @@
       },
       "3518827504": {
         "id": "3518827504",
-        "title": "20",
-        "price": null,
-        "location": null,
+        "title": "LG 42LM660S 42\"3D Smart TV 80â¬,\nmit Amazon Fire 4K Max Stick 145â¬",
+        "price": "80 â¬",
+        "location": "86152 Bayern - Augsburg",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55473787-4943-432a-8194-976e484c93c1?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/lg-42lm660s-42-3d-smart-tv-80-mit-amazon-fire-4k-max-stick-145-/3518827504-175-7526",
@@ -2992,7 +2992,7 @@
       "3519455152": {
         "id": "3519455152",
         "title": "Philips 65PUS9809 4K 3D TV Ambilight",
-        "price": "150 â¬",
+        "price": "145 â¬",
         "location": "27374 Niedersachsen - VisselhÃ¶vede",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d385fef3-da8a-4daa-a3b4-c4cc854fe33c?rule=$_2.AUTO",
@@ -3011,9 +3011,9 @@
       },
       "3519141387": {
         "id": "3519141387",
-        "title": "6",
-        "price": null,
-        "location": null,
+        "title": "Samsung 55 Zoll TV 3D + Amazon Fire TV Stick 4K",
+        "price": "180 â¬",
+        "location": "35390 Hessen - GieÃen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7cc6c3c9-2d3e-41b6-8b07-36de64719f7d?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-55-zoll-tv-3d-amazon-fire-tv-stick-4k/3519141387-175-4712",
@@ -3022,7 +3022,7 @@
       "3491401829": {
         "id": "3491401829",
         "title": "Samsung BD-H6500 3D 4K Blu-Ray Player mit WLAN & Fernbedienung",
-        "price": "30 â¬ VB",
+        "price": "29 â¬ VB",
         "location": "71332 Baden-WÃ¼rttemberg - Waiblingen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a447d6f-cc53-42e7-8e25-fcafb9801653?rule=$_2.AUTO",
@@ -3078,6 +3078,76 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4b1ad79-0e5d-46f0-bdbf-6e8193981254?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/2-hdmi-kabel-4k-ultra-hd-3d-high-speed/3520434712-225-780",
         "first_seen": "2026-09-22T20:58:16.126372+00:00"
+      },
+      "3521500810": {
+        "id": "3521500810",
+        "title": "Kompakter 4K 3D DLP Projektor",
+        "price": "75 â¬ VB",
+        "location": "35683 Hessen - Dillenburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4cf030a8-cde6-4825-85b2-bc81d8b7a873?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/kompakter-4k-3d-dlp-projektor/3521500810-175-4785",
+        "first_seen": "2026-09-23T21:10:33.054872+00:00"
+      },
+      "3521476472": {
+        "id": "3521476472",
+        "title": "Fernseher LG 55UC970V-ZA 55â Curved 4K 3D TV â defekt / Bastler",
+        "price": "100 â¬ VB",
+        "location": "42719 Nordrhein-Westfalen - Solingen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b114c675-670f-4cfb-842c-7a082d03bd1e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/fernseher-lg-55uc970v-za-55-curved-4k-3d-tv-defekt-bastler/3521476472-175-2118",
+        "first_seen": "2026-09-23T21:10:33.054872+00:00"
+      },
+      "3521352453": {
+        "id": "3521352453",
+        "title": "Sony BDP-S6500 Blu-ray-Player â 4K-Upscaling, 3D, WLAN",
+        "price": "40 â¬",
+        "location": "14050 Berlin - Westend",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f579b362-9457-4c3e-aa52-f2c7bec158c8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sony-bdp-s6500-blu-ray-player-4k-upscaling-3d-wlan/3521352453-175-25907",
+        "first_seen": "2026-09-23T21:10:33.054872+00:00"
+      },
+      "3521184933": {
+        "id": "3521184933",
+        "title": "Denon AVR X2000,  7.1 , 3d , 4k",
+        "price": "100 â¬",
+        "location": "21680 Niedersachsen - Stade",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e88e2d3-38d9-4326-9fc6-9a6454da066e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/denon-avr-x2000-7-1-3d-4k/3521184933-172-2829",
+        "first_seen": "2026-09-23T21:10:33.054872+00:00"
+      },
+      "3521069210": {
+        "id": "3521069210",
+        "title": "Sommer Cable Hicon 15m 4K 3D 1080p HDMI Kabel *Top*",
+        "price": "100 â¬",
+        "location": "45141 Essen - Stoppenberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af1d50ee-5711-4cac-ac73-a3285a62904c?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sommer-cable-hicon-15m-4k-3d-1080p-hdmi-kabel-top-/3521069210-175-2057",
+        "first_seen": "2026-09-23T21:10:33.054872+00:00"
+      },
+      "3520974403": {
+        "id": "3520974403",
+        "title": "elegoo saturn 4k ultra resin tank 3d drÃ¼cker",
+        "price": "25 â¬",
+        "location": "67161 Rheinland-Pfalz - GÃ¶nnheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/5878134c-877c-4a9a-95b6-ce5424edc63f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/elegoo-saturn-4k-ultra-resin-tank-3d-druecker/3520974403-225-5352",
+        "first_seen": "2026-09-23T21:10:33.054872+00:00"
+      },
+      "3520957442": {
+        "id": "3520957442",
+        "title": "Samsung TV UE55JU7590 / Curved  mit 4 K + 3 D",
+        "price": "200 â¬",
+        "location": "58708 Nordrhein-Westfalen - Menden",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7cfb16d-15de-4d67-8b76-55fb5c6f1370?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-tv-ue55ju7590-curved-mit-4-k-3-d/3520957442-175-1818",
+        "first_seen": "2026-09-23T21:10:33.054872+00:00"
       }
     }
   }

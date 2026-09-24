@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-24T11:09:19.809022+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-24T11:09:32.844924+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-24T11:09:45.677206+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-24T11:13:04.675125+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-24T21:10:26.388424+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-24T21:10:41.609992+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-24T21:10:50.756066+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-24T21:15:33.311654+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -1232,7 +1232,7 @@
       "3459355424": {
         "id": "3459355424",
         "title": "Avedio Links 1x4 HDMI Splitter â UHD 4K / 3D / 10.2 Gbps",
-        "price": "9 â¬ VB",
+        "price": "8 â¬ VB",
         "location": "58840 Nordrhein-Westfalen - Plettenberg",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c702f17d-fb63-4391-a02c-ca3b5b0c8ce4?rule=$_2.AUTO",
@@ -2882,7 +2882,7 @@
       "3518678054": {
         "id": "3518678054",
         "title": "Terminator 2: Judgment Day 4K Ultra HD Bluray 3D 2x Vinyl Edition",
-        "price": "89 â¬ VB",
+        "price": "79 â¬",
         "location": "77871 Baden-WÃ¼rttemberg - Renchen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fea51fca-b4e2-4e47-ae9a-af5b558f2134?rule=$_2.AUTO",

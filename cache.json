@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-24T03:16:35.574774+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-24T03:16:49.843438+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-24T03:16:59.171017+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-24T03:19:31.398646+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-24T11:09:19.809022+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-24T11:09:32.844924+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-24T11:09:45.677206+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-24T11:13:04.675125+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -382,7 +382,7 @@
       "3501630556": {
         "id": "3501630556",
         "title": "ONKYO TX-NR626 AV Receiver Bluetooth WiFi 4K HDMI 3D gebraucht",
-        "price": "150 â¬",
+        "price": "120 â¬",
         "location": "76744 Rheinland-Pfalz - WÃ¶rth am Rhein",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/556da830-d6c8-4b1c-afae-269e3cd837d7?rule=$_2.AUTO",
@@ -642,7 +642,7 @@
       "3490185411": {
         "id": "3490185411",
         "title": "Goobay HDMI Splitter 1 Input zu 2 Output 4k 60Hz 3D HDCP 2.2",
-        "price": "20 â¬",
+        "price": "18 â¬",
         "location": "10997 Friedrichshain-Kreuzberg - Kreuzberg",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4d494117-8aa2-499a-8a35-f45eceeb31fa?rule=$_2.AUTO",
@@ -2602,7 +2602,7 @@
       "3457119468": {
         "id": "3457119468",
         "title": "2 Teilnehmer Set QualitÃ¤ts-Alu-Satelliten-Komplettanlage Rot 60cm",
-        "price": "65 â¬ VB",
+        "price": "60 â¬ VB",
         "location": "55619 Rheinland-Pfalz - Hennweiler",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2eb275cc-cf0a-455b-bc1a-c28d90778a06?rule=$_2.AUTO",
@@ -3148,6 +3148,16 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7cfb16d-15de-4d67-8b76-55fb5c6f1370?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-tv-ue55ju7590-curved-mit-4-k-3-d/3520957442-175-1818",
         "first_seen": "2026-09-23T21:10:33.054872+00:00"
+      },
+      "3521558896": {
+        "id": "3521558896",
+        "title": "Samsung UE55 Curved / 4 K + 3 D",
+        "price": "180 â¬",
+        "location": "58708 Nordrhein-Westfalen - Menden",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e1aeba7-6d01-448d-9dc4-d92002add5ca?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-ue55-curved-4-k-3-d/3521558896-175-1818",
+        "first_seen": "2026-09-24T11:13:04.674889+00:00"
       }
     }
   }

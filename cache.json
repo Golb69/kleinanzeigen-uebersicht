@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-25T11:13:00.263801+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-25T11:13:15.619304+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-25T11:13:29.884236+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-25T11:17:20.967448+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-25T21:07:02.121577+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-25T21:07:17.705302+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-25T21:07:33.097829+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-25T21:10:43.541425+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -2432,7 +2432,7 @@
       "3510944590": {
         "id": "3510944590",
         "title": "3D player  DMP-BDT184EG, Blu ray Disc Player 4K, schwarz",
-        "price": "89 â¬",
+        "price": "79 â¬",
         "location": "42109 Wuppertal - Elberfeld",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5bc596ba-5974-4a2d-916e-0243b1426454?rule=$_2.AUTO",
@@ -2992,7 +2992,7 @@
       "3519455152": {
         "id": "3519455152",
         "title": "Philips 65PUS9809 4K 3D TV Ambilight",
-        "price": "145 â¬",
+        "price": "140 â¬",
         "location": "27374 Niedersachsen - VisselhÃ¶vede",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d385fef3-da8a-4daa-a3b4-c4cc854fe33c?rule=$_2.AUTO",
@@ -3188,6 +3188,16 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/478f8db4-36aa-4b54-a166-8754b8ab8e24?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-splitter-4k-3d/3522509385-225-4315",
         "first_seen": "2026-09-25T11:17:20.967232+00:00"
+      },
+      "3522758832": {
+        "id": "3522758832",
+        "title": "Film-Sammlung Blu-Ray 2d 3d 4k uhd und Dvd's ab 1â¬ Marvel Disney",
+        "price": "1 â¬ VB",
+        "location": "28355 Bremen - Oberneuland",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/cef00aec-b5fe-42cc-9b0f-47a0278a9613?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/film-sammlung-blu-ray-2d-3d-4k-uhd-und-dvd-s-ab-1-marvel-disney/3522758832-79-40",
+        "first_seen": "2026-09-25T21:10:43.541177+00:00"
       }
     }
   }

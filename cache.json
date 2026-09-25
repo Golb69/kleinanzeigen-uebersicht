@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-25T03:34:11.776425+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-25T03:34:20.971428+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-25T03:34:31.882859+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-25T03:37:25.864815+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-25T11:13:00.263801+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-25T11:13:15.619304+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-25T11:13:29.884236+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-25T11:17:20.967448+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -3158,6 +3158,36 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e1aeba7-6d01-448d-9dc4-d92002add5ca?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-ue55-curved-4-k-3-d/3521558896-175-1818",
         "first_seen": "2026-09-24T11:13:04.674889+00:00"
+      },
+      "3522575213": {
+        "id": "3522575213",
+        "title": "Onkyo AV Receiver TX-NR626 Bluetooth 3D.4K. 7.2",
+        "price": "220 â¬ VB",
+        "location": "85221 Kr. Dachau - Dachau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df95164e-3000-4a52-822d-803f0a951d42?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/onkyo-av-receiver-tx-nr626-bluetooth-3d-4k-7-2/3522575213-172-5977",
+        "first_seen": "2026-09-25T11:17:20.967232+00:00"
+      },
+      "3522558078": {
+        "id": "3522558078",
+        "title": "ONKiO RECIVER TX-NR 535 Dolby Surround Bluetooth 3D.4K.5.2 Top",
+        "price": "200 â¬",
+        "location": "85221 Kr. Dachau - Dachau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68ad87e4-ac7a-439c-96bb-b2385f981818?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/onkio-reciver-tx-nr-535-dolby-surround-bluetooth-3d-4k-5-2-top/3522558078-172-5977",
+        "first_seen": "2026-09-25T11:17:20.967232+00:00"
+      },
+      "3522509385": {
+        "id": "3522509385",
+        "title": "HDMI Splitter 4K 3D",
+        "price": "10 â¬",
+        "location": "60594 Frankfurt am Main - Sachsenhausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/478f8db4-36aa-4b54-a166-8754b8ab8e24?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-splitter-4k-3d/3522509385-225-4315",
+        "first_seen": "2026-09-25T11:17:20.967232+00:00"
       }
     }
   }

@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-26T03:39:41.488043+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-26T03:39:55.135420+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-26T03:40:10.884923+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-26T03:43:24.490802+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-26T10:51:23.172431+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-26T10:51:33.312335+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-26T10:51:45.908930+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-26T10:54:50.852204+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -131,12 +131,12 @@
       },
       "3507581163": {
         "id": "3507581163",
-        "title": "Samsung BD-J6300 3D Blu-Ray 4K UHD Streaming Player",
+        "title": "Samsung BD-J6300 3D Blu-Ray 4K UHD Upscaling Streaming Player",
         "price": "90 â¬",
         "location": "82110 Bayern - Germering",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc54ee6a-7dc3-4b4a-8026-b93f13cc69e8?rule=$_2.AUTO",
-        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-bd-j6300-3d-blu-ray-4k-uhd-streaming-player/3507581163-175-6326",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-bd-j6300-3d-blu-ray-4k-uhd-upscaling-streaming-player/3507581163-175-6326",
         "first_seen": "2026-09-12T16:03:06.383905+00:00"
       },
       "3507275729": {
@@ -2912,7 +2912,7 @@
       "3518292959": {
         "id": "3518292959",
         "title": "Grundig 3D 48 Zoll 4K Ultra-HD Fernseher (48 VLX 8582 BP)",
-        "price": "149 â¬",
+        "price": "99 â¬",
         "location": "95233 Bayern - Helmbrechts",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e26ed4e7-c1df-4f3d-beb6-ab5be5d1c87e?rule=$_2.AUTO",
@@ -3162,7 +3162,7 @@
       "3522575213": {
         "id": "3522575213",
         "title": "Onkyo AV Receiver TX-NR626 Bluetooth 3D.4K. 7.2",
-        "price": "220 â¬ VB",
+        "price": "200 â¬ VB",
         "location": "85221 Kr. Dachau - Dachau",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df95164e-3000-4a52-822d-803f0a951d42?rule=$_2.AUTO",
@@ -3172,7 +3172,7 @@
       "3522558078": {
         "id": "3522558078",
         "title": "ONKiO RECIVER TX-NR 535 Dolby Surround Bluetooth 3D.4K.5.2 Top",
-        "price": "200 â¬",
+        "price": "190 â¬",
         "location": "85221 Kr. Dachau - Dachau",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68ad87e4-ac7a-439c-96bb-b2385f981818?rule=$_2.AUTO",
@@ -3198,6 +3198,16 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/cef00aec-b5fe-42cc-9b0f-47a0278a9613?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/film-sammlung-blu-ray-2d-3d-4k-uhd-und-dvd-s-ab-1-marvel-disney/3522758832-79-40",
         "first_seen": "2026-09-25T21:10:43.541177+00:00"
+      },
+      "3523359825": {
+        "id": "3523359825",
+        "title": "Toshiba 65 Zoll 4K LED Fernseher - 65UF3D63DAX mit Fire TV",
+        "price": "250 â¬",
+        "location": "44339 Dortmund - Eving",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/6353d96a-7d2f-416a-a2b1-48deda9192df?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/toshiba-65-zoll-4k-led-fernseher-65uf3d63dax-mit-fire-tv/3523359825-175-1097",
+        "first_seen": "2026-09-26T10:54:50.851959+00:00"
       }
     }
   }

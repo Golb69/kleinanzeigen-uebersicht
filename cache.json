@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-27T03:48:37.325735+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-27T03:48:47.890318+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-27T03:49:04.379899+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-27T03:52:14.705148+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-27T11:27:06.718098+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-27T11:27:16.842849+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-27T11:27:29.885276+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-27T11:30:33.334100+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -2452,7 +2452,7 @@
       "3513803861": {
         "id": "3513803861",
         "title": "Audioquest Forest HDMI Kabel 8m, 3D & 4K",
-        "price": "70 â¬ VB",
+        "price": "55 â¬ VB",
         "location": "64297 Hessen - Darmstadt",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a126297-c773-48a9-8645-393bd9c44aeb?rule=$_2.AUTO",
@@ -3162,7 +3162,7 @@
       "3522575213": {
         "id": "3522575213",
         "title": "Onkyo AV Receiver TX-NR626 Bluetooth 3D.4K. 7.2",
-        "price": "200 â¬ VB",
+        "price": "190 â¬ VB",
         "location": "85221 Kr. Dachau - Dachau",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df95164e-3000-4a52-822d-803f0a951d42?rule=$_2.AUTO",
@@ -3238,6 +3238,36 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0fb2ee5-d4f7-4955-9cf7-d1b29faf1093?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/3d-drucker-vom-typ-anycubic-photon-mono-4k/3524131745-168-25927",
         "first_seen": "2026-09-27T03:52:14.704907+00:00"
+      },
+      "3524575593": {
+        "id": "3524575593",
+        "title": "Club 3D CAC-1088 DisplayPort 1.4 auf HDMI 2.1 4K 120Hz / 8K 60Hz",
+        "price": "25 â¬",
+        "location": "04179 Leipzig - Neulindenau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ee90670-1211-408a-9b15-46bb4e7e5ef8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/club-3d-cac-1088-displayport-1-4-auf-hdmi-2-1-4k-120hz-8k-60hz/3524575593-225-30144",
+        "first_seen": "2026-09-27T11:30:33.333890+00:00"
+      },
+      "3524439527": {
+        "id": "3524439527",
+        "title": "Sony BDP-S6500, 3D Blu ray disc, 4k UHD upScale",
+        "price": "40 â¬",
+        "location": "13503 Berlin - Reinickendorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a43680b6-27cc-4c77-8b34-34d3c964c937?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sony-bdp-s6500-3d-blu-ray-disc-4k-uhd-upscale/3524439527-175-3451",
+        "first_seen": "2026-09-27T11:30:33.333890+00:00"
+      },
+      "3524200643": {
+        "id": "3524200643",
+        "title": "Philips 40 Zoll 40PUK6809 3D 4K LED Fernseher",
+        "price": "150 â¬",
+        "location": "25524 Schleswig-Holstein - Oelixdorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1f7d875-b3a6-4774-ae3e-e191aa45435c?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/philips-40-zoll-40puk6809-3d-4k-led-fernseher/3524200643-175-823",
+        "first_seen": "2026-09-27T11:30:33.333890+00:00"
       }
     }
   }

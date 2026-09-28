@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-28T12:58:51.041927+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-28T12:59:03.816878+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-28T12:59:13.294639+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-28T13:02:19.032290+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-28T22:57:07.540337+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-28T22:57:16.628472+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-28T22:57:27.224929+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-28T23:00:17.798791+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -3292,7 +3292,7 @@
       "3525573261": {
         "id": "3525573261",
         "title": "Samsung BD-F7500 3D Blu-ray Player mit WLAN & 4K-Upscaling",
-        "price": "69 â¬ VB",
+        "price": "59 â¬ VB",
         "location": "64807 Hessen - Dieburg",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51b40416-c714-437a-b510-12eae6911e99?rule=$_2.AUTO",
@@ -3328,6 +3328,36 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/00f23cac-45fd-4bf8-86ed-ae4d969a2221?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/speaka-professional-hdmi-audio-adapter-4k-3d-5-1-3-stueck/3525318919-225-4380",
         "first_seen": "2026-09-28T13:02:19.032024+00:00"
+      },
+      "3525903857": {
+        "id": "3525903857",
+        "title": "Sony Bravia 49X8308C Android TV LED 4K UHD X-Reality PRO 100Hz 3D",
+        "price": "249 â¬ VB",
+        "location": "45657 Nordrhein-Westfalen - Recklinghausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e547ed4-afb7-477d-804b-afc6c7545f10?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sony-bravia-49x8308c-android-tv-led-4k-uhd-x-reality-pro-100hz-3d/3525903857-175-1987",
+        "first_seen": "2026-09-28T23:00:17.798612+00:00"
+      },
+      "3525741853": {
+        "id": "3525741853",
+        "title": "Panasonic DMP-BDT174 3D Blu-ray Player 4K Fernbedienung â",
+        "price": "69 â¬ VB",
+        "location": "14469 Brandenburg - Potsdam",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a55a61f-3a8e-4a2d-8b06-48b34795f74e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/panasonic-dmp-bdt174-3d-blu-ray-player-4k-fernbedienung-/3525741853-175-7963",
+        "first_seen": "2026-09-28T23:00:17.798612+00:00"
+      },
+      "3525741238": {
+        "id": "3525741238",
+        "title": "HDMI Switch 5xIn, 1xOut, 3D, 4K, MHL",
+        "price": "20 â¬",
+        "location": "22889 Schleswig-Holstein - Tangstedt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36f6c927-1706-46d4-86ad-b8517519a329?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-switch-5xin-1xout-3d-4k-mhl/3525741238-175-629",
+        "first_seen": "2026-09-28T23:00:17.798612+00:00"
       }
     }
   }

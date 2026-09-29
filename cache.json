@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-29T12:10:50.771769+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-29T12:11:01.191715+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-29T12:11:11.461685+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-29T12:13:54.079963+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-29T21:54:14.543663+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-29T21:54:27.881957+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-29T21:54:51.707899+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-29T21:59:03.220363+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -3332,7 +3332,7 @@
       "3525903857": {
         "id": "3525903857",
         "title": "Sony Bravia 49X8308C Android TV LED 4K UHD X-Reality PRO 100Hz 3D",
-        "price": "249 â¬ VB",
+        "price": "199 â¬ VB",
         "location": "45657 Nordrhein-Westfalen - Recklinghausen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e547ed4-afb7-477d-804b-afc6c7545f10?rule=$_2.AUTO",
@@ -3368,6 +3368,26 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5db73503-b4f8-403f-bc8a-7a2c106b3d4e?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-bd-h6500-3d-blu-ray-player-4k-upscaling-wlan-zubehoer/3526460348-175-6826",
         "first_seen": "2026-09-29T12:13:54.079737+00:00"
+      },
+      "3526809254": {
+        "id": "3526809254",
+        "title": "CSL HDMI Splitter 1x2 â Ultra HD 4K / 3D",
+        "price": "10 â¬ VB",
+        "location": "22952 Schleswig-Holstein - LÃ¼tjensee",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/7991693b-31e3-4b96-a856-2f8814e7206f?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/csl-hdmi-splitter-1x2-ultra-hd-4k-3d/3526809254-175-926",
+        "first_seen": "2026-09-29T21:59:03.220130+00:00"
+      },
+      "3526648911": {
+        "id": "3526648911",
+        "title": "Hisense 42 Zoll 4K 3D TV (LTDN42K680)",
+        "price": "40 â¬",
+        "location": "16227 Brandenburg - Eberswalde",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c512f347-d810-46dc-9f4a-4c40061213a1?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hisense-42-zoll-4k-3d-tv-ltdn42k680-/3526648911-175-7722",
+        "first_seen": "2026-09-29T21:59:03.220130+00:00"
       }
     }
   }

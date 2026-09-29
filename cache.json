@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-28T22:57:07.540337+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-28T22:57:16.628472+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-28T22:57:27.224929+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-28T23:00:17.798791+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-29T12:10:50.771769+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-29T12:11:01.191715+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-29T12:11:11.461685+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-29T12:13:54.079963+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -2742,7 +2742,7 @@
       "3516863440": {
         "id": "3516863440",
         "title": "Grundig 55 GUB 9688 4K UHD 3D TV + Govee Ambilight + 3D Brillen",
-        "price": "220 â¬",
+        "price": "200 â¬",
         "location": "85290 Bayern - Geisenfeld",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26dbd8d1-1e45-4d0a-a7ee-506c2b3f4103?rule=$_2.AUTO",
@@ -3358,6 +3358,16 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36f6c927-1706-46d4-86ad-b8517519a329?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-switch-5xin-1xout-3d-4k-mhl/3525741238-175-629",
         "first_seen": "2026-09-28T23:00:17.798612+00:00"
+      },
+      "3526460348": {
+        "id": "3526460348",
+        "title": "Samsung BD-H6500 3D Blu-ray Player (4K Upscaling, WLAN) + ZubehÃ¶r",
+        "price": "35 â¬ VB",
+        "location": "90441 NÃ¼rnberg (Mittelfr) - SÃ¼dstadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5db73503-b4f8-403f-bc8a-7a2c106b3d4e?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-bd-h6500-3d-blu-ray-player-4k-upscaling-wlan-zubehoer/3526460348-175-6826",
+        "first_seen": "2026-09-29T12:13:54.079737+00:00"
       }
     }
   }

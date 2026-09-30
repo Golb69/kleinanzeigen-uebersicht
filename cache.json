@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-30T04:06:19.692516+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-30T04:06:32.854731+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-30T04:06:47.375857+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-30T04:09:51.810707+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-09-30T11:57:50.608137+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-09-30T11:58:05.343278+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-09-30T11:58:17.120671+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-09-30T12:01:59.201813+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -3388,6 +3388,26 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c512f347-d810-46dc-9f4a-4c40061213a1?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/hisense-42-zoll-4k-3d-tv-ltdn42k680-/3526648911-175-7722",
         "first_seen": "2026-09-29T21:59:03.220130+00:00"
+      },
+      "3527283102": {
+        "id": "3527283102",
+        "title": "Panasonic TX-50CXW704 â 50 Zoll / 127 cm 4K UHD 3D Smart TV",
+        "price": "189 â¬ VB",
+        "location": "32584 Nordrhein-Westfalen - LÃ¶hne",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72cafb61-a3aa-4f06-8599-31bf038609a4?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/panasonic-tx-50cxw704-50-zoll-127-cm-4k-uhd-3d-smart-tv/3527283102-175-1220",
+        "first_seen": "2026-09-30T12:01:59.201539+00:00"
+      },
+      "3519193649": {
+        "id": "3519193649",
+        "title": "Philips 43PUS8108/12 â 4K LED TV + 3d druck Fernbedienungshalter",
+        "price": "239 â¬ VB",
+        "location": "68161 Baden-WÃ¼rttemberg - Mannheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/4546ff9f-bfcd-4003-94e7-4205a9dec4cd?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/philips-43pus8108-12-4k-led-tv-3d-druck-fernbedienungshalter/3519193649-175-7983",
+        "first_seen": "2026-09-30T12:01:59.201539+00:00"
       }
     }
   }

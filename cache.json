@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-02T11:55:44.431482+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-02T11:55:52.418286+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-02T11:56:04.220259+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-02T11:58:58.783897+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-02T21:50:51.166036+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-02T21:50:59.953378+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-02T21:51:11.209447+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-02T21:54:45.787330+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -332,7 +332,7 @@
       "3502272704": {
         "id": "3502272704",
         "title": "âToshiba 55UA3D63DG (55\" 4K Android TV) â kein Backlight",
-        "price": "65 â¬ VB",
+        "price": "55 â¬ VB",
         "location": "99817 ThÃ¼ringen - Eisenach",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a94e6b67-29c7-458a-ac59-52e3c1db99b0?rule=$_2.AUTO",
@@ -2842,7 +2842,7 @@
       "3517849745": {
         "id": "3517849745",
         "title": "Leinwand 120\" Beamer 8K/4K/Full HD und 3D tauglich",
-        "price": "80 â¬ VB",
+        "price": "70 â¬ VB",
         "location": "29614 Niedersachsen - Soltau",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdf1332a-5c37-4cb0-b2f4-6bae0f8e6fc6?rule=$_2.AUTO",
@@ -3488,6 +3488,46 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3cfcdcc6-574c-4e4a-b883-95316050b6fb?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/anycubic-photon-mono-4k-resin-3d-drucker-mit-viel-zubehoer/3528751089-168-1934",
         "first_seen": "2026-10-02T11:58:58.783686+00:00"
+      },
+      "3529219859": {
+        "id": "3529219859",
+        "title": "Goldkabel Highline Series / HDMI Kabel 1,5m / 4K + 3D + ETHERNET",
+        "price": "20 â¬ VB",
+        "location": "56191 Rheinland-Pfalz - Weitersburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/888cad08-323a-49c6-a8dc-b9aed03eca29?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/goldkabel-highline-series-hdmi-kabel-1-5m-4k-3d-ethernet/3529219859-172-5035",
+        "first_seen": "2026-10-02T21:54:45.787082+00:00"
+      },
+      "3529058978": {
+        "id": "3529058978",
+        "title": "Smart TV PANASONIC 4K 3D UHD 58â Zoll Teildefekt Bastler",
+        "price": "80 â¬",
+        "location": "90429 NÃ¼rnberg - Mitte",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c82dd36b-52eb-465e-81cb-411c80eb734d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/smart-tv-panasonic-4k-3d-uhd-58-zoll-teildefekt-bastler/3529058978-175-6831",
+        "first_seen": "2026-10-02T21:54:45.787082+00:00"
+      },
+      "3528975850": {
+        "id": "3528975850",
+        "title": "55\" Samsung 4K SUHD 3D Smart TV, TwinTuner, USB Recording",
+        "price": "230 â¬",
+        "location": "38268 Niedersachsen - Lengede",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/94c1a323-3a87-4bb9-ad7d-6e76243fe25d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/55-samsung-4k-suhd-3d-smart-tv-twintuner-usb-recording/3528975850-175-2440",
+        "first_seen": "2026-10-02T21:54:45.787082+00:00"
+      },
+      "3528951863": {
+        "id": "3528951863",
+        "title": "HDMI Bi-Direction Switch 4K 3D",
+        "price": "7 â¬ VB",
+        "location": "31848 Niedersachsen - Bad MÃ¼nder am Deister",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6e4d85c-944a-4989-846d-5b367f58bcfe?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-bi-direction-switch-4k-3d/3528951863-225-2866",
+        "first_seen": "2026-10-02T21:54:45.787082+00:00"
       }
     }
   }

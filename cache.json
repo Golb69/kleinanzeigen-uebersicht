@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-03T03:54:06.587588+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-03T03:54:17.544346+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-03T03:54:29.361269+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-02T21:54:45.787330+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-03T11:08:44.872092+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-03T11:08:56.120418+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-03T11:09:10.821638+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-03T11:12:00.780191+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -112,7 +112,7 @@
       "3507955426": {
         "id": "3507955426",
         "title": "Club 3D USB 3.0 Dual 4K Dockingstation",
-        "price": "89 â¬ VB",
+        "price": "85 â¬ VB",
         "location": "42349 Wuppertal - Cronenberg",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8f9143df-b264-40b5-8b21-1f7cdbd60298?rule=$_2.AUTO",
@@ -235,7 +235,7 @@
         "price": "235 â¬ VB",
         "location": "23556 Schleswig-Holstein - LÃ¼beck",
         "date": null,
-        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86f462dc-d39d-434f-82b8-59ea583520bc?rule=$_2.AUTO",
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/179f42e3-7fd9-4c7b-8c0f-0a1a3e8f0667?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/tcl-55-zoll-smart-tv-uhd-4k-3d-inklusive-wandhalterung/3504707326-175-413",
         "first_seen": "2026-09-12T16:03:06.383905+00:00"
       },
@@ -3528,6 +3528,36 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6e4d85c-944a-4989-846d-5b367f58bcfe?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-bi-direction-switch-4k-3d/3528951863-225-2866",
         "first_seen": "2026-10-02T21:54:45.787082+00:00"
+      },
+      "3529686390": {
+        "id": "3529686390",
+        "title": "TCL 55 Zoll Smart TV UHD 4K 3D Fernseher",
+        "price": "155 â¬ VB",
+        "location": "23556 Schleswig-Holstein - LÃ¼beck",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0f6e670-78e9-4ab6-8ab7-de9cc7299f69?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tcl-55-zoll-smart-tv-uhd-4k-3d-fernseher/3529686390-175-413",
+        "first_seen": "2026-10-03T11:12:00.779969+00:00"
+      },
+      "3529448920": {
+        "id": "3529448920",
+        "title": "LG 65 Zoll OLED TV (65EF9509) 4K / 3D â Defekt an Bastler",
+        "price": "89 â¬ VB",
+        "location": "04610 ThÃ¼ringen - Meuselwitz",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e0732f8d-b1e5-4315-a49a-1ab4abd19866?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lg-65-zoll-oled-tv-65ef9509-4k-3d-defekt-an-bastler/3529448920-175-2317",
+        "first_seen": "2026-10-03T11:12:00.779969+00:00"
+      },
+      "3529140004": {
+        "id": "3529140004",
+        "title": "TCL 55 Zoll 4K 3D TV Fernseher (U55S7606DS) Teildefekt / Bastler",
+        "price": "60 â¬ VB",
+        "location": "76689 Baden-WÃ¼rttemberg - Karlsdorf-Neuthard",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b8d98d41-61f0-4fa2-93aa-8ca8033a75c9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tcl-55-zoll-4k-3d-tv-fernseher-u55s7606ds-teildefekt-bastler/3529140004-175-8792",
+        "first_seen": "2026-10-03T11:12:00.779969+00:00"
       }
     }
   }

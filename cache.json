@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-03T11:08:44.872092+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-03T11:08:56.120418+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-03T11:09:10.821638+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-03T11:12:00.780191+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-03T20:37:09.367331+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-03T20:37:19.630092+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-03T20:37:33.500565+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-03T20:40:18.391358+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -3558,6 +3558,46 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b8d98d41-61f0-4fa2-93aa-8ca8033a75c9?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/tcl-55-zoll-4k-3d-tv-fernseher-u55s7606ds-teildefekt-bastler/3529140004-175-8792",
         "first_seen": "2026-10-03T11:12:00.779969+00:00"
+      },
+      "3530481737": {
+        "id": "3530481737",
+        "title": "Sony Blu-ray Player mit 4K UHD Upscale und 3D",
+        "price": "55 â¬ VB",
+        "location": "58097 Nordrhein-Westfalen - Hagen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8c7deebf-2038-422b-9f4b-9414abb3afa3?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sony-blu-ray-player-mit-4k-uhd-upscale-und-3d/3530481737-175-2014",
+        "first_seen": "2026-10-03T20:40:18.391178+00:00"
+      },
+      "3530385269": {
+        "id": "3530385269",
+        "title": "AQUAMAN - 4K + 3D + Blu-ray Steelbook Set in Filmarena Box NEU!!!",
+        "price": "149 â¬ VB",
+        "location": "56068 Rheinland-Pfalz - Koblenz",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/5605e25a-c330-4f68-b6f4-92c9415f5d5a?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/aquaman-4k-3d-blu-ray-steelbook-set-in-filmarena-box-neu-/3530385269-79-5420",
+        "first_seen": "2026-10-03T20:40:18.391178+00:00"
+      },
+      "3530364405": {
+        "id": "3530364405",
+        "title": "Philips BDP7750/12 3D Blu-ray Player, 4K Upscaling, WLAN + OVP",
+        "price": "69 â¬ VB",
+        "location": "12621 Berlin - Hellersdorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a877c54-386b-446b-8518-f9e4ad7ca4e8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/philips-bdp7750-12-3d-blu-ray-player-4k-upscaling-wlan-ovp/3530364405-175-3513",
+        "first_seen": "2026-10-03T20:40:18.391178+00:00"
+      },
+      "3530087292": {
+        "id": "3530087292",
+        "title": "HDMI Extender mit IR Ã¼ber Cat.5e + 6, 3D und 4K,bis 70 Mtr. NEU!!",
+        "price": "49 â¬ VB",
+        "location": "91056 Bayern - Erlangen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31bd47ae-96f8-41ca-8758-b58d18d040f5?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-extender-mit-ir-ueber-cat-5e-6-3d-und-4k-bis-70-mtr-neu-/3530087292-175-6798",
+        "first_seen": "2026-10-03T20:40:18.391178+00:00"
       }
     }
   }

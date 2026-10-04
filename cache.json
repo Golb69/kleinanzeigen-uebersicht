@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-04T11:49:09.228125+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-04T11:49:19.397926+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-04T11:49:31.369233+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-04T11:52:24.259892+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-04T20:53:34.635006+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-04T20:53:45.795016+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-04T20:53:55.610181+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-04T20:56:50.093622+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -792,7 +792,7 @@
       "3480094157": {
         "id": "3480094157",
         "title": "Beamer Leinwand 110 Zoll 4:3 3D 4K Ultra HD",
-        "price": "50 â¬",
+        "price": "45 â¬",
         "location": "23992 Mecklenburg-Vorpommern - Neukloster",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/3067e4f3-1164-4780-9b4e-535f2c2a4173?rule=$_2.AUTO",
@@ -3042,7 +3042,7 @@
       "3520001186": {
         "id": "3520001186",
         "title": "Club 3D USB 3.0 Dual Display 4K 60Hz Dockingstation â CSV-1460",
-        "price": "89 â¬ VB",
+        "price": "80 â¬ VB",
         "location": "75173 Baden-WÃ¼rttemberg - Pforzheim",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40ae97d1-0a1f-4597-8691-c86c6c92d91a?rule=$_2.AUTO",
@@ -3628,6 +3628,56 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a0e8f7e-c457-4754-83d7-64d77178bf91?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/anycubic-photon-mono-x-4k-wash-cure-station-3d-drucker-resin/3530730227-168-1444",
         "first_seen": "2026-10-04T11:52:24.259676+00:00"
+      },
+      "3531730693": {
+        "id": "3531730693",
+        "title": "TV LG 65 Zoll OLED /3D+4K+curved / defekt an Bastler",
+        "price": "70 â¬",
+        "location": "48147 MÃ¼nster (Westfalen) - Centrum",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/697296ea-8c96-4428-8817-22ac0a585a7b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/tv-lg-65-zoll-oled-3d-4k-curved-defekt-an-bastler/3531730693-175-931",
+        "first_seen": "2026-10-04T20:56:50.093374+00:00"
+      },
+      "3531417619": {
+        "id": "3531417619",
+        "title": "Samsung 4K UHD 3D UE55HU8590V",
+        "price": "180 â¬",
+        "location": "90443 NÃ¼rnberg - SÃ¼dstadt",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/317330b7-88e2-4692-a3a3-095d30e2e1e8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-4k-uhd-3d-ue55hu8590v/3531417619-175-6827",
+        "first_seen": "2026-10-04T20:56:50.093374+00:00"
+      },
+      "3531246988": {
+        "id": "3531246988",
+        "title": "Heimkino Beamer Motorleinwand 240 x 180 cm 4:3 120\" HDTV 4K 3D",
+        "price": "100 â¬",
+        "location": "83209 Bayern - Prien",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e587365e-9de2-4012-baed-33f43902481c?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/heimkino-beamer-motorleinwand-240-x-180-cm-4-3-120-hdtv-4k-3d/3531246988-175-7561",
+        "first_seen": "2026-10-04T20:56:50.093374+00:00"
+      },
+      "3531136619": {
+        "id": "3531136619",
+        "title": "Professionelle Immobilienfotografie, Drohne & 4K Video und 3D",
+        "price": "149 â¬ VB",
+        "location": "85652 Bayern - Pliening",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a973dbd-5ec0-4b7b-8d31-6e99185f0020?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/professionelle-immobilienfotografie-drohne-4k-video-und-3d/3531136619-298-6579",
+        "first_seen": "2026-10-04T20:56:50.093374+00:00"
+      },
+      "3531141284": {
+        "id": "3531141284",
+        "title": "KOOFIT HDMI Switch 3 in 1 Out 4K 3D UHD Modell QHQ-001",
+        "price": "15 â¬ VB",
+        "location": "66299 Saarland - Friedrichsthal",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b89a3e3f-b469-437f-89d9-9fa8c984b3e9?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/koofit-hdmi-switch-3-in-1-out-4k-3d-uhd-modell-qhq-001/3531141284-225-329",
+        "first_seen": "2026-10-04T20:56:50.093374+00:00"
       }
     }
   }

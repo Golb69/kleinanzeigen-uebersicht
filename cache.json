@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-04T04:26:53.145547+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-04T04:27:06.296919+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-04T04:27:16.363793+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-04T04:30:02.739282+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-04T11:49:09.228125+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-04T11:49:19.397926+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-04T11:49:31.369233+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-04T11:52:24.259892+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -1032,7 +1032,7 @@
       "3469297180": {
         "id": "3469297180",
         "title": "HDMI Matrix 2x2, HDCP 1.4, 4K, 3D",
-        "price": "20 â¬",
+        "price": "19 â¬",
         "location": "15366 Brandenburg - Hoppegarten",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/abb21dab-79dd-4672-9f7b-dacf881e73c5?rule=$_2.AUTO",
@@ -3122,7 +3122,7 @@
       "3521069210": {
         "id": "3521069210",
         "title": "Sommer Cable Hicon 15m 4K 3D 1080p HDMI Kabel *Top*",
-        "price": "100 â¬",
+        "price": "90 â¬",
         "location": "45141 Essen - Stoppenberg",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af1d50ee-5711-4cac-ac73-a3285a62904c?rule=$_2.AUTO",
@@ -3598,6 +3598,36 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31bd47ae-96f8-41ca-8758-b58d18d040f5?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-extender-mit-ir-ueber-cat-5e-6-3d-und-4k-bis-70-mtr-neu-/3530087292-175-6798",
         "first_seen": "2026-10-03T20:40:18.391178+00:00"
+      },
+      "3531052641": {
+        "id": "3531052641",
+        "title": "Maxxer Premium HDMI Kabel 3m 4K 3D neu",
+        "price": "3 â¬",
+        "location": "47665 Nordrhein-Westfalen - Sonsbeck",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d851f3c-032b-465e-bb12-3eca73417ca0?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/maxxer-premium-hdmi-kabel-3m-4k-3d-neu/3531052641-225-1404",
+        "first_seen": "2026-10-04T11:52:24.259676+00:00"
+      },
+      "3530793522": {
+        "id": "3530793522",
+        "title": "Samsung 32â 3D Smart TV UE32F6470 + Fire TV Stick 4K + 3D-Brillen",
+        "price": "129 â¬ VB",
+        "location": "60316 Frankfurt am Main - Ostend",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0a437da-112c-4ae0-989e-307caaf7d2de?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-32-3d-smart-tv-ue32f6470-fire-tv-stick-4k-3d-brillen/3530793522-175-4297",
+        "first_seen": "2026-10-04T11:52:24.259676+00:00"
+      },
+      "3530730227": {
+        "id": "3530730227",
+        "title": "Anycubic Photon Mono X 4K & Wash + Cure Station, 3D Drucker Resin",
+        "price": "150 â¬",
+        "location": "59199 Nordrhein-Westfalen - BÃ¶nen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a0e8f7e-c457-4754-83d7-64d77178bf91?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/anycubic-photon-mono-x-4k-wash-cure-station-3d-drucker-resin/3530730227-168-1444",
+        "first_seen": "2026-10-04T11:52:24.259676+00:00"
       }
     }
   }

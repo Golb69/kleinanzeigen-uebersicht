@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-05T04:11:59.992641+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-05T04:12:10.489713+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-05T04:12:26.537678+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-05T04:15:43.682691+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-05T13:40:39.747510+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-05T13:40:54.284375+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-05T13:41:10.017279+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-05T13:44:22.538878+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -2722,7 +2722,7 @@
       "3516147354": {
         "id": "3516147354",
         "title": "Panasonic TX-50AXW804 50â 4K 3D TV + Sony Soundbar/Subwoof",
-        "price": "249 â¬",
+        "price": "219 â¬",
         "location": "31157 Niedersachsen - Sarstedt",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d0b57a7-1cb5-4d48-9388-fadb3fa9d830?rule=$_2.AUTO",
@@ -3162,7 +3162,7 @@
       "3522575213": {
         "id": "3522575213",
         "title": "Onkyo AV Receiver TX-NR626 Bluetooth 3D.4K. 7.2",
-        "price": "190 â¬ VB",
+        "price": "180 â¬ VB",
         "location": "85221 Kr. Dachau - Dachau",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df95164e-3000-4a52-822d-803f0a951d42?rule=$_2.AUTO",
@@ -3432,10 +3432,10 @@
       "3528054444": {
         "id": "3528054444",
         "title": "Sony KD-49X8308C Android TV 4K UHD X-Reality PRO 100Hz 3D SmartTV",
-        "price": "199 â¬ VB",
+        "price": "189 â¬ VB",
         "location": "45657 Nordrhein-Westfalen - Recklinghausen",
         "date": null,
-        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e47c997f-d7c2-43d1-ab4b-d9163673387a?rule=$_2.AUTO",
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78df4d93-43bb-4756-b720-d736a4abfb53?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/sony-kd-49x8308c-android-tv-4k-uhd-x-reality-pro-100hz-3d-smarttv/3528054444-175-1987",
         "first_seen": "2026-10-01T12:32:48.270017+00:00"
       },
@@ -3482,7 +3482,7 @@
       "3528751089": {
         "id": "3528751089",
         "title": "Anycubic Photon Mono 4K â Resin-3D-Drucker mit viel ZubehÃ¶r",
-        "price": "99 â¬ VB",
+        "price": "89 â¬ VB",
         "location": "44866 Bochum - Bochum-Wattenscheid",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3cfcdcc6-574c-4e4a-b883-95316050b6fb?rule=$_2.AUTO",
@@ -3678,6 +3678,66 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b89a3e3f-b469-437f-89d9-9fa8c984b3e9?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/koofit-hdmi-switch-3-in-1-out-4k-3d-uhd-modell-qhq-001/3531141284-225-329",
         "first_seen": "2026-10-04T20:56:50.093374+00:00"
+      },
+      "3532204664": {
+        "id": "3532204664",
+        "title": "LG 55 UB 850 V Fernsehen 4k TV 3D",
+        "price": "50 â¬",
+        "location": "46238 Nordrhein-Westfalen - Bottrop",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/3264a3f1-e71b-4e90-a55a-586b64975fd8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lg-55-ub-850-v-fernsehen-4k-tv-3d/3532204664-175-1952",
+        "first_seen": "2026-10-05T13:44:22.538660+00:00"
+      },
+      "3532101801": {
+        "id": "3532101801",
+        "title": "LG 65UB950V 65 Zoll 4K 3D Fernseher defekt",
+        "price": "120 â¬ VB",
+        "location": "01129 Dresden - Pieschen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91460f91-9a82-4fe8-8757-3aaedf777f2d?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lg-65ub950v-65-zoll-4k-3d-fernseher-defekt/3532101801-175-3843",
+        "first_seen": "2026-10-05T13:44:22.538660+00:00"
+      },
+      "3532085780": {
+        "id": "3532085780",
+        "title": "SpeaKa Professional HDMI Kabel 5 m, 4K, ARC, 3D",
+        "price": "9 â¬",
+        "location": "44379 Dortmund - LÃ¼tgendortmund",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a669a5c-0bf6-4afe-a1cc-82dd83813eaf?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/speaka-professional-hdmi-kabel-5-m-4k-arc-3d/3532085780-225-19681",
+        "first_seen": "2026-10-05T13:44:22.538660+00:00"
+      },
+      "3531929843": {
+        "id": "3531929843",
+        "title": "Panasonic 58 Zoll 4K UHD Smart TV TX -58EXF787 100Hz, 3D, Top !!",
+        "price": "250 â¬ VB",
+        "location": "93089 Bayern - Aufhausen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2b87ec56-a1c0-41e8-8e2b-c5da4fd67454?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/panasonic-58-zoll-4k-uhd-smart-tv-tx-58exf787-100hz-3d-top-/3531929843-175-7649",
+        "first_seen": "2026-10-05T13:44:22.538660+00:00"
+      },
+      "3531917378": {
+        "id": "3531917378",
+        "title": "Fernseher âSony Bravia KD-49X8505Bâ 4K LCD + 3D Funktion",
+        "price": "220 â¬ VB",
+        "location": "26135 Niedersachsen - Oldenburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68e10f98-e5f4-4f23-aaa4-213e77f8de42?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/fernseher-sony-bravia-kd-49x8505b-4k-lcd-3d-funktion/3531917378-175-3110",
+        "first_seen": "2026-10-05T13:44:22.538660+00:00"
+      },
+      "3531888675": {
+        "id": "3531888675",
+        "title": "Smart TV 55 Zoll 4K (UHD) 3D mit Brille 4 HDMI",
+        "price": "150 â¬ VB",
+        "location": "53332 Nordrhein-Westfalen - Bornheim",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8dda29fd-2e98-4f14-b79d-d33e553bd36b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/smart-tv-55-zoll-4k-uhd-3d-mit-brille-4-hdmi/3531888675-175-1606",
+        "first_seen": "2026-10-05T13:44:22.538660+00:00"
       }
     }
   }

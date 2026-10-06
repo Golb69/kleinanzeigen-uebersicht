@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-05T23:46:13.047720+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-05T23:46:21.340221+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-05T23:46:37.990688+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-06T05:02:24.673130+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-06T12:47:29.374437+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-06T12:47:41.590420+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-06T12:47:54.951154+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-06T12:50:43.650866+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -1381,12 +1381,12 @@
       },
       "3439279304": {
         "id": "3439279304",
-        "title": "LG 55uf 8409_4K_3D Fernseher",
+        "title": "LG 55uf 8409_4K_3D Fernseher--RESERVIERT--",
         "price": "125 â¬ VB",
         "location": "92334 Bayern - Berching",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/038bb9c0-4643-467f-9350-48390ab55b4d?rule=$_2.AUTO",
-        "url": "https://www.kleinanzeigen.de/s-anzeige/lg-55uf-8409-4k-3d-fernseher/3439279304-175-6593",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/lg-55uf-8409-4k-3d-fernseher-reserviert-/3439279304-175-6593",
         "first_seen": "2026-09-12T16:03:06.383905+00:00"
       },
       "3437244693": {
@@ -3692,7 +3692,7 @@
       "3532101801": {
         "id": "3532101801",
         "title": "LG 65UB950V 65 Zoll 4K 3D Fernseher defekt",
-        "price": "120 € VB",
+        "price": "120 â¬ VB",
         "location": "01129 Dresden - Pieschen",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91460f91-9a82-4fe8-8757-3aaedf777f2d?rule=$_2.AUTO",
@@ -3738,6 +3738,26 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8dda29fd-2e98-4f14-b79d-d33e553bd36b?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/smart-tv-55-zoll-4k-uhd-3d-mit-brille-4-hdmi/3531888675-175-1606",
         "first_seen": "2026-10-05T13:44:22.538660+00:00"
+      },
+      "3532823817": {
+        "id": "3532823817",
+        "title": "Club 3D CAC-1085 DisplayPort 1.4 to HDMI 4K120Hz HDR Active Adapt",
+        "price": "25 â¬",
+        "location": "35390 Hessen - GieÃen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72ae4a73-88de-40ec-9cf0-7d1e2066eaf6?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/club-3d-cac-1085-displayport-1-4-to-hdmi-4k120hz-hdr-active-adapt/3532823817-225-4712",
+        "first_seen": "2026-10-06T12:50:43.650637+00:00"
+      },
+      "3532715228": {
+        "id": "3532715228",
+        "title": "NEU High Speed HDMI Kabel 10 Meter â 4K UHD Full HD 3D Kupfer",
+        "price": "10 â¬",
+        "location": "10627 Berlin - Charlottenburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24a91133-239f-4262-8269-6a2b039cd3c7?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neu-high-speed-hdmi-kabel-10-meter-4k-uhd-full-hd-3d-kupfer-/3532715228-225-3343",
+        "first_seen": "2026-10-06T12:50:43.650637+00:00"
       }
     }
   }

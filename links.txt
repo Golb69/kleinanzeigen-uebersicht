@@ -2,8 +2,8 @@
 https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/65EF9509/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/55E6D/k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/65E6D /k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/65G6V /k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/65E6D/k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/65G6V/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/55LA970V/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/65LA970V/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/55LA965V/k0l3548
@@ -28,21 +28,21 @@ https://www.kleinanzeigen.de/s-thueringen/preis::250/55UH950V/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/65UH950V/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/55UH8509/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/65UH8509/k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/55X9005A /k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/65X9005A /k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/55X9005B /k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/65X9005B /k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/55X8505B /k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/65X8505B /k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/55X8505C /k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/65X8505C /k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/55X9005A/k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/65X9005A/k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/55X9005B/k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/65X9005B/k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/55X8505B/k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/65X8505B/k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/55X8505C/k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/65X8505C/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/55X9005C/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/65X9005C/k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/55X9305C /k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/65X9305C /k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/55XD9305 /k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/65XD9305 /k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/65ZD9 /k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/55X9305C/k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/65X9305C/k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/55XD9305/k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/65XD9305/k0l3548
+https://www.kleinanzeigen.de/s-thueringen/preis::250/65ZD9/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/55AXW904/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/65AXW904/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/55CXW804/k0l3548
@@ -62,8 +62,8 @@ https://www.kleinanzeigen.de/s-thueringen/preis::250/4K 3D/k0l3548
 https://www.kleinanzeigen.de/s-preis::250/55EF9509/k0
 https://www.kleinanzeigen.de/s-preis::250/65EF9509/k0
 https://www.kleinanzeigen.de/s-preis::250/55E6D/k0
-https://www.kleinanzeigen.de/s-preis::250/65E6D /k0
-https://www.kleinanzeigen.de/s-preis::250/65G6V /k0
+https://www.kleinanzeigen.de/s-preis::250/65E6D/k0
+https://www.kleinanzeigen.de/s-preis::250/65G6V/k0
 https://www.kleinanzeigen.de/s-preis::250/55LA970V/k0
 https://www.kleinanzeigen.de/s-preis::250/65LA970V/k0
 https://www.kleinanzeigen.de/s-preis::250/55LA965V/k0
@@ -88,21 +88,21 @@ https://www.kleinanzeigen.de/s-preis::250/55UH950V/k0
 https://www.kleinanzeigen.de/s-preis::250/65UH950V/k0
 https://www.kleinanzeigen.de/s-preis::250/55UH8509/k0
 https://www.kleinanzeigen.de/s-preis::250/65UH8509/k0
-https://www.kleinanzeigen.de/s-preis::250/55X9005A /k0
-https://www.kleinanzeigen.de/s-preis::250/65X9005A /k0
-https://www.kleinanzeigen.de/s-preis::250/55X9005B /k0
-https://www.kleinanzeigen.de/s-preis::250/65X9005B /k0
-https://www.kleinanzeigen.de/s-preis::250/55X8505B /k0
-https://www.kleinanzeigen.de/s-preis::250/65X8505B /k0
-https://www.kleinanzeigen.de/s-preis::250/55X8505C /k0
-https://www.kleinanzeigen.de/s-preis::250/65X8505C /k0
+https://www.kleinanzeigen.de/s-preis::250/55X9005A/k0
+https://www.kleinanzeigen.de/s-preis::250/65X9005A/k0
+https://www.kleinanzeigen.de/s-preis::250/55X9005B/k0
+https://www.kleinanzeigen.de/s-preis::250/65X9005B/k0
+https://www.kleinanzeigen.de/s-preis::250/55X8505B/k0
+https://www.kleinanzeigen.de/s-preis::250/65X8505B/k0
+https://www.kleinanzeigen.de/s-preis::250/55X8505C/k0
+https://www.kleinanzeigen.de/s-preis::250/65X8505C/k0
 https://www.kleinanzeigen.de/s-preis::250/55X9005C/k0
 https://www.kleinanzeigen.de/s-preis::250/65X9005C/k0
-https://www.kleinanzeigen.de/s-preis::250/55X9305C /k0
-https://www.kleinanzeigen.de/s-preis::250/65X9305C /k0
-https://www.kleinanzeigen.de/s-preis::250/55XD9305 /k0
-https://www.kleinanzeigen.de/s-preis::250/65XD9305 /k0
-https://www.kleinanzeigen.de/s-preis::250/65ZD9 /k0
+https://www.kleinanzeigen.de/s-preis::250/55X9305C/k0
+https://www.kleinanzeigen.de/s-preis::250/65X9305C/k0
+https://www.kleinanzeigen.de/s-preis::250/55XD9305/k0
+https://www.kleinanzeigen.de/s-preis::250/65XD9305/k0
+https://www.kleinanzeigen.de/s-preis::250/65ZD9/k0
 https://www.kleinanzeigen.de/s-preis::250/55AXW904/k0
 https://www.kleinanzeigen.de/s-preis::250/65AXW904/k0
 https://www.kleinanzeigen.de/s-preis::250/55CXW804/k0

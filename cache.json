@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-07T04:27:23.504615+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-07T04:27:33.111832+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-07T04:27:44.889724+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-07T04:30:40.895004+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-07T12:41:50.878819+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-07T12:41:59.653646+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-07T12:42:11.066631+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-07T12:44:52.304333+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -3778,6 +3778,46 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/9937a557-0b60-4111-ab58-3ec536366195?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/philips-40-zoll-40puk6809-3d-4k-led-fernseher/3533029921-175-823",
         "first_seen": "2026-10-06T22:24:24.303745+00:00"
+      },
+      "3533735628": {
+        "id": "3533735628",
+        "title": "Samsung UE55JU7590TXZG 55\" Curved 4K UHD 3D Smart TV – Series 7",
+        "price": "213 €",
+        "location": "22869 Kreis Pinneberg - Schenefeld",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b703b273-0165-41f0-b380-05a3d9168014?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-ue55ju7590txzg-55-curved-4k-uhd-3d-smart-tv-series-7/3533735628-175-760",
+        "first_seen": "2026-10-07T12:44:52.304081+00:00"
+      },
+      "3533632393": {
+        "id": "3533632393",
+        "title": "NEU HDMI 2.0 Kabel 1,8m 4K UHD 3D 18Gbit/s Ethernet ARC Vergoldet",
+        "price": "4 €",
+        "location": "10627 Berlin - Charlottenburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/807a43c0-d0c8-4645-86a0-b8e6c5e79963?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/neu-hdmi-2-0-kabel-1-8m-4k-uhd-3d-18gbit-s-ethernet-arc-vergoldet/3533632393-225-3343",
+        "first_seen": "2026-10-07T12:44:52.304081+00:00"
+      },
+      "3533443826": {
+        "id": "3533443826",
+        "title": "3D Resin Printer/Drucker- LD-O06 4K Creality+ Zubehör",
+        "price": "140 € VB",
+        "location": "70199 Stuttgart - Stuttgart-Süd",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/193cb5c9-3e15-4178-830d-6b9b07af58c6?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3d-resin-printer-drucker-ld-o06-4k-creality-zubehoer/3533443826-168-9292",
+        "first_seen": "2026-10-07T12:44:52.304081+00:00"
+      },
+      "3507805065": {
+        "id": "3507805065",
+        "title": "samsung smart Curved TV 3D 4K Ultra HD UE65JU7590 65zoll",
+        "price": "220 €",
+        "location": "19322 Brandenburg - Wittenberge",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65d47b95-845d-4547-8f0b-5974163ae1e0?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-smart-curved-tv-3d-4k-ultra-hd-ue65ju7590-65zoll/3507805065-175-7872",
+        "first_seen": "2026-10-07T12:44:52.304081+00:00"
       }
     }
   }

@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-07T12:41:50.878819+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-07T12:41:59.653646+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-07T12:42:11.066631+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-07T12:44:52.304333+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-07T22:45:18.160677+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-07T22:45:27.578388+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-07T22:45:41.503221+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-07T22:48:04.060448+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -2742,7 +2742,7 @@
       "3516863440": {
         "id": "3516863440",
         "title": "Grundig 55 GUB 9688 4K UHD 3D TV + Govee Ambilight + 3D Brillen",
-        "price": "200 â¬",
+        "price": "200 €",
         "location": "85290 Bayern - Geisenfeld",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26dbd8d1-1e45-4d0a-a7ee-506c2b3f4103?rule=$_2.AUTO",
@@ -3818,6 +3818,16 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65d47b95-845d-4547-8f0b-5974163ae1e0?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-smart-curved-tv-3d-4k-ultra-hd-ue65ju7590-65zoll/3507805065-175-7872",
         "first_seen": "2026-10-07T12:44:52.304081+00:00"
+      },
+      "3534269591": {
+        "id": "3534269591",
+        "title": "HDMI Switcher neu! One for All SV1630 3D 4K für 3 HD",
+        "price": "12 € VB",
+        "location": "63755 Bayern - Alzenau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fccd43f6-3a4b-467f-9c38-eec560aa7b3a?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-switcher-neu-one-for-all-sv1630-3d-4k-fuer-3-hd/3534269591-175-7403",
+        "first_seen": "2026-10-07T22:48:04.060175+00:00"
       }
     }
   }

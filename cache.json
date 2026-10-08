@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-08T12:51:22.150129+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-08T12:51:32.978147+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-08T12:51:48.493725+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-08T12:55:15.589255+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-08T22:56:12.551656+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-08T22:56:23.763296+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-08T22:56:37.412911+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-08T23:00:22.594245+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -1741,9 +1741,9 @@
       },
       "3294597074": {
         "id": "3294597074",
-        "title": "LG 55UH850V – 55 Zoll 4K 3D Smart TV",
-        "price": "114 € VB",
-        "location": "47533 Nordrhein-Westfalen - Kleve",
+        "title": "Anzeige",
+        "price": null,
+        "location": null,
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/4686569d-ab99-44f6-95ce-6e6ba648e0d8?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/lg-55uh850v-55-zoll-4k-3d-smart-tv/3294597074-175-1125",
@@ -2901,9 +2901,9 @@
       },
       "3518366396": {
         "id": "3518366396",
-        "title": "3",
-        "price": null,
-        "location": null,
+        "title": "Anycubic Mono 4K SLA 3D-Drucker + Anycubic Wash & Cure Maschine",
+        "price": "100 € VB",
+        "location": "49525 Nordrhein-Westfalen - Lengerich",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f8951ab-ea15-44b4-8a7e-d6ae3bc49c86?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/anycubic-mono-4k-sla-3d-drucker-anycubic-wash-cure-maschine/3518366396-168-1257",
@@ -3888,6 +3888,56 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6ca90ed5-b8a9-4cd5-9ec0-8da0be82d06b?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-neo-qled-4k-50-3d-wandhalterung-bootloop-fehler/3519132393-175-1532",
         "first_seen": "2026-10-08T12:55:15.589020+00:00"
+      },
+      "3535141202": {
+        "id": "3535141202",
+        "title": "SONY BDP S6500 4K UHD Upscale Bluray 3D DVD CD Player + Zubehör",
+        "price": "95 €",
+        "location": "21073 Harburg - Hamburg Eißendorf",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09b2273c-646c-402d-97a7-2f9ab6af3096?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sony-bdp-s6500-4k-uhd-upscale-bluray-3d-dvd-cd-player-zubehoer/3535141202-175-16428",
+        "first_seen": "2026-10-08T23:00:22.594000+00:00"
+      },
+      "3535105921": {
+        "id": "3535105921",
+        "title": "FAMIROSA HDMI Splitter 1×2 4K 3D Verteiler",
+        "price": "10 € VB",
+        "location": "29356 Niedersachsen - Bröckel",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2c/2c8dd9ab-5ecc-46c0-82cd-f49d68413ea7?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/famirosa-hdmi-splitter-1-2-4k-3d-verteiler/3535105921-168-2683",
+        "first_seen": "2026-10-08T23:00:22.594000+00:00"
+      },
+      "3534972749": {
+        "id": "3534972749",
+        "title": "✅ Kabeldirekt pro series 4K 3d hdmi Ultra HD mit Fernbedienung",
+        "price": "40 € VB",
+        "location": "28844 Niedersachsen - Weyhe",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb7829e0-2af5-4c2b-a86f-a47a07005c27?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/-kabeldirekt-pro-series-4k-3d-hdmi-ultra-hd-mit-fernbedienung/3534972749-175-2721",
+        "first_seen": "2026-10-08T23:00:22.594000+00:00"
+      },
+      "3534959508": {
+        "id": "3534959508",
+        "title": "Onkyo AV Receiver TX-NR535 Bluetooth 4K 3D. 5.2",
+        "price": "190 € VB",
+        "location": "85221 Kr. Dachau - Dachau",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1ace35a8-52f5-4888-9af6-c571c777c251?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/onkyo-av-receiver-tx-nr535-bluetooth-4k-3d-5-2/3534959508-172-5977",
+        "first_seen": "2026-10-08T23:00:22.594000+00:00"
+      },
+      "3534779712": {
+        "id": "3534779712",
+        "title": "Anadol Gold Line 5/4 Multischalter (UHD, 4K, 3D)",
+        "price": "30 € VB",
+        "location": "92507 Bayern - Nabburg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb22cdfb-6880-450b-80dd-e1b2dd1b79b0?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/anadol-gold-line-5-4-multischalter-uhd-4k-3d-/3534779712-175-5752",
+        "first_seen": "2026-10-08T23:00:22.594000+00:00"
       }
     }
   }

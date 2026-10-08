@@ -1,9 +1,9 @@
 {
   "fetched_urls": {
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-07T22:45:18.160677+00:00",
-    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-07T22:45:27.578388+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-07T22:45:41.503221+00:00",
-    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-07T22:48:04.060448+00:00"
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3547": "2026-10-08T12:51:22.150129+00:00",
+    "https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548": "2026-10-08T12:51:32.978147+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0": "2026-10-08T12:51:48.493725+00:00",
+    "https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0": "2026-10-08T12:55:15.589255+00:00"
   },
   "ads": {
     "3D - Thüringen": {
@@ -322,7 +322,7 @@
       "3502504559": {
         "id": "3502504559",
         "title": "***Samsung 55 Zoll / 3D-fähig / + Amazon Fire-TV-Stick-4K***",
-        "price": "180 € VB",
+        "price": "155 € VB",
         "location": "97523 Bayern - Schwanfeld",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54ddecf7-6619-4cf0-8a7f-412010b57107?rule=$_2.AUTO",
@@ -2901,9 +2901,9 @@
       },
       "3518366396": {
         "id": "3518366396",
-        "title": "Anycubic Mono 4K SLA 3D-Drucker + Anycubic Wash & Cure Maschine",
-        "price": "100 € VB",
-        "location": "49525 Nordrhein-Westfalen - Lengerich",
+        "title": "3",
+        "price": null,
+        "location": null,
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f8951ab-ea15-44b4-8a7e-d6ae3bc49c86?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/anycubic-mono-4k-sla-3d-drucker-anycubic-wash-cure-maschine/3518366396-168-1257",
@@ -3452,7 +3452,7 @@
       "3528439242": {
         "id": "3528439242",
         "title": "Philips 55\" 4K Ambilight + 3D TV Fernseher",
-        "price": "220 € VB",
+        "price": "195 € VB",
         "location": "26340 Niedersachsen - Zetel",
         "date": null,
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1d0b130-68e2-40f3-8307-29f90b05fbfb?rule=$_2.AUTO",
@@ -3828,6 +3828,66 @@
         "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fccd43f6-3a4b-467f-9c38-eec560aa7b3a?rule=$_2.AUTO",
         "url": "https://www.kleinanzeigen.de/s-anzeige/hdmi-switcher-neu-one-for-all-sv1630-3d-4k-fuer-3-hd/3534269591-175-7403",
         "first_seen": "2026-10-07T22:48:04.060175+00:00"
+      },
+      "3534657565": {
+        "id": "3534657565",
+        "title": "Panasonic DMP-BDT174 Blu-ray Player 4K Upscaling 3D",
+        "price": "35 € VB",
+        "location": "10999 Friedrichshain-Kreuzberg - Kreuzberg",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/6025b7a9-3f46-4c8f-9dc8-ddfb6acbc760?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/panasonic-dmp-bdt174-blu-ray-player-4k-upscaling-3d/3534657565-175-9629",
+        "first_seen": "2026-10-08T12:55:15.589020+00:00"
+      },
+      "3534447737": {
+        "id": "3534447737",
+        "title": "3D Drucker | Anycubic Photon Mono 4k + Viel Zubehör",
+        "price": "160 €",
+        "location": "53881 Nordrhein-Westfalen - Euskirchen",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0ca7a167-11b6-4e95-8dc3-524dd4b4a0e8?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3d-drucker-anycubic-photon-mono-4k-viel-zubehoer/3534447737-168-1894",
+        "first_seen": "2026-10-08T12:55:15.589020+00:00"
+      },
+      "3534343713": {
+        "id": "3534343713",
+        "title": "Anycubic Photon Mono X 4K + Wash & Cure – Resin 3D-Drucker Set",
+        "price": "250 € VB",
+        "location": "09376 Sachsen - Oelsnitz/Erzgeb.",
+        "date": null,
+        "image": null,
+        "url": "https://www.kleinanzeigen.de/s-anzeige/anycubic-photon-mono-x-4k-wash-cure-resin-3d-drucker-set/3534343713-225-3962",
+        "first_seen": "2026-10-08T12:55:15.589020+00:00"
+      },
+      "3534323125": {
+        "id": "3534323125",
+        "title": "VWRHAR HDMI Bi-Direction Switch 4K 60Hz 3D",
+        "price": "11 € VB",
+        "location": "35041 Marburg - Wehrda",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d9970a0-191a-4790-bf62-ea85921f2169?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/vwrhar-hdmi-bi-direction-switch-4k-60hz-3d/3534323125-225-4834",
+        "first_seen": "2026-10-08T12:55:15.589020+00:00"
+      },
+      "3533129778": {
+        "id": "3533129778",
+        "title": "Samsung 65 Zoll 4K UHD Smart TV 3D UE65JU7090T",
+        "price": "250 € VB",
+        "location": "44651 Nordrhein-Westfalen - Herne",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/055f8b7f-06c5-48de-9d62-afa2ff6e1b59?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-65-zoll-4k-uhd-smart-tv-3d-ue65ju7090t/3533129778-175-2000",
+        "first_seen": "2026-10-08T12:55:15.589020+00:00"
+      },
+      "3519132393": {
+        "id": "3519132393",
+        "title": "Samsung Neo QLED 4K 50'+3D Wandhalterung Bootloop fehler",
+        "price": "199 € VB",
+        "location": "51580 Nordrhein-Westfalen - Reichshof",
+        "date": null,
+        "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6ca90ed5-b8a9-4cd5-9ec0-8da0be82d06b?rule=$_2.AUTO",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-neo-qled-4k-50-3d-wandhalterung-bootloop-fehler/3519132393-175-1532",
+        "first_seen": "2026-10-08T12:55:15.589020+00:00"
       }
     }
   }

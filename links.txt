@@ -1,4 +1,4 @@
-[3D - Thüringen]
+[3D TH gezielt]
 https://www.kleinanzeigen.de/s-thueringen/preis::250/55EF9509/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/65EF9509/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/55E6D/k0l3548
@@ -55,8 +55,6 @@ https://www.kleinanzeigen.de/s-thueringen/preis::250/65DXW904/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/55PUS9109/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/65PUS9109/k0l3548
 https://www.kleinanzeigen.de/s-thueringen/preis::250/65PUS9809/k0l3548
-https://www.kleinanzeigen.de/s-thueringen/preis::250/4K 3D/k0l3548
-
 
 [3D - Dtl.]
 https://www.kleinanzeigen.de/s-preis::250/55EF9509/k0
@@ -115,7 +113,9 @@ https://www.kleinanzeigen.de/s-preis::250/65DXW904/k0
 https://www.kleinanzeigen.de/s-preis::250/55PUS9109/k0
 https://www.kleinanzeigen.de/s-preis::250/65PUS9109/k0
 https://www.kleinanzeigen.de/s-preis::250/65PUS9809/k0
+
+[3D alles]
 https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0
 
-
-
+[3D TH alles]
+https://www.kleinanzeigen.de/s-thueringen/preis::250/4K 3D/k0l3548

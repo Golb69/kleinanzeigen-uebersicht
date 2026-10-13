@@ -119,3 +119,9 @@ https://www.kleinanzeigen.de/s-preis::250/4K 3D/k0
 
 [3D TH alles]
 https://www.kleinanzeigen.de/s-thueringen/preis::250/4K 3D/k0l3548
+
+[Sonicare]
+https://www.kleinanzeigen.de/s-preis::30/sonicare/k0
+https://www.kleinanzeigen.de/s-preis::30/sonycare/k0
+https://www.kleinanzeigen.de/s-preis::30/sonycar/k0
+https://www.kleinanzeigen.de/s-preis::30/sonicar/k0

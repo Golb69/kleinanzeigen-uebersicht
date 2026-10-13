@@ -1,19 +1,15 @@
-[3D - Thüringen]
-defekt
-kaputt
-bastler
-nur teile
-ohne funktion
-funktioniert nicht
-schrott
-als ersatzteil
+[3D TH gezielt]
+Defekt
+Blu
+Ersatz
+Riss
+Schaden
 
-[3D - Dtl.]
-defekt
-kaputt
-bastler
-nur teile
-ohne funktion
-funktioniert nicht
-schrott
-als ersatzteil
+[3D - Dtl. gezielt]
+
+
+[3D alles]
+
+
+[3D TH alles]
+

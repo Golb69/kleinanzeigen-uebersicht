@@ -4,12 +4,29 @@ Blu
 Ersatz
 Riss
 Schaden
+Platine
+Board
+Streifen
 
 [3D - Dtl. gezielt]
-
+Defekt
+Blu
+Ersatz
+Riss
+Schaden
+Platine
+Board
+Streifen
 
 [3D alles]
-
+Defekt
+Blu
+Ersatz
+Riss
+Schaden
+Platine
+Board
+Streifen
 
 [3D TH alles]
 

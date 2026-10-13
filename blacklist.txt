@@ -1,11 +1,19 @@
+[3D - Thüringen]
 defekt
 kaputt
 bastler
-teile
+nur teile
 ohne funktion
 funktioniert nicht
 schrott
-ersatzteil
-Blu
-Board
-Platine
+als ersatzteil
+
+[3D - Dtl.]
+defekt
+kaputt
+bastler
+nur teile
+ohne funktion
+funktioniert nicht
+schrott
+als ersatzteil
